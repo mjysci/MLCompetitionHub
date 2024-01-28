@@ -2,6 +2,7 @@ name: MLCompetitionHub
 on:
   watch:
     types: started
+  workflow_dispatch:
 
 jobs:
   build:
