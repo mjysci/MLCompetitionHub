@@ -2,75 +2,42 @@
 
 
 
-## PaddlePaddle&文心大模型——AGI Foundathon 大模型创业松活动
+## 第十九届全国大学生智能汽车竞赛：百度完全模型组竞速赛
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1040  
-Description: 百度飞桨、文心大模型联合百度风投，邀请来自世界各地的AI开发者和创业团队，发挥技术优势和产品能力，基于文心大模型，进行 Generative AI 应用的构思和构建，呈现为可落地、具备商业价值的大模型原生应用产品。  
-Deadline: 2023-10-11T08:00:00+0800  
-Reward: 创业孵化启动金  
-
-
-## PaddlePaddle Hackathon 飞桨黑客马拉松第五期
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1073  
-Description: 第五期 PaddlePaddle Hackathon 飞桨黑客马拉松热身赛上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与飞桨深度学习开源项目与文心大模型开发实践。  
-Deadline: 2023-12-22T08:00:00+0800  
-Reward: ￥500,000  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1141  
+Description: 第十九届全国大学生智能汽车竞赛——百度完全模型竞速组线上练习赛，报名学校可申请百度EdgeBoard开发板免费借用资格。  
+Deadline: 2024-05-31T08:00:00+0800  
+Reward: 教育部榜单赛事  
 
 
-## 第2届·百度搜索创新大赛——搜索答案组织
+## 基于文心大模型智能阅卷平台设计-第十五届中国大学生服务外包创新创业大赛
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1044  
-Description: 第2届·百度搜索创新大赛（简称 STI）是由百度搜索发起，联合全国各大高校、社团、科研组织共同举办的一项全国性科技竞赛。  
-Deadline: 2023-12-02T08:00:00+0800  
-Reward: 8万2千元  
-
-
-## 第2届·百度搜索创新大赛——基于向量交集的TopK搜索
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1046  
-Description: 第2届·百度搜索创新大赛（简称 STI）是由百度搜索发起，联合全国各大高校、社团、科研组织共同举办的一项全国性科技竞赛。  
-Deadline: 2023-12-02T08:00:00+0800  
-Reward: 8万2千元  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1125  
+Description: 中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。  
+Deadline: 2024-07-01T08:00:00+0800  
+Reward: 国赛奖项  
 
 
-## 第2届·百度搜索创新大赛——AI应用设计
+## 文心一言插件设计与开发-第十五届中国大学生服务外包创新创业大赛
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1067  
-Description: 第2届·百度搜索创新大赛（简称 STI）是由百度搜索发起，联合全国各大高校、社团、科研组织共同举办的一项全国性科技竞赛。  
-Deadline: 2023-12-02T08:00:00+0800  
-Reward: 12万元  
-
-
-## 2023IKCEST第五届“一带一路”国际大数据竞赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1030  
-Description: 2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。  
-Deadline: 2023-10-20T08:00:00+0800  
-Reward: ¥20万  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1127  
+Description: 中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。  
+Deadline: 2024-07-01T08:00:00+0800  
+Reward: 国赛奖项  
 
 
-## 2023CSIG-飞桨、工银瑞信金融科技挑战赛
+## 第十九届全国大学生智能汽车竞赛：百度智慧交通组创意赛
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1032  
-Description: 基于AI的量化选股投资策略建模与可视分析  
-Deadline: 2023-09-24T08:00:00+0800  
-Reward: 5万元奖金  
-
-
-## 第2届·百度搜索创新大赛——可控图片生成算法挑战
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1050  
-Description: 第2届·百度搜索创新大赛（简称 STI）是由百度搜索发起，联合全国各大高校、社团、科研组织共同举办的一项全国性科技竞赛。  
-Deadline: 2023-12-02T08:00:00+0800  
-Reward: 8万5千元  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1143  
+Description: 第十九届全国大学生智能汽车竞赛——百度智慧交通组创意赛线上练习赛  
+Deadline: 2024-06-30T08:00:00+0800  
+Reward: 教育部榜单赛事  
 
 
-## 第二届广州·琶洲算法大赛
+## “飞桨杯”重庆市第二届人工智能创新大赛-A赛道：Agent社会行为模拟赛道
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/956  
-Description: “优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。
-“Optimize AI algorithms, making the world more intelligent”, 3 million CNY prize provided for algorithm experts from all over the world  
-Deadline: 2023-09-30T08:00:00+0800  
-Reward: 300万+  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1121  
+Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-Agent社会行为模拟赛道，B-网页生成Prompt指令设计赛道和C-无人驾驶赛道。  
+Deadline: 2024-03-16T08:00:00+0800  
+Reward: 学会盖章+奖金+奖品  
 
