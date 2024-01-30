@@ -2,7 +2,7 @@
 
 
 
-## 非正交导频与数据叠加传输接收方案设计 <sup style="color:red">[new]<sup>  
+## 非正交导频与数据叠加传输接收方案设计
 
 Link: https://www.datafountain.cn/competitions/1000  
 Description: 非正交导频与数据叠加传输接收方案设计  
