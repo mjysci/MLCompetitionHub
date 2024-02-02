@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-02-01T16:00:17+08:00</updated>
+    <updated>2024-02-02T15:59:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -341,20 +341,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532170/introduction"/>
         <summary>随着Transformer架构的不断迭代，以ChatGPT为代表的大语言模型（LLM）参数规模快速增长，导致模型训练时间过长与推理效率过低，对硬件平台带来计算、存储、通信等方面的挑战。由于硬件性能的增长速度远低于大模型规模增长速度，工业界和学术界开始通过模型压缩、软硬件协同等优化方法尝试在有限的硬件条件下部署和运行大模型。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532170/introduction"><![CDATA[<h3>Description</h3>随着Transformer架构的不断迭代，以ChatGPT为代表的大语言模型（LLM）参数规模快速增长，导致模型训练时间过长与推理效率过低，对硬件平台带来计算、存储、通信等方面的挑战。由于硬件性能的增长速度远低于大模型规模增长速度，工业界和学术界开始通过模型压缩、软硬件协同等优化方法尝试在有限的硬件条件下部署和运行大模型。<h3>Deadline: 2024-02-24T23:59:59+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532165/introduction</id>
-        <title><![CDATA[首届明厨亮灶AI算法大赛(赛季 2)]]></title>
-        
-        <updated>2023-11-08T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532165/introduction"/>
-        <summary>为助力公司“放心点”战略，体现饿了么搞好食品安全的决心，增强平台在行业和全社会的影响力，饿了么联合中国食品科学技术学会、中国商业联合会、中国工商出版社、中国电信等单位，联合发起设立了“食品安全创新机制”，共同推动有助于食品安全提升的技术创新和模式创新，“机制”于2023年11月11日正式公开设立发布。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532165/introduction"><![CDATA[<h3>Description</h3>为助力公司“放心点”战略，体现饿了么搞好食品安全的决心，增强平台在行业和全社会的影响力，饿了么联合中国食品科学技术学会、中国商业联合会、中国工商出版社、中国电信等单位，联合发起设立了“食品安全创新机制”，共同推动有助于食品安全提升的技术创新和模式创新，“机制”于2023年11月11日正式公开设立发布。<h3>Deadline: 2024-02-02T18:00:00+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
