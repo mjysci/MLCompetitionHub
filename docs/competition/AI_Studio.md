@@ -38,6 +38,6 @@ Reward: 教育部榜单赛事
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1121  
 Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-Agent社会行为模拟赛道，B-网页生成Prompt指令设计赛道和C-无人驾驶赛道。  
-Deadline: 2024-03-16T08:00:00+0800  
+Deadline: 2024-03-30T08:00:00+0800  
 Reward: 学会盖章+奖金+奖品  
 
