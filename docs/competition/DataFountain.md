@@ -2,6 +2,14 @@
 
 
 
+## 光伏发电出力预测
+
+Link: https://www.datafountain.cn/competitions/1011  
+Description: 光伏发电出力预测  
+Deadline: 2024-04-30T23:59:59+0800  
+Reward: ￥150000  
+
+
 ## 海上风电出力预测
 
 Link: https://www.datafountain.cn/competitions/1008  
