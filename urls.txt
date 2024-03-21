@@ -1152,3 +1152,5 @@ https://signate.jp/competitions/1299
 https://aistudio.baidu.com/aistudio/competition/detail/1131
 https://aistudio.baidu.com/aistudio/competition/detail/1138
 https://www.datafountain.cn/competitions/1011
+https://www.datafountain.cn/competitions/1012
+https://tianchi.aliyun.com/competition/entrance/532179/introduction
