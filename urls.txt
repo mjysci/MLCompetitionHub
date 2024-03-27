@@ -1154,3 +1154,6 @@ https://aistudio.baidu.com/aistudio/competition/detail/1138
 https://www.datafountain.cn/competitions/1011
 https://www.datafountain.cn/competitions/1012
 https://tianchi.aliyun.com/competition/entrance/532179/introduction
+https://www.biendata.xyz/competition/ind_kdd_2024/
+https://www.biendata.xyz/competition/pst_kdd_2024/
+https://www.biendata.xyz/competition/aqa_kdd_2024/

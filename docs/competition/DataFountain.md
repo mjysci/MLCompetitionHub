@@ -2,11 +2,11 @@
 
 
 
-## 首届“神思杯”城市生命线·AI解题挑战赛 <sup style="color:red">[new]<sup>  
+## 首届“神思杯”城市生命线·AI解题挑战赛
 
 Link: https://www.datafountain.cn/competitions/1012  
 Description: 首届“神思杯”城市生命线·AI解题挑战赛  
-Deadline: 2024-04-20T23:59:59+0800  
+Deadline: 2024-04-23T23:59:59+0800  
 Reward: ￥280000  
 
 
