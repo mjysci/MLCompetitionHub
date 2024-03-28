@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-03-27T16:00:20+08:00</updated>
+    <updated>2024-03-28T16:00:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -111,20 +111,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/pst_kdd_2024/</id>
-        <title><![CDATA[PST-KDD-2024]]></title>
-        
-        <updated>2024-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/pst_kdd_2024/"/>
-        <summary>PST-KDD-2024</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/pst_kdd_2024/"><![CDATA[<h3>Description</h3>PST-KDD-2024<h3>Deadline: 2024-06-07T08:00:00+08:00</h3><h3>Reward: $10,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/aqa_kdd_2024/</id>
         <title><![CDATA[AQA-KDD-2024]]></title>
         
@@ -133,6 +119,20 @@
         <link href="https://www.biendata.xyz/competition/aqa_kdd_2024/"/>
         <summary>AQA-KDD-2024</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/aqa_kdd_2024/"><![CDATA[<h3>Description</h3>AQA-KDD-2024<h3>Deadline: 2024-06-07T08:00:00+08:00</h3><h3>Reward: $10,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/pst_kdd_2024/</id>
+        <title><![CDATA[PST-KDD-2024]]></title>
+        
+        <updated>2024-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/pst_kdd_2024/"/>
+        <summary>PST-KDD-2024</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/pst_kdd_2024/"><![CDATA[<h3>Description</h3>PST-KDD-2024<h3>Deadline: 2024-06-07T08:00:00+08:00</h3><h3>Reward: $10,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -326,7 +326,7 @@
         <id>https://www.datafountain.cn/competitions/1012</id>
         <title><![CDATA[首届“神思杯”城市生命线·AI解题挑战赛]]></title>
         
-        <updated>2024-03-20T00:00:00+08:00</updated>
+        <updated>2024-03-15T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/1012"/>
         <summary>首届“神思杯”城市生命线·AI解题挑战赛</summary>
