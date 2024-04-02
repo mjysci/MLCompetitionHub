@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-04-01T16:00:10+08:00</updated>
+    <updated>2024-04-02T16:00:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -344,21 +344,7 @@
         
         <link href="https://www.datafountain.cn/competitions/1011"/>
         <summary>光伏发电出力预测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1011"><![CDATA[<h3>Description</h3>光伏发电出力预测<h3>Deadline: 2024-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1005</id>
-        <title><![CDATA[少样本条件下的社交平台话题识别]]></title>
-        
-        <updated>2024-02-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1005"/>
-        <summary>少样本条件下的社交平台话题识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1005"><![CDATA[<h3>Description</h3>少样本条件下的社交平台话题识别<h3>Deadline: 2024-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1011"><![CDATA[<h3>Description</h3>光伏发电出力预测<h3>Deadline: 2024-04-03T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
