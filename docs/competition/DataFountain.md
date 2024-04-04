@@ -10,14 +10,6 @@ Deadline: 2024-04-23T23:59:59+0800
 Reward: ￥280000  
 
 
-## 光伏发电出力预测
-
-Link: https://www.datafountain.cn/competitions/1011  
-Description: 光伏发电出力预测  
-Deadline: 2024-04-03T23:59:59+0800  
-Reward: ￥150000  
-
-
 ## 非正交导频与数据叠加传输接收方案设计
 
 Link: https://www.datafountain.cn/competitions/1000  

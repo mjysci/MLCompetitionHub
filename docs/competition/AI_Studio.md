@@ -2,6 +2,14 @@
 
 
 
+## 《大模型零代码应用开发》组队打榜赛-4月 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1153  
+Description: 大模型时代入门必修课，让所有领域的每一位学习者和工作者都能快速入门并开发AI应用  
+Deadline: 2025-04-30T08:00:00+0800  
+Reward: 小度智能屏X10等  
+
+
 ## PaddleOCR 算法模型挑战赛 - 赛题一：OCR 端到端识别任务
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1131  
