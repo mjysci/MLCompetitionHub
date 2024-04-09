@@ -10,6 +10,14 @@ Deadline: 2025-04-30T08:00:00+0800
 Reward: 小度智能屏X10等  
 
 
+## 龙源电力第一届新能源智能算法竞赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1133  
+Description: 为推进新能源产业数字化、智能化转型，深挖数据资产价值，围绕新能源行业共性难点痛点，吸引优秀算法团队，促进人工智能等相关技术在新能源领域落地应用，国家能源集团龙源电力组织开展第一届新能源智能算法竞赛。  
+Deadline: 2024-08-20T08:00:00+0800  
+Reward: 700万+  
+
+
 ## PaddleOCR 算法模型挑战赛 - 赛题一：OCR 端到端识别任务
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1131  
@@ -48,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1127
 Description: 中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。  
 Deadline: 2024-07-01T08:00:00+0800  
 Reward: 国赛奖项  
-
-
-## 第十九届全国大学生智能汽车竞赛：百度智慧交通组创意赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1143  
-Description: 第十九届全国大学生智能汽车竞赛——百度智慧交通组创意赛线上练习赛  
-Deadline: 2024-06-30T08:00:00+0800  
-Reward: 教育部榜单赛事  
 

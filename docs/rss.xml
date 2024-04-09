@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-04-08T16:00:00+08:00</updated>
+    <updated>2024-04-09T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1153"/>
         <summary>大模型时代入门必修课，让所有领域的每一位学习者和工作者都能快速入门并开发AI应用</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1153"><![CDATA[<h3>Description</h3>大模型时代入门必修课，让所有领域的每一位学习者和工作者都能快速入门并开发AI应用<h3>Deadline: 2025-04-30T08:00:00+08:00</h3><h3>Reward: 小度智能屏X10等</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1133</id>
+        <title><![CDATA[龙源电力第一届新能源智能算法竞赛]]></title>
+        
+        <updated>2024-01-11T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1133"/>
+        <summary>为推进新能源产业数字化、智能化转型，深挖数据资产价值，围绕新能源行业共性难点痛点，吸引优秀算法团队，促进人工智能等相关技术在新能源领域落地应用，国家能源集团龙源电力组织开展第一届新能源智能算法竞赛。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1133"><![CDATA[<h3>Description</h3>为推进新能源产业数字化、智能化转型，深挖数据资产价值，围绕新能源行业共性难点痛点，吸引优秀算法团队，促进人工智能等相关技术在新能源领域落地应用，国家能源集团龙源电力组织开展第一届新能源智能算法竞赛。<h3>Deadline: 2024-08-20T08:00:00+08:00</h3><h3>Reward: 700万+</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -89,20 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1127"/>
         <summary>中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1127"><![CDATA[<h3>Description</h3>中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。<h3>Deadline: 2024-07-01T08:00:00+08:00</h3><h3>Reward: 国赛奖项</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1143</id>
-        <title><![CDATA[第十九届全国大学生智能汽车竞赛：百度智慧交通组创意赛]]></title>
-        
-        <updated>2024-01-21T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1143"/>
-        <summary>第十九届全国大学生智能汽车竞赛——百度智慧交通组创意赛线上练习赛</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1143"><![CDATA[<h3>Description</h3>第十九届全国大学生智能汽车竞赛——百度智慧交通组创意赛线上练习赛<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -392,7 +392,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532170/introduction"/>
         <summary>随着Transformer架构的不断迭代，以ChatGPT为代表的大语言模型（LLM）参数规模快速增长，导致模型训练时间过长与推理效率过低，对硬件平台带来计算、存储、通信等方面的挑战。由于硬件性能的增长速度远低于大模型规模增长速度，工业界和学术界开始通过模型压缩、软硬件协同等优化方法尝试在有限的硬件条件下部署和运行大模型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532170/introduction"><![CDATA[<h3>Description</h3>随着Transformer架构的不断迭代，以ChatGPT为代表的大语言模型（LLM）参数规模快速增长，导致模型训练时间过长与推理效率过低，对硬件平台带来计算、存储、通信等方面的挑战。由于硬件性能的增长速度远低于大模型规模增长速度，工业界和学术界开始通过模型压缩、软硬件协同等优化方法尝试在有限的硬件条件下部署和运行大模型。<h3>Deadline: 2024-04-11T02:00:02+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532170/introduction"><![CDATA[<h3>Description</h3>随着Transformer架构的不断迭代，以ChatGPT为代表的大语言模型（LLM）参数规模快速增长，导致模型训练时间过长与推理效率过低，对硬件平台带来计算、存储、通信等方面的挑战。由于硬件性能的增长速度远低于大模型规模增长速度，工业界和学术界开始通过模型压缩、软硬件协同等优化方法尝试在有限的硬件条件下部署和运行大模型。<h3>Deadline: 2024-04-11T01:00:02+08:00</h3><h3>Reward: $15000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
