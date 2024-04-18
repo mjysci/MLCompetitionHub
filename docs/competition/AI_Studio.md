@@ -2,6 +2,14 @@
 
 
 
+## 2024中国软件杯”大学生软件设计大赛——飞桨小汪赛道 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1169  
+Description: 中国软件杯——基于文心大模型的智能四足机器狗森林巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，首次结合大语言模型，打造融技术、人文和竞技于一体的高水平赛事。  
+Deadline: 2024-06-30T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 《大模型零代码应用开发》组队打榜赛-4月
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1153  
@@ -45,14 +53,6 @@ Reward: 教育部榜单赛事
 ## 基于文心大模型智能阅卷平台设计-第十五届中国大学生服务外包创新创业大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1125  
-Description: 中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。  
-Deadline: 2024-07-01T08:00:00+0800  
-Reward: 国赛奖项  
-
-
-## 文心一言插件设计与开发-第十五届中国大学生服务外包创新创业大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1127  
 Description: 中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。  
 Deadline: 2024-07-01T08:00:00+0800  
 Reward: 国赛奖项  
