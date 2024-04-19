@@ -2,7 +2,7 @@
 
 
 
-## 2024中国软件杯”大学生软件设计大赛——飞桨小汪赛道 <sup style="color:red">[new]<sup>  
+## 2024中国软件杯”大学生软件设计大赛——飞桨小汪赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1169  
 Description: 中国软件杯——基于文心大模型的智能四足机器狗森林巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，首次结合大语言模型，打造融技术、人文和竞技于一体的高水平赛事。  
