@@ -1160,3 +1160,4 @@ https://www.biendata.xyz/competition/aqa_kdd_2024/
 https://aistudio.baidu.com/aistudio/competition/detail/1153
 https://aistudio.baidu.com/aistudio/competition/detail/1133
 https://aistudio.baidu.com/aistudio/competition/detail/1169
+https://aistudio.baidu.com/aistudio/competition/detail/1178

@@ -10,6 +10,14 @@ Deadline: 2024-06-30T08:00:00+0800
 Reward: 教育部榜单赛事  
 
 
+## 南京大学∙百度“星河杯”AI大模型创意大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1178  
+Description: 大赛由本科生院主办，校团委、新生学院共同协办，由百度飞桨星河社区提供平台和技术支持，各专业的同学均可组队参赛，无需具备编程基础，关键在创新创意，实现0代码或低代码完成AI大模型项目的设计、开发、运行，体验AI大模型产品从项目开发到项目展示和商业运行的全流程。  
+Deadline: 2024-05-29T08:00:00+0800  
+Reward: 万元奖金+百度游学+证书奖品  
+
+
 ## 《大模型零代码应用开发》组队打榜赛-4月
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1153  
@@ -48,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1141
 Description: 第十九届全国大学生智能汽车竞赛——百度完全模型竞速组线上练习赛，报名学校可申请百度EdgeBoard开发板免费借用资格。  
 Deadline: 2024-05-31T08:00:00+0800  
 Reward: 教育部榜单赛事  
-
-
-## 基于文心大模型智能阅卷平台设计-第十五届中国大学生服务外包创新创业大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1125  
-Description: 中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于文心大模型的智能阅卷平台设计与开发”和“文心一言插件设计与开发”两个赛道，报名截止日期为3月20日。  
-Deadline: 2024-07-01T08:00:00+0800  
-Reward: 国赛奖项  
 
