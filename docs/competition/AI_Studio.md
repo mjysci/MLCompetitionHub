@@ -2,6 +2,14 @@
 
 
 
+## LIC·2024 语言与智能技术竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1171  
+Description: 2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。  
+Deadline: 2024-07-31T08:00:00+0800  
+Reward: ¥140,000  
+
+
 ## 《大模型零代码应用开发》组队打榜赛-4月
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1153  

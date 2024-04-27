@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-04-26T16:00:12+08:00</updated>
+    <updated>2024-04-27T16:00:16+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1171</id>
+        <title><![CDATA[LIC·2024 语言与智能技术竞赛]]></title>
+        
+        <updated>2024-04-26T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1171"/>
+        <summary>2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1171"><![CDATA[<h3>Description</h3>2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。<h3>Deadline: 2024-07-31T08:00:00+08:00</h3><h3>Reward: ¥140,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1153</id>
@@ -349,8 +363,6 @@
             <name><![CDATA[DataFountain]]></name>
         </author>
     </entry>
-    
-    
     
     
     
