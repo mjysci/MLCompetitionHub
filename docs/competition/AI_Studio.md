@@ -10,14 +10,6 @@ Deadline: 2024-07-31T08:00:00+0800
 Reward: ¥140,000  
 
 
-## 《大模型零代码应用开发》组队打榜赛-4月
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1153  
-Description: 大模型时代入门必修课，让所有领域的每一位学习者和工作者都能快速入门并开发AI应用  
-Deadline: 2025-04-30T08:00:00+0800  
-Reward: 小度智能屏X10等  
-
-
 ## 2024中国软件杯”大学生软件设计大赛——智能编辑器赛道 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1182  
