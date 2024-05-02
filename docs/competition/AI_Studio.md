@@ -10,7 +10,7 @@ Deadline: 2024-07-31T08:00:00+0800
 Reward: ¥140,000  
 
 
-## 2024中国软件杯”大学生软件设计大赛——智能编辑器赛道 <sup style="color:red">[new]<sup>  
+## 2024中国软件杯”大学生软件设计大赛——智能编辑器赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1182  
 Description: 中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。  
