@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-05-09T16:00:06+08:00</updated>
+    <updated>2024-05-10T16:00:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -327,20 +327,6 @@
     
     
     
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532179/introduction</id>
-        <title><![CDATA[CCL2024-Eval 第二届汉语框架语义解析评测(赛季 3)]]></title>
-        
-        <updated>2024-03-19T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532179/introduction"/>
-        <summary>框架语义解析（Frame Semantic Parsing，FSP）是自然语言处理领域中的一项重要任务，其目标是从句中提取框架语义结构[1]，实现对句子中涉及到的事件或情境的深层理解。FSP在阅读理解[2-3]、文本摘要[4-5]、关系抽取[6]等下游任务有着重要意义。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532179/introduction"><![CDATA[<h3>Description</h3>框架语义解析（Frame Semantic Parsing，FSP）是自然语言处理领域中的一项重要任务，其目标是从句中提取框架语义结构[1]，实现对句子中涉及到的事件或情境的深层理解。FSP在阅读理解[2-3]、文本摘要[4-5]、关系抽取[6]等下游任务有着重要意义。<h3>Deadline: 2024-05-09T17:59:59+08:00</h3><h3>Reward: ￥4000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532087/introduction</id>
