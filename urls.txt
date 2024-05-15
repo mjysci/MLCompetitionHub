@@ -1166,3 +1166,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1171
 https://tianchi.aliyun.com/competition/entrance/532182/introduction
 https://tianchi.aliyun.com/competition/entrance/532183/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/1186
+https://tianchi.aliyun.com/competition/entrance/532197/introduction
