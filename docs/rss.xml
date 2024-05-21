@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-05-20T15:57:49+08:00</updated>
+    <updated>2024-05-21T15:58:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -413,6 +413,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532183/introduction</id>
+        <title><![CDATA[CCKS2024——大模型零样本知识抽取评测(赛季 1)]]></title>
+        
+        <updated>2024-04-22T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532183/introduction"/>
+        <summary>随着深度学习和预训练模型技术的飞速发展，零样本知识抽取正吸引着越来越多的关注。在零样本知识抽取任务中，我们探究如何利用大型预训练语言模型如ChatGPT、Mistral、LLaMA、ChatGLM、文心一言、通义等，在没有任何针对特定任务标注数据的情况下，提取文本中的结构化信息。这些先进的语言模型内嵌了丰富的世界知识，能够通过其庞大的参数化网络对文本进行理解和分析，体现出它们在知识获取和任务泛化方面的优势。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532183/introduction"><![CDATA[<h3>Description</h3>随着深度学习和预训练模型技术的飞速发展，零样本知识抽取正吸引着越来越多的关注。在零样本知识抽取任务中，我们探究如何利用大型预训练语言模型如ChatGPT、Mistral、LLaMA、ChatGLM、文心一言、通义等，在没有任何针对特定任务标注数据的情况下，提取文本中的结构化信息。这些先进的语言模型内嵌了丰富的世界知识，能够通过其庞大的参数化网络对文本进行理解和分析，体现出它们在知识获取和任务泛化方面的优势。<h3>Deadline: 2024-07-15T23:59:59+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532182/introduction</id>
         <title><![CDATA[CCKS2024——大模型知识编辑评测(赛季 1)]]></title>
         
@@ -437,62 +451,6 @@
 为了推动LLM在数字金融领域的发展，并解决实际金融业务问题。招商银行联合中科院自动化所、科大讯飞股份有限公司，结合实际生产场景，推出数字金融领域评测基准（Digital Finance Model Evaluation Benchmark，DFMEB）。该评测基准包含六大场景（知识问答、文本理解、内容生成、逻辑推理、安全合规、AI智能体），涵盖69种金融任务，有利于帮助快速评测LLM在金融领域的表现。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532198/introduction"><![CDATA[<h3>Description</h3>随着GPT的诞生，大语言模型（Large Language Model, LLM）在自然语言处理领域掀起了新一轮研究狂潮。近一年多时间，国内外大模型纷纷出炉，不断刷新人们对各项任务的认知。面对各种各样的大模型，如何评价其综合能力，成为一项热门研究任务。
 为了推动LLM在数字金融领域的发展，并解决实际金融业务问题。招商银行联合中科院自动化所、科大讯飞股份有限公司，结合实际生产场景，推出数字金融领域评测基准（Digital Finance Model Evaluation Benchmark，DFMEB）。该评测基准包含六大场景（知识问答、文本理解、内容生成、逻辑推理、安全合规、AI智能体），涵盖69种金融任务，有利于帮助快速评测LLM在金融领域的表现。<h3>Deadline: 2024-07-19T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532196/introduction</id>
-        <title><![CDATA[CCKS2024——人物知识图谱复杂问答推理评测(赛季 1)]]></title>
-        
-        <updated>2024-05-14T23:00:59+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532196/introduction"/>
-        <summary>人物是人类社会活动和事件组成的核心要素之一，与人物相关的信息查询和推理问答很常见，与其他领域的问答不同，人物相关的问答具有以下两种特点：（1）涉及数值统计和计算，如查询某歌手在2024年发表的专辑数量，（2）涉及人物关系的复杂推理，如查询某人的侄子是谁，但此信息并为被显式存储，需要根据兄弟关系和儿子关系推理得出。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532196/introduction"><![CDATA[<h3>Description</h3>人物是人类社会活动和事件组成的核心要素之一，与人物相关的信息查询和推理问答很常见，与其他领域的问答不同，人物相关的问答具有以下两种特点：（1）涉及数值统计和计算，如查询某歌手在2024年发表的专辑数量，（2）涉及人物关系的复杂推理，如查询某人的侄子是谁，但此信息并为被显式存储，需要根据兄弟关系和儿子关系推理得出。<h3>Deadline: 2024-07-14T23:59:59+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532190/introduction</id>
-        <title><![CDATA[CCKS2024——面向篇章级文本的突发事件摘要生成任务评测(赛季 1)]]></title>
-        
-        <updated>2024-05-08T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532190/introduction"/>
-        <summary>突发事件一般指对社会造成或可能会造成比较严重的危害，需要人们采取应急管理措施从而应对的公共卫生事件、事故灾难事件、自然灾害事件和社会安全事件。伴随着社交媒体的快速发展，互联网上突发事件的相关信息也急剧增多。从篇章级的新闻报道中自动化地生成突发事件的摘要，凝练突发事件的关键信息，从而提高政府机构和公众获取突发事件核心内容的效率，对于国家和社会安全具有十分重要的意义。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532190/introduction"><![CDATA[<h3>Description</h3>突发事件一般指对社会造成或可能会造成比较严重的危害，需要人们采取应急管理措施从而应对的公共卫生事件、事故灾难事件、自然灾害事件和社会安全事件。伴随着社交媒体的快速发展，互联网上突发事件的相关信息也急剧增多。从篇章级的新闻报道中自动化地生成突发事件的摘要，凝练突发事件的关键信息，从而提高政府机构和公众获取突发事件核心内容的效率，对于国家和社会安全具有十分重要的意义。<h3>Deadline: 2024-07-15T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532189/introduction</id>
-        <title><![CDATA[CCKS2024——面向篇章级文本的突发事件关系抽取评测(赛季 1)]]></title>
-        
-        <updated>2024-05-08T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532189/introduction"/>
-        <summary>突发事件一般指对社会造成或可能会造成比较严重的危害，需要人们采取应急管理措施从而应对的公共卫生事件、事故灾难事件、自然灾害事件和社会安全事件。伴随着社交媒体的快速发展，互联网上突发事件的相关信息也急剧增多。从篇章级的新闻报道中准确识别突发事件之间的因果和时序关系，有助于分析事件的演化和发展脉络，从而对突发事件进行及时的态势研判，对于国家和社会安全具有十分重要的意义。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532189/introduction"><![CDATA[<h3>Description</h3>突发事件一般指对社会造成或可能会造成比较严重的危害，需要人们采取应急管理措施从而应对的公共卫生事件、事故灾难事件、自然灾害事件和社会安全事件。伴随着社交媒体的快速发展，互联网上突发事件的相关信息也急剧增多。从篇章级的新闻报道中准确识别突发事件之间的因果和时序关系，有助于分析事件的演化和发展脉络，从而对突发事件进行及时的态势研判，对于国家和社会安全具有十分重要的意义。<h3>Deadline: 2024-07-15T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532183/introduction</id>
-        <title><![CDATA[CCKS2024——大模型零样本知识抽取评测(赛季 1)]]></title>
-        
-        <updated>2024-04-22T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532183/introduction"/>
-        <summary>随着深度学习和预训练模型技术的飞速发展，零样本知识抽取正吸引着越来越多的关注。在零样本知识抽取任务中，我们探究如何利用大型预训练语言模型如ChatGPT、Mistral、LLaMA、ChatGLM、文心一言、通义等，在没有任何针对特定任务标注数据的情况下，提取文本中的结构化信息。这些先进的语言模型内嵌了丰富的世界知识，能够通过其庞大的参数化网络对文本进行理解和分析，体现出它们在知识获取和任务泛化方面的优势。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532183/introduction"><![CDATA[<h3>Description</h3>随着深度学习和预训练模型技术的飞速发展，零样本知识抽取正吸引着越来越多的关注。在零样本知识抽取任务中，我们探究如何利用大型预训练语言模型如ChatGPT、Mistral、LLaMA、ChatGLM、文心一言、通义等，在没有任何针对特定任务标注数据的情况下，提取文本中的结构化信息。这些先进的语言模型内嵌了丰富的世界知识，能够通过其庞大的参数化网络对文本进行理解和分析，体现出它们在知识获取和任务泛化方面的优势。<h3>Deadline: 2024-07-15T23:59:59+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
