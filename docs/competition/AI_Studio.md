@@ -18,6 +18,14 @@ Deadline: 2024-06-30T08:00:00+0800
 Reward: 瓜分百万奖励  
 
 
+## 千帆杯AI原生应用创意挑战赛-教育生态行业赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1194  
+Description: 聚焦于教育场景，精准洞察不同教育场景下存在的问题，需要使用百度智能云千帆AppBuilder作为开发工具，利用平台提供的模型与组件等工具链，构建能够快速投入产业实践的新型应用。  
+Deadline: 2024-07-05T08:00:00+0800  
+Reward: 200000  
+
+
 ## 2024中国软件杯”大学生软件设计大赛——智能编辑器赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1182  
@@ -48,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1133
 Description: 为推进新能源产业数字化、智能化转型，深挖数据资产价值，围绕新能源行业共性难点痛点，吸引优秀算法团队，促进人工智能等相关技术在新能源领域落地应用，国家能源集团龙源电力组织开展第一届新能源智能算法竞赛。  
 Deadline: 2024-08-20T08:00:00+0800  
 Reward: 700万+  
-
-
-## 第十九届全国大学生智能汽车竞赛：百度智慧交通组创意赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1143  
-Description: 第十九届全国大学生智能汽车竞赛——百度智慧交通组创意赛线上练习赛  
-Deadline: 2024-06-30T08:00:00+0800  
-Reward: 教育部榜单赛事  
 
