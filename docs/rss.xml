@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-05-23T15:57:57+08:00</updated>
+    <updated>2024-05-24T15:57:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -32,7 +32,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1186"/>
         <summary>智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1186"><![CDATA[<h3>Description</h3>智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 瓜分百万奖励</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1186"><![CDATA[<h3>Description</h3>智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。<h3>Deadline: 2024-06-25T08:00:00+08:00</h3><h3>Reward: 瓜分百万奖励</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -457,6 +457,288 @@
     </entry>
     
     
+    
+    
+    
+    <entry>
+        <id>https://zindi.africa/competitions/melio-mlops-competition</id>
+        <title><![CDATA[Melio MLOps Machine Translation Challenge]]></title>
+        
+        <updated>2024-03-03T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/melio-mlops-competition"/>
+        <summary>Can you build and deploy a machine translation solution from Dyula to French?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/melio-mlops-competition"><![CDATA[<h3>Description</h3>Can you build and deploy a machine translation solution from Dyula to French?<h3>Deadline: 2024-08-05T07:59:00+08:00</h3><h3>Reward: $6 500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling</id>
+        <title><![CDATA[AI/ML for 5G-Energy Consumption Modelling ]]></title>
+        
+        <updated>2023-07-26T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling"/>
+        <summary>Can you predict energy consumption of different 5G products?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling"><![CDATA[<h3>Description</h3>Can you predict energy consumption of different 5G products?<h3>Deadline: 2023-10-14T07:59:00+08:00</h3><h3>Reward: 20 000 CHF</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/rmb-cpi-nowcasting-challenge</id>
+        <title><![CDATA[RMB CPI Nowcasting Challenge]]></title>
+        
+        <updated>2023-09-01T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/rmb-cpi-nowcasting-challenge"/>
+        <summary>Can you nowcast South African CPI?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/rmb-cpi-nowcasting-challenge"><![CDATA[<h3>Description</h3>Can you nowcast South African CPI?<h3>Deadline: 2023-12-13T03:59:00+08:00</h3><h3>Reward: $17 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge</id>
+        <title><![CDATA[Wadhwani AI Bollworm Counting Challenge]]></title>
+        
+        <updated>2022-09-23T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge"/>
+        <summary>Can you  improve a pest control app by counting the number of bollworm moths per image?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge"><![CDATA[<h3>Description</h3>Can you  improve a pest control app by counting the number of bollworm moths per image?<h3>Deadline: 2022-12-05T07:59:00+08:00</h3><h3>Reward: €15 000 EUR</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi</id>
+        <title><![CDATA[Traffic Jam: Predicting People's Movement into Nairobi]]></title>
+        
+        <updated>2018-09-06T08:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi"/>
+        <summary>Uber and Mobiticket team up to predict demand for public transportation into Nairobi</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi"><![CDATA[<h3>Description</h3>Uber and Mobiticket team up to predict demand for public transportation into Nairobi<h3>Deadline: 2019-01-14T08:00:00+08:00</h3><h3>Reward: $12 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/farm-pin-crop-detection-challenge</id>
+        <title><![CDATA[Farm Pin Crop Detection Challenge]]></title>
+        
+        <updated>2019-03-04T08:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/farm-pin-crop-detection-challenge"/>
+        <summary>Classify fields in South Africa by crop type using Sentinel-2 satellite imagery</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/farm-pin-crop-detection-challenge"><![CDATA[<h3>Description</h3>Classify fields in South Africa by crop type using Sentinel-2 satellite imagery<h3>Deadline: 2019-09-16T08:00:00+08:00</h3><h3>Reward: $11 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge</id>
+        <title><![CDATA[Uwazi Citizen Science Challenge]]></title>
+        
+        <updated>2024-05-03T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge"/>
+        <summary>Can you collect data on African crops to contribute to the future of AI on the continent?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge"><![CDATA[<h3>Description</h3>Can you collect data on African crops to contribute to the future of AI on the continent?<h3>Deadline: 2024-06-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge</id>
+        <title><![CDATA[ITU Digital Financial Services Blockchain Secure Authentication Application Challenge]]></title>
+        
+        <updated>2024-05-02T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge"/>
+        <summary>Can you build a passwordless authentication application? </summary>
+        <content type="text/html" src="https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge"><![CDATA[<h3>Description</h3>Can you build a passwordless authentication application? <h3>Deadline: 2024-08-02T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge</id>
+        <title><![CDATA[Arm UNICEF Disaster Vulnerability Challenge]]></title>
+        
+        <updated>2024-03-15T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"/>
+        <summary>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"><![CDATA[<h3>Description</h3>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?<h3>Deadline: 2024-06-24T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge</id>
+        <title><![CDATA[CGIAR Crop Damage Classification Challenge]]></title>
+        
+        <updated>2023-10-27T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge"/>
+        <summary>Can you identify types of damage in cellphone images of crops?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge"><![CDATA[<h3>Description</h3>Can you identify types of damage in cellphone images of crops?<h3>Deadline: 2024-01-29T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge</id>
+        <title><![CDATA[CGIAR Eyes on the Ground Challenge]]></title>
+        
+        <updated>2023-07-21T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"/>
+        <summary>Can you predict drought damage from smartphone images of crops?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"><![CDATA[<h3>Description</h3>Can you predict drought damage from smartphone images of crops?<h3>Deadline: 2023-11-04T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/digital-africa-plantation-counting-challenge</id>
+        <title><![CDATA[Digital Africa Plantation Counting Challenge]]></title>
+        
+        <updated>2023-02-23T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
+        <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
+        <title><![CDATA[Africa Biomass Challenge]]></title>
+        
+        <updated>2023-01-27T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
+        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/agrifieldnet-india-challenge</id>
+        <title><![CDATA[AgriFieldNet India Challenge]]></title>
+        
+        <updated>2022-09-05T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/agrifieldnet-india-challenge"/>
+        <summary>Can you detect crop types in a class-imbalanced satellite image dataset?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/agrifieldnet-india-challenge"><![CDATA[<h3>Description</h3>Can you detect crop types in a class-imbalanced satellite image dataset?<h3>Deadline: 2022-11-01T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/turtle-recall-conservation-challenge</id>
+        <title><![CDATA[Turtle Recall: Conservation Challenge]]></title>
+        
+        <updated>2021-11-19T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/turtle-recall-conservation-challenge"/>
+        <summary>Can you build a facial recognition model... for turtles?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/turtle-recall-conservation-challenge"><![CDATA[<h3>Description</h3>Can you build a facial recognition model... for turtles?<h3>Deadline: 2022-04-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/lacuna-correct-field-detection-challenge</id>
+        <title><![CDATA[Lacuna - Correct Field Detection Challenge]]></title>
+        
+        <updated>2021-03-26T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"/>
+        <summary>Can you design a method to accurately find field locations?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"><![CDATA[<h3>Description</h3>Can you design a method to accurately find field locations?<h3>Deadline: 2021-07-05T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi</id>
+        <title><![CDATA[UNICEF Arm 2030 Vision #1: Flood Prediction in Malawi]]></title>
+        
+        <updated>2019-12-02T08:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi"/>
+        <summary>Predict flood extent caused by storms in southern Malawi</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi"><![CDATA[<h3>Description</h3>Predict flood extent caused by storms in southern Malawi<h3>Deadline: 2020-05-18T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
+        <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
+        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance</id>
+        <title><![CDATA[Fault Impact Analysis: Towards Service-Oriented Network Operation &amp; Maintenance ]]></title>
+        
+        <updated>2023-07-26T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance"/>
+        <summary>Can you predict an NE’s average data rate change when a fault occurs?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance"><![CDATA[<h3>Description</h3>Can you predict an NE’s average data rate change when a fault occurs?<h3>Deadline: 2023-08-19T07:59:00+08:00</h3><h3>Reward: 8 000 CHF</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
     
     
 </feed>

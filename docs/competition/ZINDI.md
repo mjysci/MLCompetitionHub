@@ -2,58 +2,162 @@
 
 
 
-## DataFest Africa Noise Pollution Classification Challenge <sup style="color:red">[new]<sup>  
+## Melio MLOps Machine Translation Challenge
 
-Link: https://zindi.africa/competitions/datafest-africa-2022  
-Description: Can you predict noise levels in Kampala?  
-Deadline: 2022-07-26T19:59:00+0800  
-Reward: $1 000 USD  
-
-
-## Zindi Weekendz: Layer.ai Air Quality Prediction Challenge <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/zindi-weekendz-layerai-air-quality-prediction-challenge  
-Description: Can you use Sentinel 5P data to predict air quality in Kampala for AirQo?  
-Deadline: 2022-07-04T07:59:00+0800  
-Reward: $300 USD  
+Link: https://zindi.africa/competitions/melio-mlops-competition  
+Description: Can you build and deploy a machine translation solution from Dyula to French?  
+Deadline: 2024-08-05T07:59:00+0800  
+Reward: $6 500 USD  
 
 
-## Alvin Smart Money Management Classification Challenge <sup style="color:red">[new]<sup>  
+## AI/ML for 5G-Energy Consumption Modelling 
 
-Link: https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge  
-Description: Can you classify purchases recorded on Alvin into different categories?  
-Deadline: 2022-07-25T07:59:00+0800  
-Reward: $3 000 USD  
-
-
-## Laduma Analytics Football League Winners Prediction Challenge
-
-Link: https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge  
-Description: Can you predict the outcome of a football match based on historical data?  
-Deadline: 2022-09-05T07:59:00+0800  
-Reward: $2 000 USD  
+Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
+Description: Can you predict energy consumption of different 5G products?  
+Deadline: 2023-10-14T07:59:00+0800  
+Reward: 20 000 CHF  
 
 
-## AI4D Africa’s Anglophone Research Lab Tanzania Tourism Classification Challenge
+## RMB CPI Nowcasting Challenge
 
-Link: https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge  
-Description: Can you use tourism survey data and ML to classify the range of expenditures a tourist spends in Tanzania?  
-Deadline: 2022-07-01T23:00:00+0800  
-Reward: $1 000 USD  
-
-
-## Fossil Demand Forecasting Challenge
-
-Link: https://zindi.africa/competitions/fossil-stock-forecasting-challenge  
-Description: Can you forecast the watch units required by Fossil, four months into the future?  
-Deadline: 2022-08-29T07:59:00+0800  
-Reward: $5 000 USD  
+Link: https://zindi.africa/competitions/rmb-cpi-nowcasting-challenge  
+Description: Can you nowcast South African CPI?  
+Deadline: 2023-12-13T03:59:00+0800  
+Reward: $17 000 USD  
 
 
-## Makerere Fall Armyworm Crop Challenge
+## Wadhwani AI Bollworm Counting Challenge
 
-Link: https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge  
-Description: Can you determine if maize crops have been affected by the fall armyworm pest?  
-Deadline: 2022-07-24T07:59:00+0800  
-Reward: $1 000 USD  
+Link: https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge  
+Description: Can you  improve a pest control app by counting the number of bollworm moths per image?  
+Deadline: 2022-12-05T07:59:00+0800  
+Reward: €15 000 EUR  
+
+
+## Traffic Jam: Predicting People's Movement into Nairobi
+
+Link: https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi  
+Description: Uber and Mobiticket team up to predict demand for public transportation into Nairobi  
+Deadline: 2019-01-14T08:00:00+0800  
+Reward: $12 000 USD  
+
+
+## Farm Pin Crop Detection Challenge
+
+Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge  
+Description: Classify fields in South Africa by crop type using Sentinel-2 satellite imagery  
+Deadline: 2019-09-16T08:00:00+0800  
+Reward: $11 000 USD  
+
+
+## Uwazi Citizen Science Challenge
+
+Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
+Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
+Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
+
+Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
+Description: Can you build a passwordless authentication application?   
+Deadline: 2024-08-02T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Arm UNICEF Disaster Vulnerability Challenge
+
+Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
+Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
+Deadline: 2024-06-24T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## CGIAR Crop Damage Classification Challenge
+
+Link: https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge  
+Description: Can you identify types of damage in cellphone images of crops?  
+Deadline: 2024-01-29T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## CGIAR Eyes on the Ground Challenge
+
+Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
+Description: Can you predict drought damage from smartphone images of crops?  
+Deadline: 2023-11-04T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Digital Africa Plantation Counting Challenge
+
+Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
+Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
+Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Turtle Recall: Conservation Challenge
+
+Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
+Description: Can you build a facial recognition model... for turtles?  
+Deadline: 2022-04-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Lacuna - Correct Field Detection Challenge
+
+Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
+Description: Can you design a method to accurately find field locations?  
+Deadline: 2021-07-05T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## UNICEF Arm 2030 Vision #1: Flood Prediction in Malawi
+
+Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi  
+Description: Predict flood extent caused by storms in southern Malawi  
+Deadline: 2020-05-18T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Radiant Earth Spot the Crop XL Challenge
+
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
+Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
+Deadline: 2021-10-04T07:59:00+0800  
+Reward: $8 800 USD  
+
+
+## Radiant Earth Spot the Crop Challenge
+
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
+Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
+Deadline: 2021-10-04T07:59:00+0800  
+Reward: $8 800USD  
+
+
+## Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance 
+
+Link: https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance  
+Description: Can you predict an NE’s average data rate change when a fault occurs?  
+Deadline: 2023-08-19T07:59:00+0800  
+Reward: 8 000 CHF  
 
