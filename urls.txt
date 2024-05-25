@@ -1191,3 +1191,7 @@ https://zindi.africa/competitions/africa-biomass-challenge
 https://zindi.africa/competitions/agrifieldnet-india-challenge
 https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi
 https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance
+https://www.biendata.xyz/competition/ccf_agent_2024/
+https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks
+https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge
+https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge

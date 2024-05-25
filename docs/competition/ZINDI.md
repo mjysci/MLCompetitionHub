@@ -10,6 +10,54 @@ Deadline: 2024-08-05T07:59:00+0800
 Reward: $6 500 USD  
 
 
+## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
+
+Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
+Description: Can you build a passwordless authentication application?   
+Deadline: 2024-08-02T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Specializing Large Language Models for Telecom Networks 
+
+Link: https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks  
+Description: The Impact of Large Language Models on 6G and Beyond  
+Deadline: 2024-07-06T07:59:00+0800  
+Reward: €6 000  
+
+
+## Arm UNICEF Disaster Vulnerability Challenge
+
+Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
+Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
+Deadline: 2024-06-24T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Togo Fiber Optics Uptake Prediction Challenge
+
+Link: https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge  
+Description: Can you predict which households and businesses will have fiber optics access?  
+Deadline: 2024-06-24T07:59:00+0800  
+Reward: 3,000,000 XOF to be shared  
+
+
+## AirQo African Air Quality Prediction Challenge
+
+Link: https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge  
+Description: Can you use Sentinel 5P data to predict air quality around Africa for environmental justice?  
+Deadline: 2024-06-17T07:59:00+0800  
+Reward: $3 000 USD & Implementation Contract  
+
+
+## Uwazi Citizen Science Challenge
+
+Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
+Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
+Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -48,30 +96,6 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Classify fields in South Africa by crop type using Sentinel-2 satellite imagery  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
-
-
-## Uwazi Citizen Science Challenge
-
-Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
-Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
-Deadline: 2024-06-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
-
-Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
-Description: Can you build a passwordless authentication application?   
-Deadline: 2024-08-02T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Arm UNICEF Disaster Vulnerability Challenge
-
-Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
-Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
-Deadline: 2024-06-24T07:59:00+0800  
-Reward: $10 000 USD  
 
 
 ## CGIAR Crop Damage Classification Challenge
@@ -136,28 +160,4 @@ Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi
 Description: Predict flood extent caused by storms in southern Malawi  
 Deadline: 2020-05-18T07:59:00+0800  
 Reward: $10 000 USD  
-
-
-## Radiant Earth Spot the Crop XL Challenge
-
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
-Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
-Deadline: 2021-10-04T07:59:00+0800  
-Reward: $8 800 USD  
-
-
-## Radiant Earth Spot the Crop Challenge
-
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
-Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
-Deadline: 2021-10-04T07:59:00+0800  
-Reward: $8 800USD  
-
-
-## Fault Impact Analysis: Towards Service-Oriented Network Operation & Maintenance 
-
-Link: https://zindi.africa/competitions/fault-impact-analysis-towards-service-oriented-network-operation-maintenance  
-Description: Can you predict an NE’s average data rate change when a fault occurs?  
-Deadline: 2023-08-19T07:59:00+0800  
-Reward: 8 000 CHF  
 

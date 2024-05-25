@@ -2,6 +2,14 @@
 
 
 
+## 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccf_agent_2024/  
+Description: 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛  
+Deadline: 2024-07-17T08:00:00+0800  
+Reward: ￥100,000 现金奖励 + 百万级算力支持  
+
+
 ## WhoIsWho-IND-KDD-2024
 
 Link: https://www.biendata.xyz/competition/ind_kdd_2024/  
