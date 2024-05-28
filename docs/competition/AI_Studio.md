@@ -2,20 +2,20 @@
 
 
 
-## LIC·2024 语言与智能技术竞赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1171  
-Description: 2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。  
-Deadline: 2024-07-31T08:00:00+0800  
-Reward: ¥140,000  
-
-
 ## 文心智能体大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1186  
 Description: 智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。  
 Deadline: 2024-06-25T08:00:00+0800  
 Reward: 瓜分百万奖励  
+
+
+## LIC·2024 语言与智能技术竞赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1171  
+Description: 2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。  
+Deadline: 2024-07-31T08:00:00+0800  
+Reward: ¥140,000  
 
 
 ## 千帆杯AI原生应用创意挑战赛-教育生态行业赛
@@ -42,18 +42,18 @@ Deadline: 2024-06-30T08:00:00+0800
 Reward: 教育部榜单赛事  
 
 
-## 南京大学∙百度“星河杯”AI大模型创意大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1178  
-Description: 大赛由本科生院主办，校团委、新生学院共同协办，由百度飞桨星河社区提供平台和技术支持，各专业的同学均可组队参赛，无需具备编程基础，关键在创新创意，实现0代码或低代码完成AI大模型项目的设计、开发、运行，体验AI大模型产品从项目开发到项目展示和商业运行的全流程。  
-Deadline: 2024-05-29T08:00:00+0800  
-Reward: 万元奖金+百度游学+证书奖品  
-
-
 ## 龙源电力第一届新能源智能算法竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1133  
 Description: 为推进新能源产业数字化、智能化转型，深挖数据资产价值，围绕新能源行业共性难点痛点，吸引优秀算法团队，促进人工智能等相关技术在新能源领域落地应用，国家能源集团龙源电力组织开展第一届新能源智能算法竞赛。  
 Deadline: 2024-08-20T08:00:00+0800  
 Reward: 700万+  
+
+
+## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
+Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
+Deadline: 2024-10-31T08:00:00+0800  
+Reward: 教育部榜单赛事  
 

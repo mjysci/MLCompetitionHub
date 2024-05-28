@@ -1195,3 +1195,6 @@ https://www.biendata.xyz/competition/ccf_agent_2024/
 https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks
 https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge
 https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge
+https://www.datafountain.cn/competitions/1026
+https://www.datafountain.cn/competitions/1025
+https://www.datafountain.cn/competitions/1024

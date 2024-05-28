@@ -2,12 +2,12 @@
 
 
 
-## Melio MLOps Machine Translation Challenge
+## Uwazi Citizen Science Challenge
 
-Link: https://zindi.africa/competitions/melio-mlops-competition  
-Description: Can you build and deploy a machine translation solution from Dyula to French?  
-Deadline: 2024-08-05T07:59:00+0800  
-Reward: $6 500 USD  
+Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
+Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
+Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
 
 
 ## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
@@ -18,20 +18,28 @@ Deadline: 2024-08-02T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## Specializing Large Language Models for Telecom Networks 
-
-Link: https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks  
-Description: The Impact of Large Language Models on 6G and Beyond  
-Deadline: 2024-07-06T07:59:00+0800  
-Reward: €6 000  
-
-
 ## Arm UNICEF Disaster Vulnerability Challenge
 
 Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
 Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
 Deadline: 2024-06-24T07:59:00+0800  
 Reward: $10 000 USD  
+
+
+## Melio MLOps Machine Translation Challenge
+
+Link: https://zindi.africa/competitions/melio-mlops-competition  
+Description: Can you build and deploy a machine translation solution from Dyula to French?  
+Deadline: 2024-08-05T07:59:00+0800  
+Reward: $6 500 USD  
+
+
+## Specializing Large Language Models for Telecom Networks 
+
+Link: https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks  
+Description: The Impact of Large Language Models on 6G and Beyond  
+Deadline: 2024-07-06T07:59:00+0800  
+Reward: €6 000  
 
 
 ## Togo Fiber Optics Uptake Prediction Challenge
@@ -48,14 +56,6 @@ Link: https://zindi.africa/competitions/airqo-african-air-quality-prediction-cha
 Description: Can you use Sentinel 5P data to predict air quality around Africa for environmental justice?  
 Deadline: 2024-06-17T07:59:00+0800  
 Reward: $3 000 USD & Implementation Contract  
-
-
-## Uwazi Citizen Science Challenge
-
-Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
-Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
-Deadline: 2024-06-10T07:59:00+0800  
-Reward: $10 000 USD  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
