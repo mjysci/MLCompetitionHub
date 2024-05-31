@@ -1198,3 +1198,8 @@ https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge
 https://www.datafountain.cn/competitions/1026
 https://www.datafountain.cn/competitions/1025
 https://www.datafountain.cn/competitions/1024
+https://aistudio.baidu.com/aistudio/competition/detail/1198
+https://aistudio.baidu.com/aistudio/competition/detail/1188
+https://aistudio.baidu.com/aistudio/competition/detail/1190
+https://aistudio.baidu.com/aistudio/competition/detail/1192
+https://tianchi.aliyun.com/competition/entrance/532221/introduction

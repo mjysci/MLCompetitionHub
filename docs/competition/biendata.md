@@ -2,7 +2,7 @@
 
 
 
-## 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛 <sup style="color:red">[new]<sup>  
+## 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛
 
 Link: https://www.biendata.xyz/competition/ccf_agent_2024/  
 Description: 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛  
