@@ -1211,3 +1211,4 @@ https://tianchi.aliyun.com/competition/entrance/532194/introduction
 https://tianchi.aliyun.com/competition/entrance/532193/introduction
 https://tianchi.aliyun.com/competition/entrance/532213/introduction
 https://tianchi.aliyun.com/competition/entrance/532219/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/1210

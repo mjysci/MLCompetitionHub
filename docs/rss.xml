@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-06-05T15:57:46+08:00</updated>
+    <updated>2024-06-06T15:58:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1210</id>
+        <title><![CDATA[ComfyUI模版积分赛]]></title>
+        
+        <updated>2024-06-06T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1210"/>
+        <summary>ComfyUI过关斩将系列第 3 关！创作提交工作流模板立即得 1 小时时长，参与即有！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1210"><![CDATA[<h3>Description</h3>ComfyUI过关斩将系列第 3 关！创作提交工作流模板立即得 1 小时时长，参与即有！<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 精美奖品+运行时长</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1186</id>
@@ -666,7 +680,7 @@
         
         <link href="https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks"/>
         <summary>The Impact of Large Language Models on 6G and Beyond</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks"><![CDATA[<h3>Description</h3>The Impact of Large Language Models on 6G and Beyond<h3>Deadline: 2024-07-06T07:59:00+08:00</h3><h3>Reward: €6 000</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks"><![CDATA[<h3>Description</h3>The Impact of Large Language Models on 6G and Beyond<h3>Deadline: 2024-07-27T07:59:00+08:00</h3><h3>Reward: €6 000</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

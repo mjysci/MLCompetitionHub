@@ -38,7 +38,7 @@ Reward: $6 500 USD
 
 Link: https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks  
 Description: The Impact of Large Language Models on 6G and Beyond  
-Deadline: 2024-07-06T07:59:00+0800  
+Deadline: 2024-07-27T07:59:00+0800  
 Reward: €6 000  
 
 
