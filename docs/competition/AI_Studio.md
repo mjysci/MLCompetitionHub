@@ -26,7 +26,7 @@ Deadline: 2024-07-05T08:00:00+0800
 Reward: 200000  
 
 
-## 千帆杯AI原生应用创意挑战赛——新手训练营 <sup style="color:red">[new]<sup>  
+## 千帆杯AI原生应用创意挑战赛——新手训练营
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1198  
 Description: 围绕健康、电商、文娱等主题，基于AppBuilder平台，调用平台内置工具组件/自定义组件/知识库/数据库等，创建一个可以在工作、生活中产生实用价值的应用。  
