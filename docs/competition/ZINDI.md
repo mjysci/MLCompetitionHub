@@ -2,14 +2,6 @@
 
 
 
-## Uwazi Citizen Science Challenge
-
-Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
-Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
-Deadline: 2024-06-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
 ## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
 
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
@@ -96,6 +88,14 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Classify fields in South Africa by crop type using Sentinel-2 satellite imagery  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
+
+
+## Uwazi Citizen Science Challenge
+
+Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
+Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
+Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
 
 
 ## CGIAR Crop Damage Classification Challenge
