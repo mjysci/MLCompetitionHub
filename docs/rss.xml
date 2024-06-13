@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-06-12T15:57:57+08:00</updated>
+    <updated>2024-06-13T15:57:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -61,6 +61,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1198"/>
         <summary>围绕健康、电商、文娱等主题，基于AppBuilder平台，调用平台内置工具组件/自定义组件/知识库/数据库等，创建一个可以在工作、生活中产生实用价值的应用。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1198"><![CDATA[<h3>Description</h3>围绕健康、电商、文娱等主题，基于AppBuilder平台，调用平台内置工具组件/自定义组件/知识库/数据库等，创建一个可以在工作、生活中产生实用价值的应用。<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 百度精美周边</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1200</id>
+        <title><![CDATA[千帆杯AI原生应用创意挑战赛——知识库/数据库常规赛]]></title>
+        
+        <updated>2024-06-12T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1200"/>
+        <summary>本期比赛不限应用创作主题，参赛者需使用AppBuilder创建应用，所提交的参赛应用作品中必须包含知识库或数据库。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1200"><![CDATA[<h3>Description</h3>本期比赛不限应用创作主题，参赛者需使用AppBuilder创建应用，所提交的参赛应用作品中必须包含知识库或数据库。<h3>Deadline: 2024-07-11T08:00:00+08:00</h3><h3>Reward: 千元京东卡、百度周边等</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1182"/>
         <summary>中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1182"><![CDATA[<h3>Description</h3>中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1169</id>
-        <title><![CDATA[2024中国软件杯”大学生软件设计大赛——飞桨小汪赛道]]></title>
-        
-        <updated>2024-04-12T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1169"/>
-        <summary>中国软件杯——基于文心大模型的智能四足机器狗森林巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，首次结合大语言模型，打造融技术、人文和竞技于一体的高水平赛事。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1169"><![CDATA[<h3>Description</h3>中国软件杯——基于文心大模型的智能四足机器狗森林巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，首次结合大语言模型，打造融技术、人文和竞技于一体的高水平赛事。<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -508,7 +508,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532202/introduction"/>
         <summary>在云计算领域，对 ECS（Elastic Compute Service）主机进行性能监控和资源配置优化是确保服务稳定性和提升资源利用效率的关键。 本次比赛旨在如何通过分析 ECS 性能数据和任务信息，利用深度学习、序列分析等先进技术，生成特定机器的性能指标。参赛者的解决方案将为云资源管理和优化决策提供重要参考，助力云计算资源的高效稳定运行和智能化调度。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532202/introduction"><![CDATA[<h3>Description</h3>在云计算领域，对 ECS（Elastic Compute Service）主机进行性能监控和资源配置优化是确保服务稳定性和提升资源利用效率的关键。 本次比赛旨在如何通过分析 ECS 性能数据和任务信息，利用深度学习、序列分析等先进技术，生成特定机器的性能指标。参赛者的解决方案将为云资源管理和优化决策提供重要参考，助力云计算资源的高效稳定运行和智能化调度。<h3>Deadline: 2024-08-22T18:00:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532202/introduction"><![CDATA[<h3>Description</h3>在云计算领域，对 ECS（Elastic Compute Service）主机进行性能监控和资源配置优化是确保服务稳定性和提升资源利用效率的关键。 本次比赛旨在如何通过分析 ECS 性能数据和任务信息，利用深度学习、序列分析等先进技术，生成特定机器的性能指标。参赛者的解决方案将为云资源管理和优化决策提供重要参考，助力云计算资源的高效稳定运行和智能化调度。<h3>Deadline: 2024-07-16T12:00:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

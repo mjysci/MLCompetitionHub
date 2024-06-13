@@ -1215,3 +1215,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1210
 https://tianchi.aliyun.com/competition/entrance/532215/introduction
 https://tianchi.aliyun.com/competition/entrance/532202/introduction
 https://tianchi.aliyun.com/competition/entrance/532192/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/1200

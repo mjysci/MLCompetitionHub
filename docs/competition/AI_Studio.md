@@ -2,7 +2,7 @@
 
 
 
-## ComfyUI模版积分赛 <sup style="color:red">[new]<sup>  
+## ComfyUI模版积分赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1210  
 Description: ComfyUI过关斩将系列第 3 关！创作提交工作流模板立即得 1 小时时长，参与即有！  
@@ -32,6 +32,14 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1198
 Description: 围绕健康、电商、文娱等主题，基于AppBuilder平台，调用平台内置工具组件/自定义组件/知识库/数据库等，创建一个可以在工作、生活中产生实用价值的应用。  
 Deadline: 2024-06-30T08:00:00+0800  
 Reward: 百度精美周边  
+
+
+## 千帆杯AI原生应用创意挑战赛——知识库/数据库常规赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1200  
+Description: 本期比赛不限应用创作主题，参赛者需使用AppBuilder创建应用，所提交的参赛应用作品中必须包含知识库或数据库。  
+Deadline: 2024-07-11T08:00:00+0800  
+Reward: 千元京东卡、百度周边等  
 
 
 ## 百度商业AI技术创新大赛赛道一：基于大模型的广告检索
@@ -70,14 +78,6 @@ Reward: ¥140,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1182  
 Description: 中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。  
-Deadline: 2024-06-30T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 2024中国软件杯”大学生软件设计大赛——飞桨小汪赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1169  
-Description: 中国软件杯——基于文心大模型的智能四足机器狗森林巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，首次结合大语言模型，打造融技术、人文和竞技于一体的高水平赛事。  
 Deadline: 2024-06-30T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
