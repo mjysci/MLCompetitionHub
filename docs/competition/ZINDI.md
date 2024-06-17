@@ -42,14 +42,6 @@ Deadline: 2024-06-24T07:59:00+0800
 Reward: 3,000,000 XOF to be shared  
 
 
-## AirQo African Air Quality Prediction Challenge
-
-Link: https://zindi.africa/competitions/airqo-african-air-quality-prediction-challenge  
-Description: Can you use Sentinel 5P data to predict air quality around Africa for environmental justice?  
-Deadline: 2024-06-17T07:59:00+0800  
-Reward: $3 000 USD & Implementation Contract  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -160,4 +152,12 @@ Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi
 Description: Predict flood extent caused by storms in southern Malawi  
 Deadline: 2020-05-18T07:59:00+0800  
 Reward: $10 000 USD  
+
+
+## Radiant Earth Spot the Crop Challenge
+
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
+Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
+Deadline: 2021-10-04T07:59:00+0800  
+Reward: $8 800USD  
 
