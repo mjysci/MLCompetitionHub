@@ -1216,3 +1216,4 @@ https://tianchi.aliyun.com/competition/entrance/532215/introduction
 https://tianchi.aliyun.com/competition/entrance/532202/introduction
 https://tianchi.aliyun.com/competition/entrance/532192/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/1200
+https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge

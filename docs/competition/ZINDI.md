@@ -34,6 +34,14 @@ Deadline: 2024-07-27T07:59:00+0800
 Reward: €6 000  
 
 
+## GeoAI Ground-level NO2 Estimation Challenge 
+
+Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge  
+Description: Can you estimate ground-level NO2 concentrations using remote sensing data?  
+Deadline: 2024-11-16T07:59:00+0800  
+Reward: 1000 CHF  
+
+
 ## Togo Fiber Optics Uptake Prediction Challenge
 
 Link: https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge  
@@ -152,12 +160,4 @@ Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi
 Description: Predict flood extent caused by storms in southern Malawi  
 Deadline: 2020-05-18T07:59:00+0800  
 Reward: $10 000 USD  
-
-
-## Radiant Earth Spot the Crop Challenge
-
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
-Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
-Deadline: 2021-10-04T07:59:00+0800  
-Reward: $8 800USD  
 
