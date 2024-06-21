@@ -1,11 +1,17 @@
-> 更新时间: 2024-06-20T16:00:12+0800 
+> 更新时间: 2024-06-21T16:00:12+0800 
 
 # 新上线比赛
 
 
-## GeoAI Ground-level NO2 Estimation Challenge 
-Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge  
-Description: Can you estimate ground-level NO2 concentrations using remote sensing data?  
-Deadline: 2024-11-16T07:59:00+0800  
-Reward: 1000 CHF  
+## 2024全球人工智能技术创新大赛—算法挑战赛——赛道1：无人机视角下的双光目标检测
+Link: https://www.kesci.com/home/competition/65f7abcf019d8282037f3924  
+Description: 2024全球人工智能技术创新大赛—算法挑战赛——赛道1：无人机视角下的双光目标检测  
+Deadline: 2024-06-21T23:59:00+0800  
+Reward: ￥300,000  
+
+## 2024全球人工智能技术创新大赛—算法挑战赛——赛道2：无人机视角下的双光人群计数
+Link: https://www.kesci.com/home/competition/65f7b42e019d8282037f8924  
+Description: 2024全球人工智能技术创新大赛—算法挑战赛——赛道2：无人机视角下的双光人群计数  
+Deadline: 2024-06-21T23:59:00+0800  
+Reward: ￥300,000  
 
