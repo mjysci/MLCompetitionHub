@@ -18,6 +18,14 @@ Deadline: 2024-06-25T08:00:00+0800
 Reward: 瓜分百万奖励  
 
 
+## 2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&西安交大大数据竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
+Description: 2024年赛题：AI体育赛事解说  
+Deadline: 2024-11-01T08:00:00+0800  
+Reward: ¥20万  
+
+
 ## 千帆杯AI原生应用创意挑战赛-教育生态行业赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1194  
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1171
 Description: 2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。  
 Deadline: 2024-07-31T08:00:00+0800  
 Reward: ¥140,000  
-
-
-## 2024中国软件杯”大学生软件设计大赛——智能编辑器赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1182  
-Description: 中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。  
-Deadline: 2024-06-30T08:00:00+0800  
-Reward: 教育部榜单赛事  
 

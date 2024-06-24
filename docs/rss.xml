@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-06-23T15:59:57+08:00</updated>
+    <updated>2024-06-24T16:00:15+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1186"/>
         <summary>智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1186"><![CDATA[<h3>Description</h3>智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。<h3>Deadline: 2024-06-25T08:00:00+08:00</h3><h3>Reward: 瓜分百万奖励</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1196</id>
+        <title><![CDATA[2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&amp;西安交大大数据竞赛]]></title>
+        
+        <updated>2024-06-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1196"/>
+        <summary>2024年赛题：AI体育赛事解说</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1196"><![CDATA[<h3>Description</h3>2024年赛题：AI体育赛事解说<h3>Deadline: 2024-11-01T08:00:00+08:00</h3><h3>Reward: ¥20万</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1171"/>
         <summary>2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1171"><![CDATA[<h3>Description</h3>2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。<h3>Deadline: 2024-07-31T08:00:00+08:00</h3><h3>Reward: ¥140,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1182</id>
-        <title><![CDATA[2024中国软件杯”大学生软件设计大赛——智能编辑器赛道]]></title>
-        
-        <updated>2024-04-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1182"/>
-        <summary>中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1182"><![CDATA[<h3>Description</h3>中国软件杯——基于大小模型协同的在线编辑器设计与开发，将引导参赛团队基于飞桨与文心大模型，打造一个结合AI大模型与小模型的高智能度、体验流畅、功能全面、性能卓越的在线文档编辑器产品。<h3>Deadline: 2024-06-30T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -589,20 +589,6 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge</id>
-        <title><![CDATA[Arm UNICEF Disaster Vulnerability Challenge]]></title>
-        
-        <updated>2024-03-15T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"/>
-        <summary>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"><![CDATA[<h3>Description</h3>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?<h3>Deadline: 2024-06-24T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/melio-mlops-competition</id>
         <title><![CDATA[Melio MLOps Machine Translation Challenge]]></title>
         
@@ -639,20 +625,6 @@
         <link href="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"/>
         <summary>Can you estimate ground-level NO2 concentrations using remote sensing data?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"><![CDATA[<h3>Description</h3>Can you estimate ground-level NO2 concentrations using remote sensing data?<h3>Deadline: 2024-11-16T07:59:00+08:00</h3><h3>Reward: 1000 CHF</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge</id>
-        <title><![CDATA[Togo Fiber Optics Uptake Prediction Challenge]]></title>
-        
-        <updated>2024-05-07T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge"/>
-        <summary>Can you predict which households and businesses will have fiber optics access?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge"><![CDATA[<h3>Description</h3>Can you predict which households and businesses will have fiber optics access?<h3>Deadline: 2024-06-24T07:59:00+08:00</h3><h3>Reward: 3,000,000 XOF to be shared</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -737,6 +709,20 @@
         <link href="https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge"/>
         <summary>Can you collect data on African crops to contribute to the future of AI on the continent?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge"><![CDATA[<h3>Description</h3>Can you collect data on African crops to contribute to the future of AI on the continent?<h3>Deadline: 2024-06-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge</id>
+        <title><![CDATA[Arm UNICEF Disaster Vulnerability Challenge]]></title>
+        
+        <updated>2024-03-15T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"/>
+        <summary>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"><![CDATA[<h3>Description</h3>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?<h3>Deadline: 2024-06-24T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -849,6 +835,20 @@
         <link href="https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi"/>
         <summary>Predict flood extent caused by storms in southern Malawi</summary>
         <content type="text/html" src="https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi"><![CDATA[<h3>Description</h3>Predict flood extent caused by storms in southern Malawi<h3>Deadline: 2020-05-18T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
+        <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

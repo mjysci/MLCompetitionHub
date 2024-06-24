@@ -10,14 +10,6 @@ Deadline: 2024-08-02T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## Arm UNICEF Disaster Vulnerability Challenge
-
-Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
-Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
-Deadline: 2024-06-24T07:59:00+0800  
-Reward: $10 000 USD  
-
-
 ## Melio MLOps Machine Translation Challenge
 
 Link: https://zindi.africa/competitions/melio-mlops-competition  
@@ -40,14 +32,6 @@ Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challe
 Description: Can you estimate ground-level NO2 concentrations using remote sensing data?  
 Deadline: 2024-11-16T07:59:00+0800  
 Reward: 1000 CHF  
-
-
-## Togo Fiber Optics Uptake Prediction Challenge
-
-Link: https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge  
-Description: Can you predict which households and businesses will have fiber optics access?  
-Deadline: 2024-06-24T07:59:00+0800  
-Reward: 3,000,000 XOF to be shared  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -95,6 +79,14 @@ Reward: $11 000 USD
 Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
 Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
 Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Arm UNICEF Disaster Vulnerability Challenge
+
+Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
+Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
+Deadline: 2024-06-24T07:59:00+0800  
 Reward: $10 000 USD  
 
 
@@ -160,4 +152,12 @@ Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi
 Description: Predict flood extent caused by storms in southern Malawi  
 Deadline: 2020-05-18T07:59:00+0800  
 Reward: $10 000 USD  
+
+
+## Radiant Earth Spot the Crop XL Challenge
+
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
+Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
+Deadline: 2021-10-04T07:59:00+0800  
+Reward: $8 800 USD  
 

@@ -1219,3 +1219,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1200
 https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge
 https://www.kesci.com/home/competition/65f7abcf019d8282037f3924
 https://www.kesci.com/home/competition/65f7b42e019d8282037f8924
+https://aistudio.baidu.com/aistudio/competition/detail/1196
