@@ -10,14 +10,6 @@ Deadline: 2024-06-30T08:00:00+0800
 Reward: 精美奖品+运行时长  
 
 
-## 文心智能体大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1186  
-Description: 智能体技术的快速发展带动了用户需求和实际应用场景仍需进一步探索。为激发开发者的创意潜能，探索具有应用价值的智能体，“文心智能体大赛”应运而生。本赛季赛题将采用征集制，鼓励开发者积极提出赛题设想，设计出具有实际应用价值的智能体。大赛还为开发者提供百万奖金池、百亿流量包、与技术大咖深度交流、免费AI课程等支持，诚邀广大开发者积极参与，共同探索无限可能。  
-Deadline: 2024-06-25T08:00:00+0800  
-Reward: 瓜分百万奖励  
-
-
 ## 2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&西安交大大数据竞赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
