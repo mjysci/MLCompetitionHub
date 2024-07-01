@@ -1221,3 +1221,4 @@ https://www.kesci.com/home/competition/65f7abcf019d8282037f3924
 https://www.kesci.com/home/competition/65f7b42e019d8282037f8924
 https://aistudio.baidu.com/aistudio/competition/detail/1196
 https://tianchi.aliyun.com/competition/entrance/532239/introduction
+https://www.biendata.xyz/competition/siemens-ai/

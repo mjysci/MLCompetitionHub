@@ -154,10 +154,10 @@ Deadline: 2020-05-18T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## Radiant Earth Spot the Crop XL Challenge
+## Radiant Earth Spot the Crop Challenge
 
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
-Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
+Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
 Deadline: 2021-10-04T07:59:00+0800  
-Reward: $8 800 USD  
+Reward: $8 800USD  
 

@@ -2,6 +2,14 @@
 
 
 
+## Generative AI Application Competition: Code Generation for Industrial Software
+
+Link: https://www.biendata.xyz/competition/siemens-ai/  
+Description: Generative AI Application Competition: Code Generation for Industrial Software  
+Deadline: 2024-08-15T08:00:00+0800  
+Reward: 84,000 RMB  
+
+
 ## 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛
 
 Link: https://www.biendata.xyz/competition/ccf_agent_2024/  

@@ -2,14 +2,6 @@
 
 
 
-## ComfyUI模版积分赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1210  
-Description: ComfyUI过关斩将系列第 3 关！创作提交工作流模板立即得 1 小时时长，参与即有！  
-Deadline: 2024-06-30T08:00:00+0800  
-Reward: 精美奖品+运行时长  
-
-
 ## 2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&西安交大大数据竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
@@ -24,14 +16,6 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1194
 Description: 聚焦于教育场景，精准洞察不同教育场景下存在的问题，需要使用百度智能云千帆AppBuilder作为开发工具，利用平台提供的模型与组件等工具链，构建能够快速投入产业实践的新型应用。  
 Deadline: 2024-07-05T08:00:00+0800  
 Reward: 200000  
-
-
-## 千帆杯AI原生应用创意挑战赛——新手训练营
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1198  
-Description: 围绕健康、电商、文娱等主题，基于AppBuilder平台，调用平台内置工具组件/自定义组件/知识库/数据库等，创建一个可以在工作、生活中产生实用价值的应用。  
-Deadline: 2024-06-30T08:00:00+0800  
-Reward: 百度精美周边  
 
 
 ## 千帆杯AI原生应用创意挑战赛——知识库/数据库常规赛
