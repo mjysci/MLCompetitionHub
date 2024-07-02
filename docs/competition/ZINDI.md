@@ -14,7 +14,7 @@ Reward: $10 000 USD
 
 Link: https://zindi.africa/competitions/melio-mlops-competition  
 Description: Can you build and deploy a machine translation solution from Dyula to French?  
-Deadline: 2024-08-05T07:59:00+0800  
+Deadline: 2024-09-02T07:59:00+0800  
 Reward: $6 500 USD  
 
 
@@ -154,10 +154,10 @@ Deadline: 2020-05-18T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## Radiant Earth Spot the Crop Challenge
+## Radiant Earth Spot the Crop XL Challenge
 
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
-Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
+Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
 Deadline: 2021-10-04T07:59:00+0800  
-Reward: $8 800USD  
+Reward: $8 800 USD  
 
