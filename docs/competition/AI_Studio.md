@@ -2,6 +2,14 @@
 
 
 
+## ComfyUI模版积分赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1210  
+Description: ComfyUI过关斩将系列第 3 关！创作提交工作流模板立即得 1 小时时长，参与即有！  
+Deadline: 2024-07-03T08:00:00+0800  
+Reward: 精美奖品+运行时长  
+
+
 ## 2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&西安交大大数据竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
