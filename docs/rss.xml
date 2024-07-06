@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-07-05T16:00:13+08:00</updated>
+    <updated>2024-07-06T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -75,20 +75,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1190"/>
         <summary>在百度商业营销场景，广告图片生成精细化描述具有重要意义和价值。当前，随着大模型时代的到来，利用多模态大语言模型（MLLM）生成图片描述已经成为业界的通用做法（DallE3，Sora, Stable Diffusion3）。本赛道任务是广告图片描述生成，期望通过高质量数据和建模优化，提升图片描述的准确性和完备性。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1190"><![CDATA[<h3>Description</h3>在百度商业营销场景，广告图片生成精细化描述具有重要意义和价值。当前，随着大模型时代的到来，利用多模态大语言模型（MLLM）生成图片描述已经成为业界的通用做法（DallE3，Sora, Stable Diffusion3）。本赛道任务是广告图片描述生成，期望通过高质量数据和建模优化，提升图片描述的准确性和完备性。<h3>Deadline: 2024-08-15T08:00:00+08:00</h3><h3>Reward: 三赛道共69万元</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1194</id>
-        <title><![CDATA[千帆杯AI原生应用创意挑战赛-教育生态行业赛]]></title>
-        
-        <updated>2024-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1194"/>
-        <summary>聚焦于教育场景，精准洞察不同教育场景下存在的问题，需要使用百度智能云千帆AppBuilder作为开发工具，利用平台提供的模型与组件等工具链，构建能够快速投入产业实践的新型应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1194"><![CDATA[<h3>Description</h3>聚焦于教育场景，精准洞察不同教育场景下存在的问题，需要使用百度智能云千帆AppBuilder作为开发工具，利用平台提供的模型与组件等工具链，构建能够快速投入产业实践的新型应用。<h3>Deadline: 2024-07-05T08:00:00+08:00</h3><h3>Reward: 200000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -813,14 +799,14 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
         
         <updated>2021-07-05T08:01:00+08:00</updated>
         
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
-        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
+        <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
