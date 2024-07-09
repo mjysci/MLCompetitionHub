@@ -26,6 +26,22 @@ Deadline: 2024-07-27T07:59:00+0800
 Reward: €6 000  
 
 
+## GeoAI Amazon Basin Secret Runway Detection Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge  
+Description: Can you detect illegal runways in the Peruvian Amazonian basin?  
+Deadline: 2024-11-12T07:59:00+0800  
+Reward: 2 000 CHF  
+
+
+## GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery
+
+Link: https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery  
+Description: Can you map plastic covering using satellite imagery?  
+Deadline: 2024-11-12T07:59:00+0800  
+Reward: 1 000 CHF  
+
+
 ## GeoAI Ground-level NO2 Estimation Challenge 
 
 Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge  
@@ -144,20 +160,4 @@ Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge
 Description: Can you design a method to accurately find field locations?  
 Deadline: 2021-07-05T07:59:00+0800  
 Reward: $10 000 USD  
-
-
-## UNICEF Arm 2030 Vision #1: Flood Prediction in Malawi
-
-Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi  
-Description: Predict flood extent caused by storms in southern Malawi  
-Deadline: 2020-05-18T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Radiant Earth Spot the Crop XL Challenge
-
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
-Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
-Deadline: 2021-10-04T07:59:00+0800  
-Reward: $8 800 USD  
 
