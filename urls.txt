@@ -1224,3 +1224,6 @@ https://tianchi.aliyun.com/competition/entrance/532239/introduction
 https://www.biendata.xyz/competition/siemens-ai/
 https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge
 https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery
+https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef
+https://www.kesci.com/home/competition/666109ded65f7954b6d947b5
+https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge

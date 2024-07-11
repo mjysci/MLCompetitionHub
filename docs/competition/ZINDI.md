@@ -18,6 +18,14 @@ Deadline: 2024-09-02T07:59:00+0800
 Reward: $6 500 USD  
 
 
+## Microsoft Learn Location Mention Recognition Challenge
+
+Link: https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge  
+Description: Can you identify locations in a tweet?  
+Deadline: 2024-09-19T07:59:00+0800  
+Reward: $5 000 USD + Microsoft Learn certification  
+
+
 ## Specializing Large Language Models for Telecom Networks 
 
 Link: https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
 Description: Can you build a facial recognition model... for turtles?  
 Deadline: 2022-04-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Lacuna - Correct Field Detection Challenge
-
-Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
-Description: Can you design a method to accurately find field locations?  
-Deadline: 2021-07-05T07:59:00+0800  
 Reward: $10 000 USD  
 
