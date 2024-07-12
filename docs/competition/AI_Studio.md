@@ -18,19 +18,11 @@ Deadline: 2024-08-28T08:00:00+0800
 Reward: 三赛道共69万元  
 
 
-## 千帆杯AI原生应用创意挑战赛——知识库/数据库常规赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1200  
-Description: 本期比赛不限应用创作主题，参赛者需使用AppBuilder创建应用，所提交的参赛应用作品中必须包含知识库或数据库。  
-Deadline: 2024-07-11T08:00:00+0800  
-Reward: 千元京东卡、百度周边等  
-
-
 ## 百度商业AI技术创新大赛赛道一：基于大模型的广告检索
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1188  
 Description: NLP的显著进步推动了广告检索等IR技术的发展。随着深度学习的广泛应用，在传统的“索引-召回-排序”架构之上，基于表示学习的双塔匹配等技术已成为标准的召回方式。生成式检索的提出进一步革新了检索系统，省去索引直接将候选语料库编码进模型参数，端到端生成文档标识优化检索过程。我们发起基于大模型的广告检索大赛，通过优化模型不断提升检索效果。  
-Deadline: 2024-08-15T08:00:00+0800  
+Deadline: 2024-08-28T08:00:00+0800  
 Reward: 三赛道共69万元  
 
 
@@ -38,7 +30,7 @@ Reward: 三赛道共69万元
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1190  
 Description: 在百度商业营销场景，广告图片生成精细化描述具有重要意义和价值。当前，随着大模型时代的到来，利用多模态大语言模型（MLLM）生成图片描述已经成为业界的通用做法（DallE3，Sora, Stable Diffusion3）。本赛道任务是广告图片描述生成，期望通过高质量数据和建模优化，提升图片描述的准确性和完备性。  
-Deadline: 2024-08-15T08:00:00+0800  
+Deadline: 2024-08-28T08:00:00+0800  
 Reward: 三赛道共69万元  
 
 
