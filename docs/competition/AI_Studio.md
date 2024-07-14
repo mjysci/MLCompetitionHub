@@ -2,6 +2,14 @@
 
 
 
+## 2024CSIG-飞桨、工银瑞信金融科技挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1212  
+Description: 基于股票K线图的股票预测  
+Deadline: 2024-09-24T08:00:00+0800  
+Reward: 5万元奖金  
+
+
 ## 2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&西安交大大数据竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
@@ -32,12 +40,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1190
 Description: 在百度商业营销场景，广告图片生成精细化描述具有重要意义和价值。当前，随着大模型时代的到来，利用多模态大语言模型（MLLM）生成图片描述已经成为业界的通用做法（DallE3，Sora, Stable Diffusion3）。本赛道任务是广告图片描述生成，期望通过高质量数据和建模优化，提升图片描述的准确性和完备性。  
 Deadline: 2024-08-28T08:00:00+0800  
 Reward: 三赛道共69万元  
-
-
-## LIC·2024 语言与智能技术竞赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1171  
-Description: 2024语言与智能技术竞赛（LIC）与上海少年儿童出版社有限公司合作，围绕“十万个为什么”IP探索面向真实场景的应用建设。  
-Deadline: 2024-07-31T08:00:00+0800  
-Reward: ¥140,000  
 

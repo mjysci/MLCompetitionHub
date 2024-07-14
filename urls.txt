@@ -1227,3 +1227,4 @@ https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover
 https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef
 https://www.kesci.com/home/competition/666109ded65f7954b6d947b5
 https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/1212
