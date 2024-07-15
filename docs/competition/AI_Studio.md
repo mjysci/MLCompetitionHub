@@ -2,7 +2,7 @@
 
 
 
-## 2024CSIG-飞桨、工银瑞信金融科技挑战赛 <sup style="color:red">[new]<sup>  
+## 2024CSIG-飞桨、工银瑞信金融科技挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1212  
 Description: 基于股票K线图的股票预测  
