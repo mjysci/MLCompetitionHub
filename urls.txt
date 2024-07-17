@@ -1230,3 +1230,5 @@ https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-c
 https://aistudio.baidu.com/aistudio/competition/detail/1212
 https://tianchi.aliyun.com/competition/entrance/532236/introduction
 https://tianchi.aliyun.com/competition/entrance/532226/introduction
+https://www.datafountain.cn/competitions/1019
+https://www.datafountain.cn/competitions/1018

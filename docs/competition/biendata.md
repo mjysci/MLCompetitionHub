@@ -10,14 +10,6 @@ Deadline: 2024-08-15T08:00:00+0800
 Reward: 84,000 RMB  
 
 
-## 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛
-
-Link: https://www.biendata.xyz/competition/ccf_agent_2024/  
-Description: 2024 CCF中国计算机应用技术大赛—全国智能体开发大赛  
-Deadline: 2024-07-17T08:00:00+0800  
-Reward: ￥100,000 现金奖励 + 百万级算力支持  
-
-
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
