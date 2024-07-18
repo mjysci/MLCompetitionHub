@@ -2,6 +2,14 @@
 
 
 
+## 基于大模型的文本内容智能评判 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/1032  
+Description: 基于大模型的文本内容智能评判  
+Deadline: 2024-09-27T23:59:59+0800  
+Reward: ￥20000  
+
+
 ## 智能交通信号灯调度赛道
 
 Link: https://www.datafountain.cn/competitions/1026  
