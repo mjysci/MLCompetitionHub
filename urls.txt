@@ -1233,3 +1233,4 @@ https://tianchi.aliyun.com/competition/entrance/532226/introduction
 https://www.datafountain.cn/competitions/1019
 https://www.datafountain.cn/competitions/1018
 https://www.datafountain.cn/competitions/1032
+https://zindi.africa/competitions/predict-fire-extent

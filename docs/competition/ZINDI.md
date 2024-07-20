@@ -2,6 +2,14 @@
 
 
 
+## Wildfire Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/predict-fire-extent  
+Description: Can you predict the burned area of wildfires in ZInbabwe?  
+Deadline: 2024-08-15T07:59:00+0800  
+Reward: Get Started!  
+
+
 ## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
 
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
 Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
 Deadline: 2022-11-01T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Turtle Recall: Conservation Challenge
-
-Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
-Description: Can you build a facial recognition model... for turtles?  
-Deadline: 2022-04-22T07:59:00+0800  
 Reward: $10 000 USD  
 
