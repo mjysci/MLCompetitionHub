@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-07-21T16:00:04+08:00</updated>
+    <updated>2024-07-22T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -462,11 +462,11 @@
         <id>https://tianchi.aliyun.com/competition/entrance/532209/introduction</id>
         <title><![CDATA[AFAC2024挑战组-赛题四:金融规则长文本中的矛盾识别与漏洞发现(赛季 1)]]></title>
         
-        <updated>2024-05-17T00:00:00+08:00</updated>
+        <updated>2024-05-17T23:59:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532209/introduction"/>
         <summary>在金融领域中，规章制度、合规指南、合同、研报等以长文本形式存在的文档占据着重要地位。然而，这些文档中可能存在常识错误、矛盾、模糊，甚至漏洞，若不及时发现并修正，可能会对金融机构的决策制定、合规运行、客户的合法权益带来严重影响。因此，设计一套通用的检测模型自动识别这些问题，不仅可以保障金融机构的稳健运行、消费者的权益保障，也有利于维护金融市场的公平竞争和整体稳定，对促进金融业健康发展具有深远影响。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532209/introduction"><![CDATA[<h3>Description</h3>在金融领域中，规章制度、合规指南、合同、研报等以长文本形式存在的文档占据着重要地位。然而，这些文档中可能存在常识错误、矛盾、模糊，甚至漏洞，若不及时发现并修正，可能会对金融机构的决策制定、合规运行、客户的合法权益带来严重影响。因此，设计一套通用的检测模型自动识别这些问题，不仅可以保障金融机构的稳健运行、消费者的权益保障，也有利于维护金融市场的公平竞争和整体稳定，对促进金融业健康发展具有深远影响。<h3>Deadline: 2024-07-26T15:00:00+08:00</h3><h3>Reward: ￥1300000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532209/introduction"><![CDATA[<h3>Description</h3>在金融领域中，规章制度、合规指南、合同、研报等以长文本形式存在的文档占据着重要地位。然而，这些文档中可能存在常识错误、矛盾、模糊，甚至漏洞，若不及时发现并修正，可能会对金融机构的决策制定、合规运行、客户的合法权益带来严重影响。因此，设计一套通用的检测模型自动识别这些问题，不仅可以保障金融机构的稳健运行、消费者的权益保障，也有利于维护金融市场的公平竞争和整体稳定，对促进金融业健康发展具有深远影响。<h3>Deadline: 2024-07-22T23:59:59+08:00</h3><h3>Reward: ￥1300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -494,7 +494,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532200/introduction"/>
         <summary>在当今金融科技迅猛发展的背景下，大模型技术的飞速进步为金融服务带来了前所未有的变革，在金融领域展现出了广阔的应用前景。当前大模型难以直接满足智能投研、投顾中复杂金融业务场景的需求。通过大模型建立金融研报生成智能体Agent，突破大模型存在数据时效性、长文本总结、长文本生成、图表生成等问题，智能化地生成具备真实性和可用性的研究报告，服务基金、资管、投行等机构和海量意向客户，成为了智慧金融发展的必然趋势。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532200/introduction"><![CDATA[<h3>Description</h3>在当今金融科技迅猛发展的背景下，大模型技术的飞速进步为金融服务带来了前所未有的变革，在金融领域展现出了广阔的应用前景。当前大模型难以直接满足智能投研、投顾中复杂金融业务场景的需求。通过大模型建立金融研报生成智能体Agent，突破大模型存在数据时效性、长文本总结、长文本生成、图表生成等问题，智能化地生成具备真实性和可用性的研究报告，服务基金、资管、投行等机构和海量意向客户，成为了智慧金融发展的必然趋势。<h3>Deadline: 2024-07-26T15:00:00+08:00</h3><h3>Reward: ￥1300000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532200/introduction"><![CDATA[<h3>Description</h3>在当今金融科技迅猛发展的背景下，大模型技术的飞速进步为金融服务带来了前所未有的变革，在金融领域展现出了广阔的应用前景。当前大模型难以直接满足智能投研、投顾中复杂金融业务场景的需求。通过大模型建立金融研报生成智能体Agent，突破大模型存在数据时效性、长文本总结、长文本生成、图表生成等问题，智能化地生成具备真实性和可用性的研究报告，服务基金、资管、投行等机构和海量意向客户，成为了智慧金融发展的必然趋势。<h3>Deadline: 2024-07-22T23:59:59+08:00</h3><h3>Reward: ￥1300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
