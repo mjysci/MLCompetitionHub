@@ -2,7 +2,7 @@
 
 
 
-## Wildfire Prediction Challenge <sup style="color:red">[new]<sup>  
+## Wildfire Prediction Challenge
 
 Link: https://zindi.africa/competitions/predict-fire-extent  
 Description: Can you predict the burned area of wildfires in ZInbabwe?  
