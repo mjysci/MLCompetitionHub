@@ -5,7 +5,7 @@
 ## Wildfire Prediction Challenge
 
 Link: https://zindi.africa/competitions/predict-fire-extent  
-Description: Can you predict the burned area of wildfires in ZInbabwe?  
+Description: Can you predict the burned area of wildfires in Zimbabwe?  
 Deadline: 2024-08-15T07:59:00+0800  
 Reward: Get Started!  
 

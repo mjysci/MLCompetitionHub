@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-07-23T16:00:12+08:00</updated>
+    <updated>2024-07-24T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -399,6 +399,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532251/introduction</id>
+        <title><![CDATA[天池Better Synth多模态大模型数据合成挑战赛(赛季 1)]]></title>
+        
+        <updated>2024-07-19T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532251/introduction"/>
+        <summary>在当下大数据、大模型时代，大数据是驱动大模型的能源。当前大模型的训练数据绝大部分来源于互联网上的信息，但随着大模型尺寸与性能逐渐提升，互联网上的海量数据也将逐渐使用殆尽，并且对于多模态大模型来说，这些海量资源在获取后，也需要极大的额外处理和人力标注才可以达到可用于训练大模型的水准。因此，如何借助已有的强大的大模型，在有限的计算资源下为新的模型训练流程高效合成优质的训练数据成为了一个新兴的值得关注的问题。“天池Better Synth - 多模态大模型数据合成挑战赛”正是在这样的背景下产生，该比赛旨在鼓励参赛者探究合成数据对于多模态大模型训练的影响，以及促使参赛者追求高效的数据合成方法与策略，共同推进多模态大模型数据合成从0-1以及从1-100的前沿创新探索。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532251/introduction"><![CDATA[<h3>Description</h3>在当下大数据、大模型时代，大数据是驱动大模型的能源。当前大模型的训练数据绝大部分来源于互联网上的信息，但随着大模型尺寸与性能逐渐提升，互联网上的海量数据也将逐渐使用殆尽，并且对于多模态大模型来说，这些海量资源在获取后，也需要极大的额外处理和人力标注才可以达到可用于训练大模型的水准。因此，如何借助已有的强大的大模型，在有限的计算资源下为新的模型训练流程高效合成优质的训练数据成为了一个新兴的值得关注的问题。“天池Better Synth - 多模态大模型数据合成挑战赛”正是在这样的背景下产生，该比赛旨在鼓励参赛者探究合成数据对于多模态大模型训练的影响，以及促使参赛者追求高效的数据合成方法与策略，共同推进多模态大模型数据合成从0-1以及从1-100的前沿创新探索。<h3>Deadline: 2024-08-26T18:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532239/introduction</id>
         <title><![CDATA[Intel LLM Hackathon 天池挑战赛(赛季 1)]]></title>
         
@@ -406,7 +420,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532239/introduction"/>
         <summary>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532239/introduction"><![CDATA[<h3>Description</h3>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。<h3>Deadline: 2024-07-28T18:00:00+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532239/introduction"><![CDATA[<h3>Description</h3>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。<h3>Deadline: 2024-08-05T18:00:00+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -435,24 +449,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532226/introduction"/>
         <summary>在线广告在互联网经济中变得至关重要，其可以帮助广告主吸引更多客户并推广他们的业务。根据统计数据，2023年全球在线广告市场规模达到了6268亿美元。各广告平台相继推出了自动出价服务，以更高效地进行广告投放。相比手动出价，自动出价简化了广告主的流程，并利用广告平台提供的强大自动出价策略来提升效果。如图1所示，自动出价策略能够在海量的展现机会中精准出价，以最大化整体转化量。在出价的过程中考虑广告主的优化目标以及每次展现的预测转化概率。强化学习、决策控制、博弈等算法等在自动出价中发挥了重要的作用。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532226/introduction"><![CDATA[<h3>Description</h3>在线广告在互联网经济中变得至关重要，其可以帮助广告主吸引更多客户并推广他们的业务。根据统计数据，2023年全球在线广告市场规模达到了6268亿美元。各广告平台相继推出了自动出价服务，以更高效地进行广告投放。相比手动出价，自动出价简化了广告主的流程，并利用广告平台提供的强大自动出价策略来提升效果。如图1所示，自动出价策略能够在海量的展现机会中精准出价，以最大化整体转化量。在出价的过程中考虑广告主的优化目标以及每次展现的预测转化概率。强化学习、决策控制、博弈等算法等在自动出价中发挥了重要的作用。<h3>Deadline: 2024-08-08T23:59:59+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532221/introduction</id>
-        <title><![CDATA[第三届琶洲算法大赛-GLM法律行业大模型挑战赛道(赛季 4)]]></title>
-        
-        <updated>2024-05-30T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532221/introduction"/>
-        <summary>随着技术的进步，大语言模型（LLM）已经在多个领域展现出显著成效，法律行业也不例外。LLM 在法律服务、案件分析和合同审核等方面已显示出其强大潜力。
-为探索 LLM 在法律行业的应用潜力，我们在琶洲算法大赛主办方的指导下，推出了 GLM 法律行业大模型挑战赛。
-赛题由智谱AI、深圳数据交易所、安硕信息和魔搭社区、天池平台联合承办，比赛旨在推动大模型在法律领域的发展，并邀请广大开发者和技术团队参与创新。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532221/introduction"><![CDATA[<h3>Description</h3>随着技术的进步，大语言模型（LLM）已经在多个领域展现出显著成效，法律行业也不例外。LLM 在法律服务、案件分析和合同审核等方面已显示出其强大潜力。
-为探索 LLM 在法律行业的应用潜力，我们在琶洲算法大赛主办方的指导下，推出了 GLM 法律行业大模型挑战赛。
-赛题由智谱AI、深圳数据交易所、安硕信息和魔搭社区、天池平台联合承办，比赛旨在推动大模型在法律领域的发展，并邀请广大开发者和技术团队参与创新。<h3>Deadline: 2024-08-07T18:00:00+08:00</h3><h3>Reward: ￥250000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -514,20 +510,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532182/introduction</id>
-        <title><![CDATA[CCKS2024——大模型知识编辑评测(赛季 2)]]></title>
-        
-        <updated>2024-04-17T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532182/introduction"/>
-        <summary>随着深度学习与预训练技术的快速发展，大模型如ChatGPT、Mistral、LLaMA、ChatGLM、文心一言、通义等在自然语言处理领域已经取得了显著的突破。大模型通过将海量的、以文本序列为主的世界知识预先学习进神经网络中，并通过参数化空间实现对知识的处理和操作，其揭示了大规模参数化神经网络在习得和刻画世界知识上的巨大潜力。不同于传统的符号知识工程，大模型的隐式参数知识具有表达能力强、任务泛化好等优点。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532182/introduction"><![CDATA[<h3>Description</h3>随着深度学习与预训练技术的快速发展，大模型如ChatGPT、Mistral、LLaMA、ChatGLM、文心一言、通义等在自然语言处理领域已经取得了显著的突破。大模型通过将海量的、以文本序列为主的世界知识预先学习进神经网络中，并通过参数化空间实现对知识的处理和操作，其揭示了大规模参数化神经网络在习得和刻画世界知识上的巨大潜力。不同于传统的符号知识工程，大模型的隐式参数知识具有表达能力强、任务泛化好等优点。<h3>Deadline: 2024-08-16T23:59:59+08:00</h3><h3>Reward: ￥10000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
     
     
     
@@ -539,8 +521,8 @@
         <updated>2024-07-16T14:00:00+08:00</updated>
         
         <link href="https://zindi.africa/competitions/predict-fire-extent"/>
-        <summary>Can you predict the burned area of wildfires in ZInbabwe?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/predict-fire-extent"><![CDATA[<h3>Description</h3>Can you predict the burned area of wildfires in ZInbabwe?<h3>Deadline: 2024-08-15T07:59:00+08:00</h3><h3>Reward: Get Started!</h3>]]></content>
+        <summary>Can you predict the burned area of wildfires in Zimbabwe?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/predict-fire-extent"><![CDATA[<h3>Description</h3>Can you predict the burned area of wildfires in Zimbabwe?<h3>Deadline: 2024-08-15T07:59:00+08:00</h3><h3>Reward: Get Started!</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

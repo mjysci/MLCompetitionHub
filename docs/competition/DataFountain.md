@@ -2,7 +2,7 @@
 
 
 
-## 基于大模型的文本内容智能评判 <sup style="color:red">[new]<sup>  
+## 基于大模型的文本内容智能评判
 
 Link: https://www.datafountain.cn/competitions/1032  
 Description: 基于大模型的文本内容智能评判  
