@@ -42,6 +42,14 @@ Deadline: 2024-07-27T07:59:00+0800
 Reward: €6 000  
 
 
+## Olympic 2024 Medal Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge  
+Description: Can you predict the medal count for each country in the Paris 2024 Olympics?  
+Deadline: 2024-08-06T07:59:00+0800  
+Reward: 3 000 Zindi Points  
+
+
 ## GeoAI Amazon Basin Secret Runway Detection Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## AgriFieldNet India Challenge
-
-Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
-Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
-Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 

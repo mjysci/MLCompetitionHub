@@ -1235,3 +1235,7 @@ https://www.datafountain.cn/competitions/1018
 https://www.datafountain.cn/competitions/1032
 https://zindi.africa/competitions/predict-fire-extent
 https://tianchi.aliyun.com/competition/entrance/532251/introduction
+https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0
+https://www.kesci.com/home/competition/669f92a0981b6a298d836d53
+https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4
+https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge

@@ -1,11 +1,29 @@
-> 更新时间: 2024-07-24T16:00:03+0800 
+> 更新时间: 2024-07-25T16:00:14+0800 
 
 # 新上线比赛
 
 
-## 天池Better Synth多模态大模型数据合成挑战赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532251/introduction  
-Description: 在当下大数据、大模型时代，大数据是驱动大模型的能源。当前大模型的训练数据绝大部分来源于互联网上的信息，但随着大模型尺寸与性能逐渐提升，互联网上的海量数据也将逐渐使用殆尽，并且对于多模态大模型来说，这些海量资源在获取后，也需要极大的额外处理和人力标注才可以达到可用于训练大模型的水准。因此，如何借助已有的强大的大模型，在有限的计算资源下为新的模型训练流程高效合成优质的训练数据成为了一个新兴的值得关注的问题。“天池Better Synth - 多模态大模型数据合成挑战赛”正是在这样的背景下产生，该比赛旨在鼓励参赛者探究合成数据对于多模态大模型训练的影响，以及促使参赛者追求高效的数据合成方法与策略，共同推进多模态大模型数据合成从0-1以及从1-100的前沿创新探索。  
-Deadline: 2024-08-26T18:00:00+0800  
-Reward: ￥130000  
+## 2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法
+Link: https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0  
+Description: 2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法  
+Deadline: 2024-12-01T00:00:00+0800  
+Reward: ￥24,000  
+
+## 2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法
+Link: https://www.kesci.com/home/competition/669f92a0981b6a298d836d53  
+Description: 2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法  
+Deadline: 2024-12-01T00:00:00+0800  
+Reward: ￥24,000  
+
+## 2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛
+Link: https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4  
+Description: 2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛  
+Deadline: 2024-12-01T00:00:00+0800  
+Reward: ￥35,000  
+
+## Olympic 2024 Medal Prediction Challenge
+Link: https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge  
+Description: Can you predict the medal count for each country in the Paris 2024 Olympics?  
+Deadline: 2024-08-06T07:59:00+0800  
+Reward: 3 000 Zindi Points  
 

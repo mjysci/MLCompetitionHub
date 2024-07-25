@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-07-24T16:00:03+08:00</updated>
+    <updated>2024-07-25T16:00:14+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -396,6 +396,48 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0</id>
+        <title><![CDATA[2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法]]></title>
+        
+        <updated>2024-07-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0"/>
+        <summary>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0"><![CDATA[<h3>Description</h3>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法<h3>Deadline: 2024-12-01T00:00:00+08:00</h3><h3>Reward: ￥24,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/669f92a0981b6a298d836d53</id>
+        <title><![CDATA[2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法]]></title>
+        
+        <updated>2024-07-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/669f92a0981b6a298d836d53"/>
+        <summary>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/669f92a0981b6a298d836d53"><![CDATA[<h3>Description</h3>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法<h3>Deadline: 2024-12-01T00:00:00+08:00</h3><h3>Reward: ￥24,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4</id>
+        <title><![CDATA[2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛]]></title>
+        
+        <updated>2024-07-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4"/>
+        <summary>2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4"><![CDATA[<h3>Description</h3>2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛<h3>Deadline: 2024-12-01T00:00:00+08:00</h3><h3>Reward: ￥35,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -579,6 +621,20 @@
         <link href="https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks"/>
         <summary>The Impact of Large Language Models on 6G and Beyond</summary>
         <content type="text/html" src="https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks"><![CDATA[<h3>Description</h3>The Impact of Large Language Models on 6G and Beyond<h3>Deadline: 2024-07-27T07:59:00+08:00</h3><h3>Reward: €6 000</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge</id>
+        <title><![CDATA[Olympic 2024 Medal Prediction Challenge]]></title>
+        
+        <updated>2024-07-24T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge"/>
+        <summary>Can you predict the medal count for each country in the Paris 2024 Olympics?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge"><![CDATA[<h3>Description</h3>Can you predict the medal count for each country in the Paris 2024 Olympics?<h3>Deadline: 2024-08-06T07:59:00+08:00</h3><h3>Reward: 3 000 Zindi Points</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -775,20 +831,6 @@
         <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
         <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/agrifieldnet-india-challenge</id>
-        <title><![CDATA[AgriFieldNet India Challenge]]></title>
-        
-        <updated>2022-09-05T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/agrifieldnet-india-challenge"/>
-        <summary>Can you detect crop types in a class-imbalanced satellite image dataset?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/agrifieldnet-india-challenge"><![CDATA[<h3>Description</h3>Can you detect crop types in a class-imbalanced satellite image dataset?<h3>Deadline: 2022-11-01T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
