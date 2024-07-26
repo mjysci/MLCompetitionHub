@@ -14,7 +14,7 @@ Reward: Get Started!
 
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
 Description: Can you build a passwordless authentication application?   
-Deadline: 2024-08-02T07:59:00+0800  
+Deadline: 2024-08-27T07:59:00+0800  
 Reward: $10 000 USD  
 
 
