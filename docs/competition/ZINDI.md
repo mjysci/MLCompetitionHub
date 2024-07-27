@@ -10,6 +10,14 @@ Deadline: 2024-08-15T07:59:00+0800
 Reward: Get Started!  
 
 
+## Spatio-Temporal Beam-Level Traffic Forecasting Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
+Description: Can you forecast traffic throughput volumes within communication networks?  
+Deadline: 2024-10-12T07:59:00+0800  
+Reward: 12 000 CHF  
+
+
 ## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
 
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
@@ -32,14 +40,6 @@ Link: https://zindi.africa/competitions/microsoft-learn-location-mention-recogni
 Description: Can you identify locations in a tweet?  
 Deadline: 2024-09-19T07:59:00+0800  
 Reward: $5 000 USD + Microsoft Learn certification  
-
-
-## Specializing Large Language Models for Telecom Networks 
-
-Link: https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks  
-Description: The Impact of Large Language Models on 6G and Beyond  
-Deadline: 2024-07-27T07:59:00+0800  
-Reward: €6 000  
 
 
 ## Olympic 2024 Medal Prediction Challenge <sup style="color:red">[new]<sup>  
