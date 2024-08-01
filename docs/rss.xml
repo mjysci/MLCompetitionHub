@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-07-31T16:00:03+08:00</updated>
+    <updated>2024-08-01T16:00:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -455,20 +455,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532239/introduction</id>
-        <title><![CDATA[Intel LLM Hackathon 天池挑战赛(赛季 1)]]></title>
-        
-        <updated>2024-06-28T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532239/introduction"/>
-        <summary>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532239/introduction"><![CDATA[<h3>Description</h3>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。<h3>Deadline: 2024-08-05T18:00:00+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532236/introduction</id>
         <title><![CDATA[【NeurIPS 2024】AIGB赛道： 利用生成式模型学习自动出价Agent(赛季 1)]]></title>
         
@@ -547,6 +533,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532192/introduction"/>
         <summary>随着 LLM 技术蓬勃发展，AI Web 应用创新如火如荼，对于构建一款 Web 应用来说，AI 网关是非常重要的。 Higress 是阿里云开源的高集成、易使用、易扩展、热更新的云原生 API 网关，可以很好地解决 AI 应用对网关的需求。本赛题主要面向 AI 网关的扩展性，设计一个 AI 网关插件，通过基于向量检索的缓存来降低调用 LLM 提供商 API 的成本。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532192/introduction"><![CDATA[<h3>Description</h3>随着 LLM 技术蓬勃发展，AI Web 应用创新如火如荼，对于构建一款 Web 应用来说，AI 网关是非常重要的。 Higress 是阿里云开源的高集成、易使用、易扩展、热更新的云原生 API 网关，可以很好地解决 AI 应用对网关的需求。本赛题主要面向 AI 网关的扩展性，设计一个 AI 网关插件，通过基于向量检索的缓存来降低调用 LLM 提供商 API 的成本。<h3>Deadline: 2024-08-22T18:00:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532239/introduction</id>
+        <title><![CDATA[Intel LLM Hackathon 天池挑战赛(赛季 1)]]></title>
+        
+        <updated>2024-06-28T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532239/introduction"/>
+        <summary>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532239/introduction"><![CDATA[<h3>Description</h3>LLM技术挑战是一项面向开发者和创新者的线上竞赛计划，旨在促进基于大语言模型（LLM）的创新应用和技术发展。本次赛事，参赛者将有机会开发基于大语言模型的应用，探索智能语音助手、智能助理、聊天机器人、文字及图片生成、智能客服等领域的应用潜力。参赛团队根据选标准要求，使用开源模型及推荐的软件部署解决方案，完成基于大语言模型应用的开发及部署。竞赛将评选最佳应用奖以及参赛早鸟奖，鼓励参赛者在创新实践中展现创意和技术实力，将作品开源或部分开源，共同推动大语言模型领域的发展和应用。<h3>Deadline: 2024-08-05T18:00:00+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

@@ -10,7 +10,7 @@ Deadline: 2024-08-15T07:59:00+0800
 Reward: Get Started!  
 
 
-## Spatio-Temporal Beam-Level Traffic Forecasting Challenge <sup style="color:red">[new]<sup>  
+## Spatio-Temporal Beam-Level Traffic Forecasting Challenge
 
 Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
 Description: Can you forecast traffic throughput volumes within communication networks?  
