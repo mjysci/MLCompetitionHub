@@ -10,6 +10,14 @@ Deadline: 2024-08-15T07:59:00+0800
 Reward: Get Started!  
 
 
+## Smart Energy Supply Scheduling for Green Telecom Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
+Description: Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?  
+Deadline: 2024-10-12T07:59:00+0800  
+Reward: 18 000 CHF  
+
+
 ## Spatio-Temporal Beam-Level Traffic Forecasting Challenge
 
 Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
@@ -40,14 +48,6 @@ Link: https://zindi.africa/competitions/microsoft-learn-location-mention-recogni
 Description: Can you identify locations in a tweet?  
 Deadline: 2024-09-19T07:59:00+0800  
 Reward: $5 000 USD + Microsoft Learn certification  
-
-
-## Olympic 2024 Medal Prediction Challenge
-
-Link: https://zindi.africa/competitions/olympic-2024-medal-prediction-challenge  
-Description: Can you predict the medal count for each country in the Paris 2024 Olympics?  
-Deadline: 2024-08-06T07:59:00+0800  
-Reward: 3 000 Zindi Points  
 
 
 ## GeoAI Amazon Basin Secret Runway Detection Challenge <sup style="color:red">[new]<sup>  

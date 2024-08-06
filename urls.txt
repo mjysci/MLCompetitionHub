@@ -1243,3 +1243,5 @@ https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting
 https://tianchi.aliyun.com/competition/entrance/532254/introduction
 https://tianchi.aliyun.com/competition/entrance/532253/introduction
 https://tianchi.aliyun.com/competition/entrance/532195/introduction
+https://www.datafountain.cn/competitions/1031
+https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom
