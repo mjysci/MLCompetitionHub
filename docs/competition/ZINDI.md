@@ -14,7 +14,7 @@ Reward: Get Started!
 
 Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
 Description: Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?  
-Deadline: 2024-10-12T07:59:00+0800  
+Deadline: 2024-10-01T07:59:00+0800  
 Reward: 18 000 CHF  
 
 
