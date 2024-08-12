@@ -2,7 +2,7 @@
 
 
 
-## Zhipu Bigmodel Open Platform Customer Service Fine-tuning Competition <sup style="color:red">[new]<sup>  
+## Zhipu Bigmodel Open Platform Customer Service Fine-tuning Competition
 
 Link: https://www.biendata.xyz/competition/bigmodel_cn/  
 Description: Zhipu Bigmodel Open Platform Customer Service Fine-tuning Competition  
@@ -14,7 +14,7 @@ Reward: ￥5,000
 
 Link: https://www.biendata.xyz/competition/siemens-ai/  
 Description: Generative AI Application Competition: Code Generation for Industrial Software  
-Deadline: 2024-08-15T08:00:00+0800  
+Deadline: 2024-08-17T08:00:00+0800  
 Reward: 84,000 RMB  
 
 
