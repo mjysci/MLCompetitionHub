@@ -10,7 +10,7 @@ Deadline: 2024-08-15T07:59:00+0800
 Reward: Get Started!  
 
 
-## Smart Energy Supply Scheduling for Green Telecom Challenge <sup style="color:red">[new]<sup>  
+## Smart Energy Supply Scheduling for Green Telecom Challenge
 
 Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
 Description: Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?  
