@@ -2,14 +2,6 @@
 
 
 
-## Wildfire Prediction Challenge
-
-Link: https://zindi.africa/competitions/predict-fire-extent  
-Description: Can you predict the burned area of wildfires in Zimbabwe?  
-Deadline: 2024-08-15T07:59:00+0800  
-Reward: Get Started!  
-
-
 ## Smart Energy Supply Scheduling for Green Telecom Challenge
 
 Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
