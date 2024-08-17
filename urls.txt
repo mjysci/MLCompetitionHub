@@ -1246,3 +1246,4 @@ https://tianchi.aliyun.com/competition/entrance/532195/introduction
 https://www.datafountain.cn/competitions/1031
 https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom
 https://www.biendata.xyz/competition/bigmodel_cn/
+https://zindi.africa/competitions/lacuna-malaria-detection-challenge

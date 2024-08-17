@@ -34,6 +34,14 @@ Deadline: 2024-09-02T07:59:00+0800
 Reward: $6 500 USD  
 
 
+## Lacuna Malaria Detection Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/lacuna-malaria-detection-challenge  
+Description: Can you categorise parasites and blood cells in microscopic images from malaria patients?  
+Deadline: 2024-11-18T07:59:00+0800  
+Reward: $5 000 USD  
+
+
 ## Microsoft Learn Location Mention Recognition Challenge
 
 Link: https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge  
@@ -42,7 +50,7 @@ Deadline: 2024-09-19T07:59:00+0800
 Reward: $5 000 USD + Microsoft Learn certification  
 
 
-## GeoAI Amazon Basin Secret Runway Detection Challenge <sup style="color:red">[new]<sup>  
+## GeoAI Amazon Basin Secret Runway Detection Challenge
 
 Link: https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge  
 Description: Can you detect illegal runways in the Peruvian Amazonian basin?  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## AgriFieldNet India Challenge
-
-Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
-Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
-Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 

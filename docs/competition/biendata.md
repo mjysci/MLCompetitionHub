@@ -2,14 +2,6 @@
 
 
 
-## Generative AI Application Competition: Code Generation for Industrial Software
-
-Link: https://www.biendata.xyz/competition/siemens-ai/  
-Description: Generative AI Application Competition: Code Generation for Industrial Software  
-Deadline: 2024-08-17T08:00:00+0800  
-Reward: 84,000 RMB  
-
-
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
