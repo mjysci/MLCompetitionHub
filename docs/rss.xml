@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-08-18T16:00:13+08:00</updated>
+    <updated>2024-08-19T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -441,20 +441,6 @@
     
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532254/introduction</id>
-        <title><![CDATA[可图Kolors-LoRA风格故事挑战赛(赛季 1)]]></title>
-        
-        <updated>2024-07-30T09:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532254/introduction"/>
-        <summary>可图Kolors-LoRA风格故事挑战赛</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532254/introduction"><![CDATA[<h3>Description</h3>可图Kolors-LoRA风格故事挑战赛<h3>Deadline: 2024-08-31T23:59:59+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532253/introduction</id>
         <title><![CDATA[SMP 2024大模型图分析挑战赛(赛季 1)]]></title>
         
@@ -477,20 +463,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532251/introduction"/>
         <summary>在当下大数据、大模型时代，大数据是驱动大模型的能源。当前大模型的训练数据绝大部分来源于互联网上的信息，但随着大模型尺寸与性能逐渐提升，互联网上的海量数据也将逐渐使用殆尽，并且对于多模态大模型来说，这些海量资源在获取后，也需要极大的额外处理和人力标注才可以达到可用于训练大模型的水准。因此，如何借助已有的强大的大模型，在有限的计算资源下为新的模型训练流程高效合成优质的训练数据成为了一个新兴的值得关注的问题。“天池Better Synth - 多模态大模型数据合成挑战赛”正是在这样的背景下产生，该比赛旨在鼓励参赛者探究合成数据对于多模态大模型训练的影响，以及促使参赛者追求高效的数据合成方法与策略，共同推进多模态大模型数据合成从0-1以及从1-100的前沿创新探索。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532251/introduction"><![CDATA[<h3>Description</h3>在当下大数据、大模型时代，大数据是驱动大模型的能源。当前大模型的训练数据绝大部分来源于互联网上的信息，但随着大模型尺寸与性能逐渐提升，互联网上的海量数据也将逐渐使用殆尽，并且对于多模态大模型来说，这些海量资源在获取后，也需要极大的额外处理和人力标注才可以达到可用于训练大模型的水准。因此，如何借助已有的强大的大模型，在有限的计算资源下为新的模型训练流程高效合成优质的训练数据成为了一个新兴的值得关注的问题。“天池Better Synth - 多模态大模型数据合成挑战赛”正是在这样的背景下产生，该比赛旨在鼓励参赛者探究合成数据对于多模态大模型训练的影响，以及促使参赛者追求高效的数据合成方法与策略，共同推进多模态大模型数据合成从0-1以及从1-100的前沿创新探索。<h3>Deadline: 2024-08-26T18:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532219/introduction</id>
-        <title><![CDATA[Modelscope-Sora挑战赛(赛季 2)]]></title>
-        
-        <updated>2024-05-30T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532219/introduction"/>
-        <summary>AI正在深刻改变世界，数据是新石油，智能模型是新引擎，其中多模态大模型尤为瞩目。这些模型通过对海量多模态数据的收集和精细处理，在预训练阶段基于海量参数吸收世界知识，在对齐微调阶段提升可用性和安全性，在各行各业的实际任务中展现出前所未有的能力。OpenAI的视频生成大模型Sora是一个突出代表，它凭借逼真的画面质量和长达一分钟的长视频生成能力让人印象深刻。“Modelscope-Sora”赛事应运而生，旨在探索类Sora模型，推动数据与模型双线并行的创新实践！</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532219/introduction"><![CDATA[<h3>Description</h3>AI正在深刻改变世界，数据是新石油，智能模型是新引擎，其中多模态大模型尤为瞩目。这些模型通过对海量多模态数据的收集和精细处理，在预训练阶段基于海量参数吸收世界知识，在对齐微调阶段提升可用性和安全性，在各行各业的实际任务中展现出前所未有的能力。OpenAI的视频生成大模型Sora是一个突出代表，它凭借逼真的画面质量和长达一分钟的长视频生成能力让人印象深刻。“Modelscope-Sora”赛事应运而生，旨在探索类Sora模型，推动数据与模型双线并行的创新实践！<h3>Deadline: 2024-08-30T18:00:00+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -533,6 +505,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532192/introduction"/>
         <summary>随着 LLM 技术蓬勃发展，AI Web 应用创新如火如荼，对于构建一款 Web 应用来说，AI 网关是非常重要的。 Higress 是阿里云开源的高集成、易使用、易扩展、热更新的云原生 API 网关，可以很好地解决 AI 应用对网关的需求。本赛题主要面向 AI 网关的扩展性，设计一个 AI 网关插件，通过基于向量检索的缓存来降低调用 LLM 提供商 API 的成本。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532192/introduction"><![CDATA[<h3>Description</h3>随着 LLM 技术蓬勃发展，AI Web 应用创新如火如荼，对于构建一款 Web 应用来说，AI 网关是非常重要的。 Higress 是阿里云开源的高集成、易使用、易扩展、热更新的云原生 API 网关，可以很好地解决 AI 应用对网关的需求。本赛题主要面向 AI 网关的扩展性，设计一个 AI 网关插件，通过基于向量检索的缓存来降低调用 LLM 提供商 API 的成本。<h3>Deadline: 2024-08-22T18:00:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532254/introduction</id>
+        <title><![CDATA[可图Kolors-LoRA风格故事挑战赛(赛季 1)]]></title>
+        
+        <updated>2024-07-30T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532254/introduction"/>
+        <summary>可图Kolors-LoRA风格故事挑战赛</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532254/introduction"><![CDATA[<h3>Description</h3>可图Kolors-LoRA风格故事挑战赛<h3>Deadline: 2024-08-31T23:59:59+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -662,7 +648,7 @@
         
         <link href="https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge"/>
         <summary>Can you identify locations in a tweet?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge"><![CDATA[<h3>Description</h3>Can you identify locations in a tweet?<h3>Deadline: 2024-09-19T07:59:00+08:00</h3><h3>Reward: $5 000 USD + Microsoft Learn certification</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge"><![CDATA[<h3>Description</h3>Can you identify locations in a tweet?<h3>Deadline: 2024-09-19T07:59:00+08:00</h3><h3>Reward: $5 000 USD + Certification</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

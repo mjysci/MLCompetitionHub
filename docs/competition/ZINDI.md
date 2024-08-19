@@ -47,7 +47,7 @@ Reward: $5 000 USD
 Link: https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge  
 Description: Can you identify locations in a tweet?  
 Deadline: 2024-09-19T07:59:00+0800  
-Reward: $5 000 USD + Microsoft Learn certification  
+Reward: $5 000 USD + Certification  
 
 
 ## GeoAI Amazon Basin Secret Runway Detection Challenge
