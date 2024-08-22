@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-08-21T16:00:07+08:00</updated>
+    <updated>2024-08-22T16:00:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -490,7 +490,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532202/introduction"/>
         <summary>在云计算领域，对 ECS（Elastic Compute Service）主机进行性能监控和资源配置优化是确保服务稳定性和提升资源利用效率的关键。 本次比赛旨在如何通过分析 ECS 性能数据和任务信息，利用深度学习、序列分析等先进技术，生成特定机器的性能指标。参赛者的解决方案将为云资源管理和优化决策提供重要参考，助力云计算资源的高效稳定运行和智能化调度。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532202/introduction"><![CDATA[<h3>Description</h3>在云计算领域，对 ECS（Elastic Compute Service）主机进行性能监控和资源配置优化是确保服务稳定性和提升资源利用效率的关键。 本次比赛旨在如何通过分析 ECS 性能数据和任务信息，利用深度学习、序列分析等先进技术，生成特定机器的性能指标。参赛者的解决方案将为云资源管理和优化决策提供重要参考，助力云计算资源的高效稳定运行和智能化调度。<h3>Deadline: 2024-08-22T18:00:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532202/introduction"><![CDATA[<h3>Description</h3>在云计算领域，对 ECS（Elastic Compute Service）主机进行性能监控和资源配置优化是确保服务稳定性和提升资源利用效率的关键。 本次比赛旨在如何通过分析 ECS 性能数据和任务信息，利用深度学习、序列分析等先进技术，生成特定机器的性能指标。参赛者的解决方案将为云资源管理和优化决策提供重要参考，助力云计算资源的高效稳定运行和智能化调度。<h3>Deadline: 2024-08-23T18:00:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
