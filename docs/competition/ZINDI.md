@@ -34,7 +34,7 @@ Deadline: 2024-09-02T07:59:00+0800
 Reward: $6 500 USD  
 
 
-## Lacuna Malaria Detection Challenge <sup style="color:red">[new]<sup>  
+## Lacuna Malaria Detection Challenge
 
 Link: https://zindi.africa/competitions/lacuna-malaria-detection-challenge  
 Description: Can you categorise parasites and blood cells in microscopic images from malaria patients?  
