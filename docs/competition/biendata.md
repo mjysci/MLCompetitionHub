@@ -2,6 +2,14 @@
 
 
 
+## 智谱 BigModel 开放平台客服微调大赛 - 第二季 <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/bigmodel_cn_s2/  
+Description: 智谱 BigModel 开放平台客服微调大赛 - 第二季  
+Deadline: 2025-09-09T08:00:00+0800  
+Reward: ￥5,000  
+
+
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  

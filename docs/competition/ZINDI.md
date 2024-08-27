@@ -18,14 +18,6 @@ Deadline: 2024-10-12T07:59:00+0800
 Reward: 12 000 CHF  
 
 
-## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
-
-Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
-Description: Can you build a passwordless authentication application?   
-Deadline: 2024-08-27T07:59:00+0800  
-Reward: $10 000 USD  
-
-
 ## Melio MLOps Machine Translation Challenge
 
 Link: https://zindi.africa/competitions/melio-mlops-competition  
@@ -119,6 +111,14 @@ Reward: $11 000 USD
 Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
 Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
 Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
+
+Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
+Description: Can you build a passwordless authentication application?   
+Deadline: 2024-08-27T07:59:00+0800  
 Reward: $10 000 USD  
 
 
