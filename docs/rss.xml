@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-08-27T15:59:58+08:00</updated>
+    <updated>2024-08-28T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,48 +33,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1196"/>
         <summary>2024年赛题：AI体育赛事解说</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1196"><![CDATA[<h3>Description</h3>2024年赛题：AI体育赛事解说<h3>Deadline: 2024-11-01T08:00:00+08:00</h3><h3>Reward: ¥20万</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1192</id>
-        <title><![CDATA[百度商业AI技术创新大赛赛道三：行业智能体搭建]]></title>
-        
-        <updated>2024-05-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1192"/>
-        <summary>AI技术的飞速进步显著提升了商业广告的精准度和创意生产效率，成为社会经济创新的驱动力。智能体技术创新大赛聚焦广告创新，激发创意，运用AI技术探索广告领域的创新方法，以提高广告效率和吸引力。大赛鼓励开发创新、实用、可持续的智能体应用，解决实际问题，提升生活质量，推动社会智能化转型。期待AI技术与商业广告及应用创新的深度融合，为产业升级和社会发展提供新思路、技术和方案。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1192"><![CDATA[<h3>Description</h3>AI技术的飞速进步显著提升了商业广告的精准度和创意生产效率，成为社会经济创新的驱动力。智能体技术创新大赛聚焦广告创新，激发创意，运用AI技术探索广告领域的创新方法，以提高广告效率和吸引力。大赛鼓励开发创新、实用、可持续的智能体应用，解决实际问题，提升生活质量，推动社会智能化转型。期待AI技术与商业广告及应用创新的深度融合，为产业升级和社会发展提供新思路、技术和方案。<h3>Deadline: 2024-08-28T08:00:00+08:00</h3><h3>Reward: 三赛道共69万元</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1188</id>
-        <title><![CDATA[百度商业AI技术创新大赛赛道一：基于大模型的广告检索]]></title>
-        
-        <updated>2024-05-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1188"/>
-        <summary>NLP的显著进步推动了广告检索等IR技术的发展。随着深度学习的广泛应用，在传统的“索引-召回-排序”架构之上，基于表示学习的双塔匹配等技术已成为标准的召回方式。生成式检索的提出进一步革新了检索系统，省去索引直接将候选语料库编码进模型参数，端到端生成文档标识优化检索过程。我们发起基于大模型的广告检索大赛，通过优化模型不断提升检索效果。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1188"><![CDATA[<h3>Description</h3>NLP的显著进步推动了广告检索等IR技术的发展。随着深度学习的广泛应用，在传统的“索引-召回-排序”架构之上，基于表示学习的双塔匹配等技术已成为标准的召回方式。生成式检索的提出进一步革新了检索系统，省去索引直接将候选语料库编码进模型参数，端到端生成文档标识优化检索过程。我们发起基于大模型的广告检索大赛，通过优化模型不断提升检索效果。<h3>Deadline: 2024-08-28T08:00:00+08:00</h3><h3>Reward: 三赛道共69万元</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1190</id>
-        <title><![CDATA[百度商业AI技术创新大赛赛道二：广告图片描述生成]]></title>
-        
-        <updated>2024-05-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1190"/>
-        <summary>在百度商业营销场景，广告图片生成精细化描述具有重要意义和价值。当前，随着大模型时代的到来，利用多模态大语言模型（MLLM）生成图片描述已经成为业界的通用做法（DallE3，Sora, Stable Diffusion3）。本赛道任务是广告图片描述生成，期望通过高质量数据和建模优化，提升图片描述的准确性和完备性。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1190"><![CDATA[<h3>Description</h3>在百度商业营销场景，广告图片生成精细化描述具有重要意义和价值。当前，随着大模型时代的到来，利用多模态大语言模型（MLLM）生成图片描述已经成为业界的通用做法（DallE3，Sora, Stable Diffusion3）。本赛道任务是广告图片描述生成，期望通过高质量数据和建模优化，提升图片描述的准确性和完备性。<h3>Deadline: 2024-08-28T08:00:00+08:00</h3><h3>Reward: 三赛道共69万元</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -617,6 +575,20 @@
     </entry>
     
     <entry>
+        <id>https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge</id>
+        <title><![CDATA[TechCabal Ewè Audio Translation Challenge]]></title>
+        
+        <updated>2024-08-26T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge"/>
+        <summary>Can you build a model to recognise Ewè commands from audio samples?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge"><![CDATA[<h3>Description</h3>Can you build a model to recognise Ewè commands from audio samples?<h3>Deadline: 2024-09-30T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/lacuna-malaria-detection-challenge</id>
         <title><![CDATA[Lacuna Malaria Detection Challenge]]></title>
         
@@ -835,20 +807,6 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
-        <title><![CDATA[Africa Biomass Challenge]]></title>
-        
-        <updated>2023-01-27T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
-        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
