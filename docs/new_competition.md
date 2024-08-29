@@ -1,11 +1,29 @@
-> 更新时间: 2024-08-28T16:00:00+0800 
+> 更新时间: 2024-08-29T16:00:02+0800 
 
 # 新上线比赛
 
 
-## TechCabal Ewè Audio Translation Challenge
-Link: https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge  
-Description: Can you build a model to recognise Ewè commands from audio samples?  
-Deadline: 2024-09-30T07:59:00+0800  
-Reward: $1 000 USD  
+## 第二届全球AI药物研发算法大赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1214  
+Description: 竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！  
+Deadline: 2024-12-31T08:00:00+0800  
+Reward: 10w+奖金  
+
+## “百度搜索·文心智能体创新大赛”技术赛道：基于多工具调用的开放域问答智能体构建
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1235  
+Description: 随着大规模语言模型（LLM）的发展，如何有效利用这些模型利用外部工具回答复杂问题成为一个重要课题。本次比赛赛题旨在通过开发基于 LLM Agent 的智能工具调用系统，提升LLM回答复杂问题的能力。  
+Deadline: 2024-11-20T08:00:00+0800  
+Reward: 12w奖金  
+
+## DiMTAIC 2024 数字医学技术及应用创新大赛-大模型医疗健康项目赛(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532264/introduction  
+Description: 2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。  
+Deadline: 2024-10-16T23:59:59+0800  
+Reward: ￥100000  
+
+## DiMTAIC 2024 数字医学技术及应用创新大赛-甲状腺B超静态及动态影像算法赛(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532255/introduction  
+Description: 上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办2024第二届数字医学技术及应用创新大赛（DiMTAIC 2024）。本次大赛开设甲状腺B超静态及动态影像算法赛道，面向高校、科研单位、企业、临床科研征集团队参赛，优秀队伍有机会获得激励奖金、科研生态支持、多渠道展示等权益。参赛队伍将基于甲状腺灰阶B超影像数据，开发人工智能算法，实现针对静态和动态影像中，对甲状腺结节病灶的自动分割、分类（良恶性）。  
+Deadline: 2024-10-23T21:00:00+0800  
+Reward: ￥100000  
 

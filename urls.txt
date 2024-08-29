@@ -1250,3 +1250,7 @@ https://zindi.africa/competitions/lacuna-malaria-detection-challenge
 https://www.biendata.xyz/competition/bigmodel_cn_s2/
 https://tianchi.aliyun.com/competition/entrance/532261/introduction
 https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/1214
+https://aistudio.baidu.com/aistudio/competition/detail/1235
+https://tianchi.aliyun.com/competition/entrance/532264/introduction
+https://tianchi.aliyun.com/competition/entrance/532255/introduction
