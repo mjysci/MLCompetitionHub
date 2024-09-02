@@ -2,7 +2,7 @@
 
 
 
-## 智谱 BigModel 开放平台客服微调大赛 - 第二季 <sup style="color:red">[new]<sup>  
+## 智谱 BigModel 开放平台客服微调大赛 - 第二季
 
 Link: https://www.biendata.xyz/competition/bigmodel_cn_s2/  
 Description: 智谱 BigModel 开放平台客服微调大赛 - 第二季  
