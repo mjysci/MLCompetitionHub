@@ -1255,3 +1255,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/1235
 https://tianchi.aliyun.com/competition/entrance/532264/introduction
 https://tianchi.aliyun.com/competition/entrance/532255/introduction
 https://tianchi.aliyun.com/competition/entrance/532256/introduction
+https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge
+https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge
