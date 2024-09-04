@@ -1257,3 +1257,6 @@ https://tianchi.aliyun.com/competition/entrance/532255/introduction
 https://tianchi.aliyun.com/competition/entrance/532256/introduction
 https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge
 https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/1245
+https://tianchi.aliyun.com/competition/entrance/532263/introduction
+https://tianchi.aliyun.com/competition/entrance/532262/introduction

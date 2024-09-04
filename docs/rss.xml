@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-09-03T16:00:07+08:00</updated>
+    <updated>2024-09-04T16:00:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -61,6 +61,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1196"/>
         <summary>2024年赛题：AI体育赛事解说</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1196"><![CDATA[<h3>Description</h3>2024年赛题：AI体育赛事解说<h3>Deadline: 2024-11-01T08:00:00+08:00</h3><h3>Reward: ¥20万</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1245</id>
+        <title><![CDATA[千帆杯AI原生应用创意挑战赛——工作流组件常规赛下期]]></title>
+        
+        <updated>2024-09-02T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1245"/>
+        <summary>本期比赛不限应用创作主题，参赛者使用AppBuilder来编排工作流组件，需要将组件发布至组件广场，并提交一个包含该组件的参赛应用作品。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1245"><![CDATA[<h3>Description</h3>本期比赛不限应用创作主题，参赛者使用AppBuilder来编排工作流组件，需要将组件发布至组件广场，并提交一个包含该组件的参赛应用作品。<h3>Deadline: 2024-09-22T08:00:00+08:00</h3><h3>Reward: 千元京东卡、百度周边等</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -515,6 +529,48 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532263/introduction</id>
+        <title><![CDATA[2024年全球 MoonBit 编程创新赛-编程语言设计与实现赛道(赛季 1)]]></title>
+        
+        <updated>2024-08-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532263/introduction"/>
+        <summary>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532263/introduction"><![CDATA[<h3>Description</h3>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。<h3>Deadline: 2024-11-19T20:00:00+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532262/introduction</id>
+        <title><![CDATA[2024年全球 MoonBit 编程创新赛-游戏开发挑战赛道(赛季 1)]]></title>
+        
+        <updated>2024-08-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532262/introduction"/>
+        <summary>通过提供一个用 MoonBit 实现的游戏引擎（Wasm4），鼓励开发者使用Marscode平台进行代码书写并参与游戏开发挑战，展示 MoonBit 的强大功能和潜力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532262/introduction"><![CDATA[<h3>Description</h3>通过提供一个用 MoonBit 实现的游戏引擎（Wasm4），鼓励开发者使用Marscode平台进行代码书写并参与游戏开发挑战，展示 MoonBit 的强大功能和潜力。<h3>Deadline: 2024-11-19T20:00:00+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532253/introduction</id>
+        <title><![CDATA[SMP 2024大模型图分析挑战赛(赛季 2)]]></title>
+        
+        <updated>2024-07-29T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532253/introduction"/>
+        <summary>第十二届全国社会媒体处理大会将在2024年10月于河南新乡召开。全国社会媒体处理大会专注于社会媒体处理领域的科学研究和工程开发，为传播最新的学术研究与技术成果提供广泛的交流平台。第十二届全国社会媒体处理大会（SMP2024）由中国中文信息学会社会媒体处理专委会主办，河南师范大学承办。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532253/introduction"><![CDATA[<h3>Description</h3>第十二届全国社会媒体处理大会将在2024年10月于河南新乡召开。全国社会媒体处理大会专注于社会媒体处理领域的科学研究和工程开发，为传播最新的学术研究与技术成果提供广泛的交流平台。第十二届全国社会媒体处理大会（SMP2024）由中国中文信息学会社会媒体处理专委会主办，河南师范大学承办。<h3>Deadline: 2024-09-17T12:00:00+08:00</h3><h3>Reward: ￥55000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532236/introduction</id>
         <title><![CDATA[【NeurIPS 2024】AIGB赛道： 利用生成式模型学习自动出价Agent(赛季 2)]]></title>
         
@@ -537,20 +593,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532226/introduction"/>
         <summary>在线广告在互联网经济中变得至关重要，其可以帮助广告主吸引更多客户并推广他们的业务。根据统计数据，2023年全球在线广告市场规模达到了6268亿美元。各广告平台相继推出了自动出价服务，以更高效地进行广告投放。相比手动出价，自动出价简化了广告主的流程，并利用广告平台提供的强大自动出价策略来提升效果。如图1所示，自动出价策略能够在海量的展现机会中精准出价，以最大化整体转化量。在出价的过程中考虑广告主的优化目标以及每次展现的预测转化概率。强化学习、决策控制、博弈等算法等在自动出价中发挥了重要的作用。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532226/introduction"><![CDATA[<h3>Description</h3>在线广告在互联网经济中变得至关重要，其可以帮助广告主吸引更多客户并推广他们的业务。根据统计数据，2023年全球在线广告市场规模达到了6268亿美元。各广告平台相继推出了自动出价服务，以更高效地进行广告投放。相比手动出价，自动出价简化了广告主的流程，并利用广告平台提供的强大自动出价策略来提升效果。如图1所示，自动出价策略能够在海量的展现机会中精准出价，以最大化整体转化量。在出价的过程中考虑广告主的优化目标以及每次展现的预测转化概率。强化学习、决策控制、博弈等算法等在自动出价中发挥了重要的作用。<h3>Deadline: 2024-09-12T23:59:59+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532195/introduction</id>
-        <title><![CDATA[Chinagraph 2024“先临精鹰杯”高精度三维重建大赛(赛季 2)]]></title>
-        
-        <updated>2024-05-10T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532195/introduction"/>
-        <summary>随着计算机视觉和图形学技术的飞速发展，三维重建技术已成为当今研究和应用的热点。从二维到三维，从平面到立体，三维重建技术能将物理世界中的实体转换为数字模型，因其建模效率高的特点，已在诸多场景中得到应用，特别是在汽车工业、航空航天、工程机械、艺术文博、虚拟展示、精准医疗、数字齿科、教育科研等领域，展现出了巨大的影响力。为了激励更多开发者参与到该领域的技术创新研究中来，先临三维联合中国计算机图形学大会（Chinagraph2024），面向全社会从事3D重建相关领域的老师、研究人员、学生发起“先临精鹰杯”高精度三维重建大赛。本次大赛秉承“求精”、“创新”、“开放”、“共赢”的理念，旨在通过“实战式”比赛机制，提升开发者三维重建技术创新与技术难题解决能力，加速其在实际应用中的落地和推广，共同推动三维重建技术的发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532195/introduction"><![CDATA[<h3>Description</h3>随着计算机视觉和图形学技术的飞速发展，三维重建技术已成为当今研究和应用的热点。从二维到三维，从平面到立体，三维重建技术能将物理世界中的实体转换为数字模型，因其建模效率高的特点，已在诸多场景中得到应用，特别是在汽车工业、航空航天、工程机械、艺术文博、虚拟展示、精准医疗、数字齿科、教育科研等领域，展现出了巨大的影响力。为了激励更多开发者参与到该领域的技术创新研究中来，先临三维联合中国计算机图形学大会（Chinagraph2024），面向全社会从事3D重建相关领域的老师、研究人员、学生发起“先临精鹰杯”高精度三维重建大赛。本次大赛秉承“求精”、“创新”、“开放”、“共赢”的理念，旨在通过“实战式”比赛机制，提升开发者三维重建技术创新与技术难题解决能力，加速其在实际应用中的落地和推广，共同推动三维重建技术的发展。<h3>Deadline: 2024-09-15T23:59:59+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -631,20 +673,6 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge</id>
-        <title><![CDATA[INEGI-GCIM Vegetation Mapping Challenge ]]></title>
-        
-        <updated>2024-09-02T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge"/>
-        <summary>Can you enhance training data for vegetation mapping?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge"><![CDATA[<h3>Description</h3>Can you enhance training data for vegetation mapping?<h3>Deadline: 2024-09-29T07:59:00+08:00</h3><h3>Reward: CHF 1 000</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge</id>
         <title><![CDATA[INEGI-GCIM Human Settlement Detection Challenge ]]></title>
         
@@ -653,6 +681,20 @@
         <link href="https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge"/>
         <summary>Can you create a satellite-based detection solution for human settlements? </summary>
         <content type="text/html" src="https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge"><![CDATA[<h3>Description</h3>Can you create a satellite-based detection solution for human settlements? <h3>Deadline: 2024-09-29T07:59:00+08:00</h3><h3>Reward: CHF 1 000</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge</id>
+        <title><![CDATA[INEGI-GCIM Vegetation Mapping Challenge ]]></title>
+        
+        <updated>2024-09-02T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge"/>
+        <summary>Can you enhance training data for vegetation mapping?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge"><![CDATA[<h3>Description</h3>Can you enhance training data for vegetation mapping?<h3>Deadline: 2024-09-29T07:59:00+08:00</h3><h3>Reward: CHF 1 000</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -674,7 +716,7 @@
     
     <entry>
         <id>https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery</id>
-        <title><![CDATA[GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery]]></title>
+        <title><![CDATA[GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery ]]></title>
         
         <updated>2024-06-12T14:00:00+08:00</updated>
         

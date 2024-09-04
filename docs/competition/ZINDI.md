@@ -42,18 +42,18 @@ Deadline: 2024-09-19T07:59:00+0800
 Reward: $5 000 USD + Certification  
 
 
-## INEGI-GCIM Vegetation Mapping Challenge  <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
-Description: Can you enhance training data for vegetation mapping?  
-Deadline: 2024-09-29T07:59:00+0800  
-Reward: CHF 1 000  
-
-
 ## INEGI-GCIM Human Settlement Detection Challenge  <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge  
 Description: Can you create a satellite-based detection solution for human settlements?   
+Deadline: 2024-09-29T07:59:00+0800  
+Reward: CHF 1 000  
+
+
+## INEGI-GCIM Vegetation Mapping Challenge  <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
+Description: Can you enhance training data for vegetation mapping?  
 Deadline: 2024-09-29T07:59:00+0800  
 Reward: CHF 1 000  
 
@@ -66,7 +66,7 @@ Deadline: 2024-11-12T07:59:00+0800
 Reward: 2 000 CHF  
 
 
-## GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery
+## GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery 
 
 Link: https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery  
 Description: Can you map plastic covering using satellite imagery?  
