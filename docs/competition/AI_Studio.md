@@ -18,7 +18,7 @@ Deadline: 2024-12-31T08:00:00+0800
 Reward: 10w+奖金  
 
 
-## “百度搜索·文心智能体创新大赛”技术赛道：基于多工具调用的开放域问答智能体构建 <sup style="color:red">[new]<sup>  
+## “百度搜索·文心智能体创新大赛”技术赛道：基于多工具调用的开放域问答智能体构建
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1235  
 Description: 随着大规模语言模型（LLM）的发展，如何有效利用这些模型利用外部工具回答复杂问题成为一个重要课题。本次比赛赛题旨在通过开发基于 LLM Agent 的智能工具调用系统，提升LLM回答复杂问题的能力。  
