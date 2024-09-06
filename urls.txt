@@ -1260,3 +1260,6 @@ https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challeng
 https://aistudio.baidu.com/aistudio/competition/detail/1245
 https://tianchi.aliyun.com/competition/entrance/532263/introduction
 https://tianchi.aliyun.com/competition/entrance/532262/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/1249
+https://tianchi.aliyun.com/competition/entrance/532268/introduction
+https://tianchi.aliyun.com/competition/entrance/532267/introduction

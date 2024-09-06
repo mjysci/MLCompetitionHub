@@ -10,6 +10,14 @@ Deadline: 2024-09-24T08:00:00+0800
 Reward: 5万元奖金  
 
 
+## FlagEval大模型角斗场评测大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1249  
+Description: FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。  
+Deadline: 2024-11-05T08:00:00+0800  
+Reward: 礼品+证书  
+
+
 ## 第二届全球AI药物研发算法大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1214  
