@@ -1263,3 +1263,7 @@ https://tianchi.aliyun.com/competition/entrance/532262/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/1249
 https://tianchi.aliyun.com/competition/entrance/532268/introduction
 https://tianchi.aliyun.com/competition/entrance/532267/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/1220
+https://aistudio.baidu.com/aistudio/competition/detail/1222
+https://tianchi.aliyun.com/competition/entrance/532266/introduction
+https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge

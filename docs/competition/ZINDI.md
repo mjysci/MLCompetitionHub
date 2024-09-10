@@ -2,6 +2,14 @@
 
 
 
+## Financial Inclusion in Africa - IAIO Practice Challenge
+
+Link: https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge  
+Description: Can you predict who in Africa is most likely to have a bank account?  
+Deadline: 2024-09-15T08:00:00+0800  
+Reward: Knowledge  
+
+
 ## Smart Energy Supply Scheduling for Green Telecom Challenge 
 
 Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
@@ -42,18 +50,18 @@ Deadline: 2024-09-19T07:59:00+0800
 Reward: $5 000 USD + Certification  
 
 
-## INEGI-GCIM Vegetation Mapping Challenge 
-
-Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
-Description: Can you enhance training data for vegetation mapping?  
-Deadline: 2024-09-29T07:59:00+0800  
-Reward: CHF 1 000  
-
-
 ## INEGI-GCIM Human Settlement Detection Challenge 
 
 Link: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge  
 Description: Can you create a satellite-based detection solution for human settlements?   
+Deadline: 2024-09-29T07:59:00+0800  
+Reward: CHF 1 000  
+
+
+## INEGI-GCIM Vegetation Mapping Challenge 
+
+Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
+Description: Can you enhance training data for vegetation mapping?  
 Deadline: 2024-09-29T07:59:00+0800  
 Reward: CHF 1 000  
 
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge  
 Description: Can you identify types of damage in cellphone images of crops?  
 Deadline: 2024-01-29T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## CGIAR Eyes on the Ground Challenge
-
-Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
-Description: Can you predict drought damage from smartphone images of crops?  
-Deadline: 2023-11-04T07:59:00+0800  
 Reward: $10 000 USD  
 
