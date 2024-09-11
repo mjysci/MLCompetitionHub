@@ -2,12 +2,12 @@
 
 
 
-## Financial Inclusion in Africa - IAIO Practice Challenge
+## IAIO Official Challenge <sup style="color:red">[new]<sup>  
 
-Link: https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge  
-Description: Can you predict who in Africa is most likely to have a bank account?  
-Deadline: 2024-09-15T08:00:00+0800  
-Reward: Knowledge  
+Link: https://zindi.africa/competitions/iaio-official-challenge  
+Description: Can you predict the fire extent in the MENA region?  
+Deadline: 2024-09-11T19:10:00+0800  
+Reward: IAIO Official Challenge  
 
 
 ## Smart Energy Supply Scheduling for Green Telecom Challenge 

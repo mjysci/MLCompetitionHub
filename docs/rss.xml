@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-09-10T16:00:00+08:00</updated>
+    <updated>2024-09-11T16:00:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -637,14 +637,14 @@
     
     
     <entry>
-        <id>https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge</id>
-        <title><![CDATA[Financial Inclusion in Africa - IAIO Practice Challenge]]></title>
+        <id>https://zindi.africa/competitions/iaio-official-challenge</id>
+        <title><![CDATA[IAIO Official Challenge]]></title>
         
-        <updated>2024-08-21T14:00:00+08:00</updated>
+        <updated>2024-09-11T14:10:00+08:00</updated>
         
-        <link href="https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge"/>
-        <summary>Can you predict who in Africa is most likely to have a bank account?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge"><![CDATA[<h3>Description</h3>Can you predict who in Africa is most likely to have a bank account?<h3>Deadline: 2024-09-15T08:00:00+08:00</h3><h3>Reward: Knowledge</h3>]]></content>
+        <link href="https://zindi.africa/competitions/iaio-official-challenge"/>
+        <summary>Can you predict the fire extent in the MENA region?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/iaio-official-challenge"><![CDATA[<h3>Description</h3>Can you predict the fire extent in the MENA region?<h3>Deadline: 2024-09-11T19:10:00+08:00</h3><h3>Reward: IAIO Official Challenge</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
