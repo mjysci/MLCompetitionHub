@@ -2,14 +2,6 @@
 
 
 
-## IAIO Official Challenge <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/iaio-official-challenge  
-Description: Can you predict the fire extent in the MENA region?  
-Deadline: 2024-09-11T19:10:00+0800  
-Reward: IAIO Official Challenge  
-
-
 ## Smart Energy Supply Scheduling for Green Telecom Challenge 
 
 Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
@@ -50,18 +42,18 @@ Deadline: 2024-09-19T07:59:00+0800
 Reward: $5 000 USD + Certification  
 
 
-## INEGI-GCIM Human Settlement Detection Challenge 
-
-Link: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge  
-Description: Can you create a satellite-based detection solution for human settlements?   
-Deadline: 2024-09-29T07:59:00+0800  
-Reward: CHF 1 000  
-
-
 ## INEGI-GCIM Vegetation Mapping Challenge 
 
 Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
 Description: Can you enhance training data for vegetation mapping?  
+Deadline: 2024-09-29T07:59:00+0800  
+Reward: CHF 1 000  
+
+
+## INEGI-GCIM Human Settlement Detection Challenge 
+
+Link: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge  
+Description: Can you create a satellite-based detection solution for human settlements?   
 Deadline: 2024-09-29T07:59:00+0800  
 Reward: CHF 1 000  
 
@@ -88,6 +80,14 @@ Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challe
 Description: Can you estimate ground-level NO2 concentrations using remote sensing data?  
 Deadline: 2024-11-16T07:59:00+0800  
 Reward: 1000 CHF  
+
+
+## IAIO Official Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/iaio-official-challenge  
+Description: Can you predict the fire extent in the MENA region?  
+Deadline: 2024-09-11T19:10:00+0800  
+Reward: IAIO Official Challenge  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
