@@ -82,14 +82,6 @@ Deadline: 2024-11-16T07:59:00+0800
 Reward: 1000 CHF  
 
 
-## IAIO Official Challenge <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/iaio-official-challenge  
-Description: Can you predict the fire extent in the MENA region?  
-Deadline: 2024-09-11T19:10:00+0800  
-Reward: IAIO Official Challenge  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge  
 Description: Can you identify types of damage in cellphone images of crops?  
 Deadline: 2024-01-29T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## CGIAR Eyes on the Ground Challenge
+
+Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
+Description: Can you predict drought damage from smartphone images of crops?  
+Deadline: 2023-11-04T07:59:00+0800  
 Reward: $10 000 USD  
 
