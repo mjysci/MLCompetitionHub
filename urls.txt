@@ -1268,3 +1268,8 @@ https://aistudio.baidu.com/aistudio/competition/detail/1222
 https://tianchi.aliyun.com/competition/entrance/532266/introduction
 https://zindi.africa/competitions/financial-inclusion-in-africa-iaio-practice-challenge
 https://zindi.africa/competitions/iaio-official-challenge
+https://www.datafountain.cn/competitions/1047
+https://www.datafountain.cn/competitions/1046
+https://www.datafountain.cn/competitions/1045
+https://www.datafountain.cn/competitions/1044
+https://www.datafountain.cn/competitions/1041
