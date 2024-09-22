@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-09-21T16:02:13+08:00</updated>
+    <updated>2024-09-22T16:00:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -308,6 +308,176 @@
     
     
     
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1047</id>
+        <title><![CDATA[「AI for TuGraph」小样本条件下的自然语言至图查询语言翻译大模型微调]]></title>
+        
+        <updated>2024-09-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1047"/>
+        <summary>「AI for TuGraph」小样本条件下的自然语言至图查询语言翻译大模型微调</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1047"><![CDATA[<h3>Description</h3>「AI for TuGraph」小样本条件下的自然语言至图查询语言翻译大模型微调<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1046</id>
+        <title><![CDATA[「TuGraph for AI」RAG在智能问答场景中的落地]]></title>
+        
+        <updated>2024-09-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1046"/>
+        <summary>「TuGraph for AI」RAG在智能问答场景中的落地</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1046"><![CDATA[<h3>Description</h3>「TuGraph for AI」RAG在智能问答场景中的落地<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1045</id>
+        <title><![CDATA[基于运营商文本数据的知识库检索]]></title>
+        
+        <updated>2024-09-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1045"/>
+        <summary>基于运营商文本数据的知识库检索</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1045"><![CDATA[<h3>Description</h3>基于运营商文本数据的知识库检索<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1044</id>
+        <title><![CDATA[基于TPU平台的OCR模型性能优化]]></title>
+        
+        <updated>2024-09-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1044"/>
+        <summary>基于TPU平台的OCR模型性能优化</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1044"><![CDATA[<h3>Description</h3>基于TPU平台的OCR模型性能优化<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1041</id>
+        <title><![CDATA[基于Intel Gaudi AI加速器的大语言模型微调与推理优化]]></title>
+        
+        <updated>2024-09-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1041"/>
+        <summary>基于Intel Gaudi AI加速器的大语言模型微调与推理优化</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1041"><![CDATA[<h3>Description</h3>基于Intel Gaudi AI加速器的大语言模型微调与推理优化<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1032</id>
+        <title><![CDATA[基于大模型的文本内容智能评判]]></title>
+        
+        <updated>2024-07-17T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1032"/>
+        <summary>基于大模型的文本内容智能评判</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1032"><![CDATA[<h3>Description</h3>基于大模型的文本内容智能评判<h3>Deadline: 2024-09-27T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1031</id>
+        <title><![CDATA[大型语言模型的非结构化知识编辑]]></title>
+        
+        <updated>2024-08-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1031"/>
+        <summary>大型语言模型的非结构化知识编辑</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1031"><![CDATA[<h3>Description</h3>大型语言模型的非结构化知识编辑<h3>Deadline: 2024-09-24T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1026</id>
+        <title><![CDATA[智能交通信号灯调度赛道]]></title>
+        
+        <updated>2024-05-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1026"/>
+        <summary>智能交通信号灯调度赛道</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1026"><![CDATA[<h3>Description</h3>智能交通信号灯调度赛道<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: ￥270000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1025</id>
+        <title><![CDATA[AI芯片算子开发赛道]]></title>
+        
+        <updated>2024-05-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1025"/>
+        <summary>AI芯片算子开发赛道</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1025"><![CDATA[<h3>Description</h3>AI芯片算子开发赛道<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: ￥270000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1024</id>
+        <title><![CDATA[智能体博弈算法赛道]]></title>
+        
+        <updated>2024-05-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1024"/>
+        <summary>智能体博弈算法赛道</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1024"><![CDATA[<h3>Description</h3>智能体博弈算法赛道<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: ￥920000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1019</id>
+        <title><![CDATA[基于大语言模型的数据库查询指令生成]]></title>
+        
+        <updated>2024-07-10T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1019"/>
+        <summary>基于大语言模型的数据库查询指令生成</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1019"><![CDATA[<h3>Description</h3>基于大语言模型的数据库查询指令生成<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1018</id>
+        <title><![CDATA[基于SAR图像的近岸密集小目标船只检测]]></title>
+        
+        <updated>2024-07-10T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1018"/>
+        <summary>基于SAR图像的近岸密集小目标船只检测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1018"><![CDATA[<h3>Description</h3>基于SAR图像的近岸密集小目标船只检测<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    
+    
     
     
     <entry>
@@ -593,20 +763,6 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge</id>
-        <title><![CDATA[INEGI UN-GGIM Human Settlement Detection Challenge ]]></title>
-        
-        <updated>2024-09-02T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge"/>
-        <summary>Can you create a satellite-based detection solution for human settlements? </summary>
-        <content type="text/html" src="https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge"><![CDATA[<h3>Description</h3>Can you create a satellite-based detection solution for human settlements? <h3>Deadline: 2024-09-29T07:59:00+08:00</h3><h3>Reward: CHF 1 000</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge</id>
         <title><![CDATA[INEGI UN-GGIM Vegetation Mapping Challenge ]]></title>
         
@@ -615,6 +771,20 @@
         <link href="https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge"/>
         <summary>Can you enhance training data for vegetation mapping?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge"><![CDATA[<h3>Description</h3>Can you enhance training data for vegetation mapping?<h3>Deadline: 2024-09-29T07:59:00+08:00</h3><h3>Reward: CHF 1 000</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge</id>
+        <title><![CDATA[INEGI UN-GGIM Human Settlement Detection Challenge ]]></title>
+        
+        <updated>2024-09-02T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge"/>
+        <summary>Can you create a satellite-based detection solution for human settlements? </summary>
+        <content type="text/html" src="https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge"><![CDATA[<h3>Description</h3>Can you create a satellite-based detection solution for human settlements? <h3>Deadline: 2024-09-29T07:59:00+08:00</h3><h3>Reward: CHF 1 000</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
