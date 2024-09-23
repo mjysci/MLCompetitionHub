@@ -57,11 +57,3 @@ Description: 2024年赛题：AI体育赛事解说
 Deadline: 2024-11-01T08:00:00+0800  
 Reward: 20w奖金  
 
-
-## 千帆杯AI原生应用创意挑战赛——工作流组件常规赛下期
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1245  
-Description: 本期比赛不限应用创作主题，参赛者使用AppBuilder来编排工作流组件，需要将组件发布至组件广场，并提交一个包含该组件的参赛应用作品。  
-Deadline: 2024-09-22T08:00:00+0800  
-Reward: 千元京东卡、百度周边等  
-
