@@ -54,7 +54,7 @@ Reward: ￥20000
 
 Link: https://www.datafountain.cn/competitions/1031  
 Description: 大型语言模型的非结构化知识编辑  
-Deadline: 2024-09-24T23:59:59+0800  
+Deadline: 2024-09-26T23:59:59+0800  
 Reward: ￥20000  
 
 
