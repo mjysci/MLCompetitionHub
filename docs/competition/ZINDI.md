@@ -42,18 +42,18 @@ Deadline: 2024-10-14T07:59:00+0800
 Reward: $5 000 USD + Certification  
 
 
-## INEGI UN-GGIM Vegetation Mapping Challenge 
-
-Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
-Description: Can you enhance training data for vegetation mapping?  
-Deadline: 2024-09-29T07:59:00+0800  
-Reward: CHF 1 000  
-
-
 ## INEGI UN-GGIM Human Settlement Detection Challenge 
 
 Link: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge  
 Description: Can you create a satellite-based detection solution for human settlements?   
+Deadline: 2024-09-29T07:59:00+0800  
+Reward: CHF 1 000  
+
+
+## INEGI UN-GGIM Vegetation Mapping Challenge 
+
+Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
+Description: Can you enhance training data for vegetation mapping?  
 Deadline: 2024-09-29T07:59:00+0800  
 Reward: CHF 1 000  
 
