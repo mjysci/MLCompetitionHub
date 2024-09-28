@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-09-27T16:00:00+08:00</updated>
+    <updated>2024-09-28T15:59:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -345,20 +345,6 @@
         <link href="https://www.datafountain.cn/competitions/1041"/>
         <summary>基于Intel Gaudi AI加速器的大语言模型微调与推理优化</summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/1041"><![CDATA[<h3>Description</h3>基于Intel Gaudi AI加速器的大语言模型微调与推理优化<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1032</id>
-        <title><![CDATA[基于大模型的文本内容智能评判]]></title>
-        
-        <updated>2024-07-17T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1032"/>
-        <summary>基于大模型的文本内容智能评判</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1032"><![CDATA[<h3>Description</h3>基于大模型的文本内容智能评判<h3>Deadline: 2024-09-27T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
