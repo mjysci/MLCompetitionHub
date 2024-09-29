@@ -42,22 +42,6 @@ Deadline: 2024-10-14T07:59:00+0800
 Reward: $5 000 USD + Certification  
 
 
-## INEGI UN-GGIM Human Settlement Detection Challenge 
-
-Link: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge  
-Description: Can you create a satellite-based detection solution for human settlements?   
-Deadline: 2024-09-29T07:59:00+0800  
-Reward: CHF 1 000  
-
-
-## INEGI UN-GGIM Vegetation Mapping Challenge 
-
-Link: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge  
-Description: Can you enhance training data for vegetation mapping?  
-Deadline: 2024-09-29T07:59:00+0800  
-Reward: CHF 1 000  
-
-
 ## GeoAI Amazon Basin Secret Runway Detection Challenge 
 
 Link: https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge  
@@ -159,5 +143,21 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
 Description: Can you predict drought damage from smartphone images of crops?  
 Deadline: 2023-11-04T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Digital Africa Plantation Counting Challenge
+
+Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
+Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
+Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
