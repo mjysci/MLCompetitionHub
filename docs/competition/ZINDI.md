@@ -18,14 +18,6 @@ Deadline: 2024-10-12T07:59:00+0800
 Reward: 12 000 CHF  
 
 
-## TechCabal Ewè Audio Translation Challenge
-
-Link: https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge  
-Description: Can you build a model to recognise Ewè commands from audio samples?  
-Deadline: 2024-09-30T07:59:00+0800  
-Reward: $1 000 USD  
-
-
 ## Lacuna Malaria Detection Challenge
 
 Link: https://zindi.africa/competitions/lacuna-malaria-detection-challenge  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
