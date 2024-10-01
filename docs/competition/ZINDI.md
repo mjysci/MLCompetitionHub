@@ -2,14 +2,6 @@
 
 
 
-## Smart Energy Supply Scheduling for Green Telecom Challenge 
-
-Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
-Description: Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?  
-Deadline: 2024-10-01T07:59:00+0800  
-Reward: 18 000 CHF  
-
-
 ## Spatio-Temporal Beam-Level Traffic Forecasting Challenge 
 
 Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
@@ -64,6 +56,14 @@ Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling
 Description: Can you predict energy consumption of different 5G products?  
 Deadline: 2023-10-14T07:59:00+0800  
 Reward: 20 000 CHF  
+
+
+## Smart Energy Supply Scheduling for Green Telecom Challenge 
+
+Link: https://zindi.africa/competitions/smart-energy-supply-scheduling-for-green-telecom  
+Description: Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?  
+Deadline: 2024-10-01T07:59:00+0800  
+Reward: 18 000 CHF  
 
 
 ## RMB CPI Nowcasting Challenge
