@@ -13,7 +13,7 @@ Reward: 12 000 CHF
 ## Ghana Crop Disease Detection Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/ghana-crop-disease-detection-challenge  
-Description: Can you build a model for mobile phones to identify diseases on tomato, corn, and peppers?  
+Description: Can you build a model for mobile phones to identify diseases on tomatoes, corn, and peppers?  
 Deadline: 2024-12-16T07:59:00+0800  
 Reward: $8 000 USD  
 
@@ -56,6 +56,14 @@ Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challe
 Description: Can you estimate ground-level NO2 concentrations using remote sensing data?  
 Deadline: 2024-11-16T07:59:00+0800  
 Reward: 1000 CHF  
+
+
+## Validation: Smart Energy Supply Scheduling for Green Telecom Challenge  <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge  
+Description: Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?  
+Deadline: 2024-10-08T20:00:00+0800  
+Reward: 1  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Africa Biomass Challenge
-
-Link: https://zindi.africa/competitions/africa-biomass-challenge  
-Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
-Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 

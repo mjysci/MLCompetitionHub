@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-10-04T16:00:09+08:00</updated>
+    <updated>2024-10-05T16:00:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -657,8 +657,8 @@
         <updated>2024-10-04T16:00:00+08:00</updated>
         
         <link href="https://zindi.africa/competitions/ghana-crop-disease-detection-challenge"/>
-        <summary>Can you build a model for mobile phones to identify diseases on tomato, corn, and peppers?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/ghana-crop-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you build a model for mobile phones to identify diseases on tomato, corn, and peppers?<h3>Deadline: 2024-12-16T07:59:00+08:00</h3><h3>Reward: $8 000 USD</h3>]]></content>
+        <summary>Can you build a model for mobile phones to identify diseases on tomatoes, corn, and peppers?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/ghana-crop-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you build a model for mobile phones to identify diseases on tomatoes, corn, and peppers?<h3>Deadline: 2024-12-16T07:59:00+08:00</h3><h3>Reward: $8 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -729,6 +729,20 @@
         <link href="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"/>
         <summary>Can you estimate ground-level NO2 concentrations using remote sensing data?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"><![CDATA[<h3>Description</h3>Can you estimate ground-level NO2 concentrations using remote sensing data?<h3>Deadline: 2024-11-16T07:59:00+08:00</h3><h3>Reward: 1000 CHF</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge</id>
+        <title><![CDATA[Validation: Smart Energy Supply Scheduling for Green Telecom Challenge ]]></title>
+        
+        <updated>2024-10-04T19:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge"/>
+        <summary>Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge"><![CDATA[<h3>Description</h3>Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?<h3>Deadline: 2024-10-08T20:00:00+08:00</h3><h3>Reward: 1</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -897,20 +911,6 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
-        <title><![CDATA[Africa Biomass Challenge]]></title>
-        
-        <updated>2023-01-27T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
-        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

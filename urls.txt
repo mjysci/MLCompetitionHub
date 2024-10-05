@@ -1274,3 +1274,4 @@ https://www.datafountain.cn/competitions/1045
 https://www.datafountain.cn/competitions/1044
 https://www.datafountain.cn/competitions/1041
 https://zindi.africa/competitions/ghana-crop-disease-detection-challenge
+https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge
