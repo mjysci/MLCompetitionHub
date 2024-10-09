@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-10-08T16:00:23+08:00</updated>
+    <updated>2024-10-09T16:00:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -497,6 +497,24 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532276/introduction</id>
+        <title><![CDATA[第六届天池全球数据库大赛(赛季 1)]]></title>
+        
+        <updated>2024-09-27T14:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532276/introduction"/>
+        <summary>2024年第6届天池全球数据库大赛，是由阿里云与英特尔联合主办，阿里云天池平台、阿里云瑶池数据库和开发者社区承办的年度数据库品牌赛事。
+
+本届大赛旨在鼓励参赛者通过创新的优化方法，充分挖掘数据库系统软硬件潜力，提升基准测试场景下的表现。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532276/introduction"><![CDATA[<h3>Description</h3>2024年第6届天池全球数据库大赛，是由阿里云与英特尔联合主办，阿里云天池平台、阿里云瑶池数据库和开发者社区承办的年度数据库品牌赛事。
+
+本届大赛旨在鼓励参赛者通过创新的优化方法，充分挖掘数据库系统软硬件潜力，提升基准测试场景下的表现。<h3>Deadline: 2024-11-04T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532268/introduction</id>
         <title><![CDATA[全球AI攻防挑战赛—赛道一：大模型生图安全疫苗注入(赛季 1)]]></title>
         
@@ -618,20 +636,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532236/introduction</id>
-        <title><![CDATA[【NeurIPS 2024】AIGB赛道： 利用生成式模型学习自动出价Agent(赛季 3)]]></title>
-        
-        <updated>2024-06-26T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532236/introduction"/>
-        <summary>决策技术（Decision-making）是人工智能的一个关键研究领域，在大型博弈场景中具有广泛的应用，例如在线广告、金融市场、电子商务和能源交易。在大型博弈中，智能体需要在资源有限、不确定且竞争激烈的环境中，进行高频率的策略性决策，以优化其目标。这种环境的特征是显著的随机性和大量竞争者的策略迅速变化。在线广告就是一个典型的大型博弈场景，2023年的市场规模达到了6268亿美元，自动出价已成为推动其持续增长的关键因素。如图1所示，自动出价智能体在大量持续到来的展现机会中，顺序的进行出价，以最大化广告效果，同时遵循广告主的某些约束条件。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532236/introduction"><![CDATA[<h3>Description</h3>决策技术（Decision-making）是人工智能的一个关键研究领域，在大型博弈场景中具有广泛的应用，例如在线广告、金融市场、电子商务和能源交易。在大型博弈中，智能体需要在资源有限、不确定且竞争激烈的环境中，进行高频率的策略性决策，以优化其目标。这种环境的特征是显著的随机性和大量竞争者的策略迅速变化。在线广告就是一个典型的大型博弈场景，2023年的市场规模达到了6268亿美元，自动出价已成为推动其持续增长的关键因素。如图1所示，自动出价智能体在大量持续到来的展现机会中，顺序的进行出价，以最大化广告效果，同时遵循广告主的某些约束条件。<h3>Deadline: 2024-10-24T23:59:59+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
     
     
     
@@ -729,20 +733,6 @@
         <link href="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"/>
         <summary>Can you estimate ground-level NO2 concentrations using remote sensing data?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"><![CDATA[<h3>Description</h3>Can you estimate ground-level NO2 concentrations using remote sensing data?<h3>Deadline: 2024-11-16T07:59:00+08:00</h3><h3>Reward: 1000 CHF</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge</id>
-        <title><![CDATA[Validation: Smart Energy Supply Scheduling for Green Telecom Challenge ]]></title>
-        
-        <updated>2024-10-04T19:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge"/>
-        <summary>Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/validation-smart-energy-supply-scheduling-for-green-telecom-challenge"><![CDATA[<h3>Description</h3>Can you predict daily solar energy generation and create optimal strategies for utilizing these energy sources?<h3>Deadline: 2024-10-08T20:00:00+08:00</h3><h3>Reward: 1</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -911,6 +901,20 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
+        <title><![CDATA[Africa Biomass Challenge]]></title>
+        
+        <updated>2023-01-27T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
+        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
