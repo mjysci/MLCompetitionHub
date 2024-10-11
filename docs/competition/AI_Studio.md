@@ -54,6 +54,6 @@ Reward: 5w奖金
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
 Description: 2024年赛题：AI体育赛事解说  
-Deadline: 2024-11-01T08:00:00+0800  
+Deadline: 2024-11-27T08:00:00+0800  
 Reward: 20w奖金  
 
