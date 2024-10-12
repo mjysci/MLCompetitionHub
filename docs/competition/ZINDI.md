@@ -2,15 +2,7 @@
 
 
 
-## Spatio-Temporal Beam-Level Traffic Forecasting Challenge 
-
-Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
-Description: Can you forecast traffic throughput volumes within communication networks?  
-Deadline: 2024-10-12T07:59:00+0800  
-Reward: 12 000 CHF  
-
-
-## Ghana Crop Disease Detection Challenge <sup style="color:red">[new]<sup>  
+## Ghana Crop Disease Detection Challenge
 
 Link: https://zindi.africa/competitions/ghana-crop-disease-detection-challenge  
 Description: Can you build a model for mobile phones to identify diseases on tomatoes, corn, and peppers?  
@@ -88,6 +80,14 @@ Link: https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge
 Description: Can you  improve a pest control app by counting the number of bollworm moths per image?  
 Deadline: 2022-12-05T07:59:00+0800  
 Reward: €15 000 EUR  
+
+
+## Spatio-Temporal Beam-Level Traffic Forecasting Challenge 
+
+Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
+Description: Can you forecast traffic throughput volumes within communication networks?  
+Deadline: 2024-10-12T07:59:00+0800  
+Reward: 12 000 CHF  
 
 
 ## Traffic Jam: Predicting People's Movement into Nairobi
