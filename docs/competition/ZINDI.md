@@ -18,14 +18,6 @@ Deadline: 2024-11-18T07:59:00+0800
 Reward: $5 000 USD  
 
 
-## Microsoft Learn Location Mention Recognition Challenge
-
-Link: https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge  
-Description: Can you identify locations in a tweet?  
-Deadline: 2024-10-14T07:59:00+0800  
-Reward: $5 000 USD + Certification  
-
-
 ## GeoAI Amazon Basin Secret Runway Detection Challenge 
 
 Link: https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
