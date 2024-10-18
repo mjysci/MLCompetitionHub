@@ -2,6 +2,14 @@
 
 
 
+## 基于航片的玉米异常情况识别 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/1064  
+Description: 基于航片的玉米异常情况识别  
+Deadline: 2024-12-30T23:59:59+0800  
+Reward: ￥50000  
+
+
 ## 第五届中国人工智能大赛
 
 Link: https://www.datafountain.cn/competitions/1063  
