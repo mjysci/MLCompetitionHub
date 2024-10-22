@@ -1286,3 +1286,4 @@ https://www.datafountain.cn/competitions/1016
 https://www.datafountain.cn/competitions/1015
 https://www.datafountain.cn/competitions/1014
 https://www.datafountain.cn/competitions/1064
+https://tianchi.aliyun.com/competition/entrance/532277/introduction
