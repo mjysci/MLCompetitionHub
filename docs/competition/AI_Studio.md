@@ -2,20 +2,20 @@
 
 
 
-## 星河产业应用创新奖-大模型应用
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1220  
-Description: “星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。  
-Deadline: 2024-12-30T08:00:00+0800  
-Reward: 定制权益  
-
-
 ## FlagEval大模型角斗场评测大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1249  
 Description: FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。  
 Deadline: 2024-11-05T08:00:00+0800  
 Reward: 礼品+证书  
+
+
+## 科学计算工具组建开发大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1259  
+Description: 为多个科学计算领域重点工具组件适配飞桨后端，完善飞桨框架工具组件生态，提高飞桨用户开发效率。  
+Deadline: 2024-12-31T08:00:00+0800  
+Reward: 250000  
 
 
 ## 第二届全球AI药物研发算法大赛
@@ -34,12 +34,12 @@ Deadline: 2024-12-31T08:00:00+0800
 Reward: 定制权益  
 
 
-## “百度搜索·文心智能体创新大赛”技术赛道：基于多工具调用的开放域问答智能体构建
+## 星河产业应用创新奖-大模型应用
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1235  
-Description: 随着大规模语言模型（LLM）的发展，如何有效利用这些模型利用外部工具回答复杂问题成为一个重要课题。本次比赛赛题旨在通过开发基于 LLM Agent 的智能工具调用系统，提升LLM回答复杂问题的能力。  
-Deadline: 2024-11-20T08:00:00+0800  
-Reward: 12w奖金  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1220  
+Description: “星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。  
+Deadline: 2024-12-30T08:00:00+0800  
+Reward: 定制权益  
 
 
 ## 2024CSIG-飞桨、工银瑞信金融科技挑战赛

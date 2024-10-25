@@ -2,7 +2,7 @@
 
 
 
-## 基于航片的玉米异常情况识别 <sup style="color:red">[new]<sup>  
+## 基于航片的玉米异常情况识别
 
 Link: https://www.datafountain.cn/competitions/1064  
 Description: 基于航片的玉米异常情况识别  
