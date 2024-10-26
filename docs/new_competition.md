@@ -1,11 +1,11 @@
-> 更新时间: 2024-10-25T15:59:57+0800 
+> 更新时间: 2024-10-26T15:59:58+0800 
 
 # 新上线比赛
 
 
-## 科学计算工具组建开发大赛
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1259  
-Description: 为多个科学计算领域重点工具组件适配飞桨后端，完善飞桨框架工具组件生态，提高飞桨用户开发效率。  
-Deadline: 2024-12-31T08:00:00+0800  
-Reward: 250000  
+## 飞桨星河社区 Robotics Hackathon
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
+Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
+Deadline: 2024-11-24T08:00:00+0800  
+Reward: 100000  
 

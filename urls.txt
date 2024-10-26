@@ -1288,3 +1288,4 @@ https://www.datafountain.cn/competitions/1014
 https://www.datafountain.cn/competitions/1064
 https://tianchi.aliyun.com/competition/entrance/532277/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/1259
+https://aistudio.baidu.com/aistudio/competition/detail/1255
