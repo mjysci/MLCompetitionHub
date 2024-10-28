@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-10-27T16:00:02+08:00</updated>
+    <updated>2024-10-28T16:00:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -680,7 +680,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532276/introduction</id>
-        <title><![CDATA[第六届天池全球数据库大赛(赛季 1)]]></title>
+        <title><![CDATA[2024年第6届天池全球数据库大赛——PolarDB TPC-C性能优化挑战赛(赛季 1)]]></title>
         
         <updated>2024-09-27T14:00:00+08:00</updated>
         
@@ -799,20 +799,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532255/introduction"/>
         <summary>上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办2024第二届数字医学技术及应用创新大赛（DiMTAIC 2024）。本次大赛开设甲状腺B超静态及动态影像算法赛道，面向高校、科研单位、企业、临床科研征集团队参赛，优秀队伍有机会获得激励奖金、科研生态支持、多渠道展示等权益。参赛队伍将基于甲状腺灰阶B超影像数据，开发人工智能算法，实现针对静态和动态影像中，对甲状腺结节病灶的自动分割、分类（良恶性）。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532255/introduction"><![CDATA[<h3>Description</h3>上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办2024第二届数字医学技术及应用创新大赛（DiMTAIC 2024）。本次大赛开设甲状腺B超静态及动态影像算法赛道，面向高校、科研单位、企业、临床科研征集团队参赛，优秀队伍有机会获得激励奖金、科研生态支持、多渠道展示等权益。参赛队伍将基于甲状腺灰阶B超影像数据，开发人工智能算法，实现针对静态和动态影像中，对甲状腺结节病灶的自动分割、分类（良恶性）。<h3>Deadline: 2024-11-10T21:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532264/introduction</id>
-        <title><![CDATA[DiMTAIC 2024 数字医学技术及应用创新大赛-大模型医疗健康项目赛(赛季 2)]]></title>
-        
-        <updated>2024-08-23T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532264/introduction"/>
-        <summary>2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532264/introduction"><![CDATA[<h3>Description</h3>2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。<h3>Deadline: 2024-11-07T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
