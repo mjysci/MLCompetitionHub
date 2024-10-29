@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-10-28T16:00:02+08:00</updated>
+    <updated>2024-10-29T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,34 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1249"/>
         <summary>FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1249"><![CDATA[<h3>Description</h3>FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。<h3>Deadline: 2024-11-05T08:00:00+08:00</h3><h3>Reward: 礼品+证书</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1251</id>
+        <title><![CDATA[飞桨星河社区 ERINE Hackathon]]></title>
+        
+        <updated>2024-10-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1251"/>
+        <summary>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1251"><![CDATA[<h3>Description</h3>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。<h3>Deadline: 2024-11-25T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1253</id>
+        <title><![CDATA[飞桨星河社区 Agent Hackathon]]></title>
+        
+        <updated>2024-10-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1253"/>
+        <summary>智能体开发挑战，基于文心大模型结合实际应用场景开发Agent。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1253"><![CDATA[<h3>Description</h3>智能体开发挑战，基于文心大模型结合实际应用场景开发Agent。<h3>Deadline: 2024-11-25T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -47,6 +75,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1259"/>
         <summary>为多个科学计算领域重点工具组件适配飞桨后端，完善飞桨框架工具组件生态，提高飞桨用户开发效率。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1259"><![CDATA[<h3>Description</h3>为多个科学计算领域重点工具组件适配飞桨后端，完善飞桨框架工具组件生态，提高飞桨用户开发效率。<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 250000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1261</id>
+        <title><![CDATA[飞桨多模态大模型套件PaddleMIX开发大赛]]></title>
+        
+        <updated>2024-10-25T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1261"/>
+        <summary>飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1261"><![CDATA[<h3>Description</h3>飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 150000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -89,34 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1220"/>
         <summary>“星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1220"><![CDATA[<h3>Description</h3>“星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。<h3>Deadline: 2024-12-30T08:00:00+08:00</h3><h3>Reward: 定制权益</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1212</id>
-        <title><![CDATA[2024CSIG-飞桨、工银瑞信金融科技挑战赛]]></title>
-        
-        <updated>2024-07-08T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1212"/>
-        <summary>基于K线图的股票预测模型</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1212"><![CDATA[<h3>Description</h3>基于K线图的股票预测模型<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 5w奖金</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1196</id>
-        <title><![CDATA[2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&amp;西安交大大数据竞赛]]></title>
-        
-        <updated>2024-06-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1196"/>
-        <summary>2024年赛题：AI体育赛事解说</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1196"><![CDATA[<h3>Description</h3>2024年赛题：AI体育赛事解说<h3>Deadline: 2024-11-27T08:00:00+08:00</h3><h3>Reward: 20w奖金</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -803,8 +817,6 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
-    
-    
     
     
     

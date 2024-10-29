@@ -10,7 +10,23 @@ Deadline: 2024-11-05T08:00:00+0800
 Reward: 礼品+证书  
 
 
-## 飞桨星河社区 Robotics Hackathon <sup style="color:red">[new]<sup>  
+## 飞桨星河社区 ERINE Hackathon
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1251  
+Description: 基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。  
+Deadline: 2024-11-25T08:00:00+0800  
+Reward: 100000  
+
+
+## 飞桨星河社区 Agent Hackathon
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1253  
+Description: 智能体开发挑战，基于文心大模型结合实际应用场景开发Agent。  
+Deadline: 2024-11-25T08:00:00+0800  
+Reward: 100000  
+
+
+## 飞桨星河社区 Robotics Hackathon
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
 Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
@@ -24,6 +40,14 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1259
 Description: 为多个科学计算领域重点工具组件适配飞桨后端，完善飞桨框架工具组件生态，提高飞桨用户开发效率。  
 Deadline: 2024-12-31T08:00:00+0800  
 Reward: 250000  
+
+
+## 飞桨多模态大模型套件PaddleMIX开发大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1261  
+Description: 飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。  
+Deadline: 2024-12-31T08:00:00+0800  
+Reward: 150000  
 
 
 ## 第二届全球AI药物研发算法大赛
@@ -48,20 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1220
 Description: “星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。  
 Deadline: 2024-12-30T08:00:00+0800  
 Reward: 定制权益  
-
-
-## 2024CSIG-飞桨、工银瑞信金融科技挑战赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1212  
-Description: 基于K线图的股票预测模型  
-Deadline: 2024-12-31T08:00:00+0800  
-Reward: 5w奖金  
-
-
-## 2024 IKCEST第六届“一带一路”国际大数据竞赛暨第十届百度&西安交大大数据竞赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1196  
-Description: 2024年赛题：AI体育赛事解说  
-Deadline: 2024-11-27T08:00:00+0800  
-Reward: 20w奖金  
 
