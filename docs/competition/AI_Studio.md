@@ -34,7 +34,7 @@ Deadline: 2024-11-24T08:00:00+0800
 Reward: 100000  
 
 
-## 科学计算工具组建开发大赛 <sup style="color:red">[new]<sup>  
+## 科学计算工具组建开发大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1259  
 Description: 为多个科学计算领域重点工具组件适配飞桨后端，完善飞桨框架工具组件生态，提高飞桨用户开发效率。  
