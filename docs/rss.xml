@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-02T16:00:03+08:00</updated>
+    <updated>2024-11-03T16:00:23+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -711,40 +711,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532268/introduction</id>
-        <title><![CDATA[全球AI攻防挑战赛—赛道一：大模型生图安全疫苗注入(赛季 1)]]></title>
-        
-        <updated>2024-09-06T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532268/introduction"/>
-        <summary>文生图大模型在影视艺术创作、产品原型设计、游戏动画开发等方向具有广泛的应用场景，同时，也被探索用于医疗教学和文物修复等工作。在产业侧，头部大厂已上线诸多基于此类大模型的文生图服务，如蚂蚁智能助理、通义万相等。
-
-然而，文生图大模型面临着巨大的滥用风险，如生成虚假、违法违规、血腥恐怖或歧视仇恨的图片，评估此类模型和系统的安全防范能力至关重要。鉴于此，我们希望通过比赛，从产业应用需求出发，以攻促防开设文生图攻击赛道。通过为大模型注入生成式“风险疫苗”，透视大模型生图潜在弱点和漏洞，进一步增强、健全大模型生图的安全免疫抵抗系统。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532268/introduction"><![CDATA[<h3>Description</h3>文生图大模型在影视艺术创作、产品原型设计、游戏动画开发等方向具有广泛的应用场景，同时，也被探索用于医疗教学和文物修复等工作。在产业侧，头部大厂已上线诸多基于此类大模型的文生图服务，如蚂蚁智能助理、通义万相等。
-
-然而，文生图大模型面临着巨大的滥用风险，如生成虚假、违法违规、血腥恐怖或歧视仇恨的图片，评估此类模型和系统的安全防范能力至关重要。鉴于此，我们希望通过比赛，从产业应用需求出发，以攻促防开设文生图攻击赛道。通过为大模型注入生成式“风险疫苗”，透视大模型生图潜在弱点和漏洞，进一步增强、健全大模型生图的安全免疫抵抗系统。<h3>Deadline: 2024-11-02T23:59:59+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532267/introduction</id>
-        <title><![CDATA[全球AI攻防挑战赛—赛道二：AI核身之金融场景凭证篡改检测(赛季 2)]]></title>
-        
-        <updated>2024-09-06T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532267/introduction"/>
-        <summary>金融领域交互式自证业务中涵盖信用成长、用户开户、商家入驻、职业认证、商户解限等多种应用场景，通常都需要用户提交一定的材料（即凭证）用于证明资产收入信息、身份信息、所有权信息、交易信息、资质信息等，而凭证的真实性一直是困扰金融场景自动化审核的一大难题。随着数字媒体编辑技术的发展，越来越多的AI手段和工具能够轻易对凭证材料进行篡改，大量的黑产团伙也逐渐掌握PS、AIGC等工具制作逼真的凭证样本，并对金融审核带来巨大挑战。
-为此，开设AI核身-金融凭证篡改检测赛道。将会发布大规模的凭证篡改数据集，参赛队伍在给定的大规模篡改数据集上进行模型研发，同时给出对应的测试集用于评估算法模型的有效性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532267/introduction"><![CDATA[<h3>Description</h3>金融领域交互式自证业务中涵盖信用成长、用户开户、商家入驻、职业认证、商户解限等多种应用场景，通常都需要用户提交一定的材料（即凭证）用于证明资产收入信息、身份信息、所有权信息、交易信息、资质信息等，而凭证的真实性一直是困扰金融场景自动化审核的一大难题。随着数字媒体编辑技术的发展，越来越多的AI手段和工具能够轻易对凭证材料进行篡改，大量的黑产团伙也逐渐掌握PS、AIGC等工具制作逼真的凭证样本，并对金融审核带来巨大挑战。
-为此，开设AI核身-金融凭证篡改检测赛道。将会发布大规模的凭证篡改数据集，参赛队伍在给定的大规模篡改数据集上进行模型研发，同时给出对应的测试集用于评估算法模型的有效性。<h3>Deadline: 2024-11-02T23:59:59+08:00</h3><h3>Reward: ￥390000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532266/introduction</id>
         <title><![CDATA[2024年亚太眼科学会大数据竞赛-使用人工智能自動從眼底照生成OCT(赛季 1)]]></title>
         
@@ -818,7 +784,19 @@
         </author>
     </entry>
     
-    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532264/introduction</id>
+        <title><![CDATA[DiMTAIC 2024 数字医学技术及应用创新大赛-大模型医疗健康项目赛(赛季 2)]]></title>
+        
+        <updated>2024-08-23T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532264/introduction"/>
+        <summary>2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532264/introduction"><![CDATA[<h3>Description</h3>2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。<h3>Deadline: 2024-11-07T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     
     
