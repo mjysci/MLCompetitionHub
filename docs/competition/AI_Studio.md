@@ -2,12 +2,28 @@
 
 
 
+## “上地UPSIDE”2024人工智能创新创业挑战赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1265  
+Description: 本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！  
+Deadline: 2024-12-31T08:00:00+0800  
+Reward: 115万奖金  
+
+
 ## FlagEval大模型角斗场评测大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1249  
 Description: FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。  
 Deadline: 2024-11-05T08:00:00+0800  
 Reward: 礼品+证书  
+
+
+## 飞桨星河社区 Robotics Hackathon
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
+Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
+Deadline: 2024-11-24T08:00:00+0800  
+Reward: 100000  
 
 
 ## 飞桨星河社区 ERINE Hackathon
@@ -26,12 +42,12 @@ Deadline: 2024-11-25T08:00:00+0800
 Reward: 100000  
 
 
-## 飞桨星河社区 Robotics Hackathon
+## 飞桨多模态大模型套件PaddleMIX开发大赛
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
-Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
-Deadline: 2024-11-24T08:00:00+0800  
-Reward: 100000  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1261  
+Description: 飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。  
+Deadline: 2024-12-31T08:00:00+0800  
+Reward: 150000  
 
 
 ## 科学计算工具组建开发大赛
@@ -42,22 +58,6 @@ Deadline: 2024-12-31T08:00:00+0800
 Reward: 250000  
 
 
-## 飞桨多模态大模型套件PaddleMIX开发大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1261  
-Description: 飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。  
-Deadline: 2024-12-31T08:00:00+0800  
-Reward: 150000  
-
-
-## 第二届全球AI药物研发算法大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1214  
-Description: 竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！  
-Deadline: 2024-12-31T08:00:00+0800  
-Reward: 12w奖金  
-
-
 ## 星河产业应用创新奖-飞桨产业实践方向
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1222  
@@ -66,10 +66,10 @@ Deadline: 2024-12-31T08:00:00+0800
 Reward: 定制权益  
 
 
-## 星河产业应用创新奖-大模型应用
+## 第二届全球AI药物研发算法大赛
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1220  
-Description: “星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。  
-Deadline: 2024-12-30T08:00:00+0800  
-Reward: 定制权益  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1214  
+Description: 竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！  
+Deadline: 2024-12-31T08:00:00+0800  
+Reward: 12w奖金  
 

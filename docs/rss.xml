@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-04T16:00:12+08:00</updated>
+    <updated>2024-11-05T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1265</id>
+        <title><![CDATA[“上地UPSIDE”2024人工智能创新创业挑战赛]]></title>
+        
+        <updated>2024-10-29T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1265"/>
+        <summary>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1265"><![CDATA[<h3>Description</h3>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 115万奖金</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1249</id>
@@ -19,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1249"/>
         <summary>FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1249"><![CDATA[<h3>Description</h3>FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。<h3>Deadline: 2024-11-05T08:00:00+08:00</h3><h3>Reward: 礼品+证书</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1255</id>
+        <title><![CDATA[飞桨星河社区 Robotics Hackathon]]></title>
+        
+        <updated>2024-10-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1255"/>
+        <summary>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-24T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -53,14 +81,14 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1255</id>
-        <title><![CDATA[飞桨星河社区 Robotics Hackathon]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1261</id>
+        <title><![CDATA[飞桨多模态大模型套件PaddleMIX开发大赛]]></title>
         
-        <updated>2024-10-22T08:00:00+08:00</updated>
+        <updated>2024-10-25T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1255"/>
-        <summary>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-24T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1261"/>
+        <summary>飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1261"><![CDATA[<h3>Description</h3>飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 150000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -81,34 +109,6 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1261</id>
-        <title><![CDATA[飞桨多模态大模型套件PaddleMIX开发大赛]]></title>
-        
-        <updated>2024-10-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1261"/>
-        <summary>飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1261"><![CDATA[<h3>Description</h3>飞桨多模态大模型套件PaddleMIX整合了业界前沿的多模态大模型与飞桨框架底层高性能技术，全面兼顾高性能算法、便捷开发、高效训练和完备部署，其丰富的多模态模型库覆盖图像、文本、视频、音频模态模型。为完善百度飞桨多模态大模型套件PaddleMIX的数据分析和处理能力，参赛项目有机会将验证有效的数据处理方案合入企业实际产品中，包括数据分析和处理功能、单元测试适配、文档适配等，从而为千万用户降本增效。<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 150000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1214</id>
-        <title><![CDATA[第二届全球AI药物研发算法大赛]]></title>
-        
-        <updated>2024-07-11T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1214"/>
-        <summary>竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1214"><![CDATA[<h3>Description</h3>竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 12w奖金</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1222</id>
         <title><![CDATA[星河产业应用创新奖-飞桨产业实践方向]]></title>
         
@@ -123,14 +123,14 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1220</id>
-        <title><![CDATA[星河产业应用创新奖-大模型应用]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1214</id>
+        <title><![CDATA[第二届全球AI药物研发算法大赛]]></title>
         
-        <updated>2024-08-30T08:00:00+08:00</updated>
+        <updated>2024-07-11T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1220"/>
-        <summary>“星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1220"><![CDATA[<h3>Description</h3>“星河产业应用创新奖-大模型应用”聚焦教育、医疗、法律等行业，围绕 AI 搜索、对话助手等应用方向，面向企事业单位、创业团队等，征集使用文心大模型产出的优质解决方案和产品。<h3>Deadline: 2024-12-30T08:00:00+08:00</h3><h3>Reward: 定制权益</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1214"/>
+        <summary>竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1214"><![CDATA[<h3>Description</h3>竞赛由清华大学药学院、百度飞桨、Intel共同发起，旨在借助百度飞桨螺旋桨在生物计算上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育人才，诚邀全球范围内生物计算领域人才参赛！<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 12w奖金</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
