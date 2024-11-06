@@ -10,14 +10,6 @@ Deadline: 2024-12-31T08:00:00+0800
 Reward: 115万奖金  
 
 
-## FlagEval大模型角斗场评测大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1249  
-Description: FlagEval大模型角斗场评测大赛以智源研究院FlagEval天秤平台提供的大模型评测能力为基础，为用户提供一个直观、便捷的大模型能力体验的环境。  
-Deadline: 2024-11-05T08:00:00+0800  
-Reward: 礼品+证书  
-
-
 ## 飞桨星河社区 Robotics Hackathon
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
