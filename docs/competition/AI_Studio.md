@@ -2,6 +2,14 @@
 
 
 
+## 飞桨星河社区 ERINE Hackathon
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1251  
+Description: 基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。  
+Deadline: 2024-11-30T08:00:00+0800  
+Reward: 100000  
+
+
 ## “上地UPSIDE”2024人工智能创新创业挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1265  
@@ -15,14 +23,6 @@ Reward: 115万奖金
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
 Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
 Deadline: 2024-11-24T08:00:00+0800  
-Reward: 100000  
-
-
-## 飞桨星河社区 ERINE Hackathon
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1251  
-Description: 基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。  
-Deadline: 2024-11-25T08:00:00+0800  
 Reward: 100000  
 
 

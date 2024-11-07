@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-06T16:00:13+08:00</updated>
+    <updated>2024-11-07T16:00:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1251</id>
+        <title><![CDATA[飞桨星河社区 ERINE Hackathon]]></title>
+        
+        <updated>2024-10-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1251"/>
+        <summary>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1251"><![CDATA[<h3>Description</h3>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。<h3>Deadline: 2024-11-30T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1265</id>
@@ -33,20 +47,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1255"/>
         <summary>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-24T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1251</id>
-        <title><![CDATA[飞桨星河社区 ERINE Hackathon]]></title>
-        
-        <updated>2024-10-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1251"/>
-        <summary>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1251"><![CDATA[<h3>Description</h3>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。<h3>Deadline: 2024-11-25T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -765,20 +765,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532255/introduction"/>
         <summary>上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办2024第二届数字医学技术及应用创新大赛（DiMTAIC 2024）。本次大赛开设甲状腺B超静态及动态影像算法赛道，面向高校、科研单位、企业、临床科研征集团队参赛，优秀队伍有机会获得激励奖金、科研生态支持、多渠道展示等权益。参赛队伍将基于甲状腺灰阶B超影像数据，开发人工智能算法，实现针对静态和动态影像中，对甲状腺结节病灶的自动分割、分类（良恶性）。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532255/introduction"><![CDATA[<h3>Description</h3>上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办2024第二届数字医学技术及应用创新大赛（DiMTAIC 2024）。本次大赛开设甲状腺B超静态及动态影像算法赛道，面向高校、科研单位、企业、临床科研征集团队参赛，优秀队伍有机会获得激励奖金、科研生态支持、多渠道展示等权益。参赛队伍将基于甲状腺灰阶B超影像数据，开发人工智能算法，实现针对静态和动态影像中，对甲状腺结节病灶的自动分割、分类（良恶性）。<h3>Deadline: 2024-11-11T10:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532264/introduction</id>
-        <title><![CDATA[DiMTAIC 2024 数字医学技术及应用创新大赛-大模型医疗健康项目赛(赛季 2)]]></title>
-        
-        <updated>2024-08-23T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532264/introduction"/>
-        <summary>2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532264/introduction"><![CDATA[<h3>Description</h3>2024数字医学技术及应用创新大赛（DiMTAIC 2024）由上海交通大学医学院附属瑞金医院、上海人工智能实验室联合主办。DiMTAIC大赛旨在加速AI与医疗的交叉研究与协同创新，积极助力医疗数字化转型。大赛邀请医学和医工交叉领域的院士、领衔专家指导，面向全球召集数字医学创新技术及应用的优秀团队，探索人工智能、大数据分析等数字技术在真实医疗场景中的多元化研究与应用，搭建从研究设想到临床应用的高速通道。参赛团队将有机会获得激励奖金、科研资源支持、投融资对接、多渠道展示等生态权益。<h3>Deadline: 2024-11-07T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
