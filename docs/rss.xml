@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-08T15:59:57+08:00</updated>
+    <updated>2024-11-09T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -25,20 +25,6 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1265</id>
-        <title><![CDATA[“上地UPSIDE”2024人工智能创新创业挑战赛（报名截止：11月15日）]]></title>
-        
-        <updated>2024-10-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1265"/>
-        <summary>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1265"><![CDATA[<h3>Description</h3>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 115万奖金</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1255</id>
         <title><![CDATA[飞桨星河社区 Robotics Hackathon]]></title>
         
@@ -47,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1255"/>
         <summary>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-24T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1265</id>
+        <title><![CDATA[“上地UPSIDE”2024人工智能创新创业挑战赛（报名截止：11月15日）]]></title>
+        
+        <updated>2024-10-29T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1265"/>
+        <summary>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1265"><![CDATA[<h3>Description</h3>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 115万奖金</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -789,6 +789,20 @@
     </entry>
     
     <entry>
+        <id>https://zindi.africa/competitions/telangana-crop-health-challenge</id>
+        <title><![CDATA[Telangana Crop Health Challenge]]></title>
+        
+        <updated>2024-11-08T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/telangana-crop-health-challenge"/>
+        <summary>Can you predict the health status of crops?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/telangana-crop-health-challenge"><![CDATA[<h3>Description</h3>Can you predict the health status of crops?<h3>Deadline: 2025-02-10T07:59:00+08:00</h3><h3>Reward: 6 900 EUR</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/lacuna-malaria-detection-challenge</id>
         <title><![CDATA[Lacuna Malaria Detection Challenge]]></title>
         
@@ -1035,20 +1049,6 @@
         <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
         <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/agrifieldnet-india-challenge</id>
-        <title><![CDATA[AgriFieldNet India Challenge]]></title>
-        
-        <updated>2022-09-05T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/agrifieldnet-india-challenge"/>
-        <summary>Can you detect crop types in a class-imbalanced satellite image dataset?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/agrifieldnet-india-challenge"><![CDATA[<h3>Description</h3>Can you detect crop types in a class-imbalanced satellite image dataset?<h3>Deadline: 2022-11-01T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
