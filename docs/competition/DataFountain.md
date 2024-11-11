@@ -130,10 +130,10 @@ Deadline: 2024-12-31T23:59:59+0800
 Reward: 研究经费资助  
 
 
-## 基于海量数据的脉冲雷达辐射源型号识别
+## 基于海量数据的雷达辐射源识别
 
 Link: https://www.datafountain.cn/competitions/1017  
-Description: 基于海量数据的脉冲雷达辐射源型号识别  
+Description: 基于海量数据的雷达辐射源识别  
 Deadline: 2024-12-07T23:59:59+0800  
 Reward: 研究经费资助  
 

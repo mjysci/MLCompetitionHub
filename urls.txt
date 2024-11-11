@@ -1294,3 +1294,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1253
 https://aistudio.baidu.com/aistudio/competition/detail/1261
 https://aistudio.baidu.com/aistudio/competition/detail/1265
 https://zindi.africa/competitions/telangana-crop-health-challenge
+https://tianchi.aliyun.com/competition/entrance/532285/introduction
