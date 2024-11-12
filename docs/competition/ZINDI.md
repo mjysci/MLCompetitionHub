@@ -26,22 +26,6 @@ Deadline: 2024-11-18T07:59:00+0800
 Reward: $5 000 USD  
 
 
-## GeoAI Amazon Basin Secret Runway Detection Challenge 
-
-Link: https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge  
-Description: Can you detect illegal runways in the Peruvian Amazonian basin?  
-Deadline: 2024-11-12T07:59:00+0800  
-Reward: 2 000 CHF  
-
-
-## GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery 
-
-Link: https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery  
-Description: Can you map plastic covering using satellite imagery?  
-Deadline: 2024-11-12T07:59:00+0800  
-Reward: 1 000 CHF  
-
-
 ## GeoAI Ground-level NO2 Estimation Challenge 
 
 Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge  
@@ -159,5 +143,21 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Turtle Recall: Conservation Challenge
+
+Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
+Description: Can you build a facial recognition model... for turtles?  
+Deadline: 2022-04-22T07:59:00+0800  
 Reward: $10 000 USD  
 
