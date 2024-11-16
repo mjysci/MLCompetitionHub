@@ -10,7 +10,7 @@ Deadline: 2024-12-16T07:59:00+0800
 Reward: $8 000 USD  
 
 
-## Telangana Crop Health Challenge <sup style="color:red">[new]<sup>  
+## Telangana Crop Health Challenge
 
 Link: https://zindi.africa/competitions/telangana-crop-health-challenge  
 Description: Can you predict the health status of crops?  
@@ -24,14 +24,6 @@ Link: https://zindi.africa/competitions/lacuna-malaria-detection-challenge
 Description: Can you categorise parasites and blood cells in microscopic images from malaria patients?  
 Deadline: 2024-11-18T07:59:00+0800  
 Reward: $5 000 USD  
-
-
-## GeoAI Ground-level NO2 Estimation Challenge 
-
-Link: https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge  
-Description: Can you estimate ground-level NO2 concentrations using remote sensing data?  
-Deadline: 2024-11-16T07:59:00+0800  
-Reward: 1000 CHF  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
 Description: Can you build a facial recognition model... for turtles?  
 Deadline: 2022-04-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Lacuna - Correct Field Detection Challenge
+
+Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
+Description: Can you design a method to accurately find field locations?  
+Deadline: 2021-07-05T07:59:00+0800  
 Reward: $10 000 USD  
 

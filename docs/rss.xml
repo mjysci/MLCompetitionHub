@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-15T16:00:09+08:00</updated>
+    <updated>2024-11-16T16:00:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -634,6 +634,34 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.kesci.com/home/competition/666109ded65f7954b6d947b5</id>
+        <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛]]></title>
+        
+        <updated>2024-06-30T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"/>
+        <summary>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef</id>
+        <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛]]></title>
+        
+        <updated>2024-07-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef"/>
+        <summary>第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -786,8 +814,6 @@
     
     
     
-    
-    
     <entry>
         <id>https://zindi.africa/competitions/ghana-crop-disease-detection-challenge</id>
         <title><![CDATA[Ghana Crop Disease Detection Challenge]]></title>
@@ -825,20 +851,6 @@
         <link href="https://zindi.africa/competitions/lacuna-malaria-detection-challenge"/>
         <summary>Can you categorise parasites and blood cells in microscopic images from malaria patients?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/lacuna-malaria-detection-challenge"><![CDATA[<h3>Description</h3>Can you categorise parasites and blood cells in microscopic images from malaria patients?<h3>Deadline: 2024-11-18T07:59:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge</id>
-        <title><![CDATA[GeoAI Ground-level NO2 Estimation Challenge ]]></title>
-        
-        <updated>2024-05-22T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"/>
-        <summary>Can you estimate ground-level NO2 concentrations using remote sensing data?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge"><![CDATA[<h3>Description</h3>Can you estimate ground-level NO2 concentrations using remote sensing data?<h3>Deadline: 2024-11-16T07:59:00+08:00</h3><h3>Reward: 1000 CHF</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -1063,6 +1075,20 @@
         <link href="https://zindi.africa/competitions/turtle-recall-conservation-challenge"/>
         <summary>Can you build a facial recognition model... for turtles?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/turtle-recall-conservation-challenge"><![CDATA[<h3>Description</h3>Can you build a facial recognition model... for turtles?<h3>Deadline: 2022-04-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/lacuna-correct-field-detection-challenge</id>
+        <title><![CDATA[Lacuna - Correct Field Detection Challenge]]></title>
+        
+        <updated>2021-03-26T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"/>
+        <summary>Can you design a method to accurately find field locations?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"><![CDATA[<h3>Description</h3>Can you design a method to accurately find field locations?<h3>Deadline: 2021-07-05T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
