@@ -18,14 +18,6 @@ Deadline: 2025-02-10T07:59:00+0800
 Reward: 6 900 EUR  
 
 
-## Lacuna Malaria Detection Challenge
-
-Link: https://zindi.africa/competitions/lacuna-malaria-detection-challenge  
-Description: Can you categorise parasites and blood cells in microscopic images from malaria patients?  
-Deadline: 2024-11-18T07:59:00+0800  
-Reward: $5 000 USD  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
 Description: Can you design a method to accurately find field locations?  
 Deadline: 2021-07-05T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## UNICEF Arm 2030 Vision #1: Flood Prediction in Malawi
+
+Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi  
+Description: Predict flood extent caused by storms in southern Malawi  
+Deadline: 2020-05-18T07:59:00+0800  
 Reward: $10 000 USD  
 
