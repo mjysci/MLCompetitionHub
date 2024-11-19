@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-18T16:00:08+08:00</updated>
+    <updated>2024-11-19T16:00:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -32,7 +32,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1255"/>
         <summary>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-24T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-30T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -760,7 +760,7 @@
 本届大赛旨在鼓励参赛者通过创新的优化方法，充分挖掘数据库系统软硬件潜力，提升基准测试场景下的表现。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532276/introduction"><![CDATA[<h3>Description</h3>2024年第6届天池全球数据库大赛，是由阿里云与英特尔联合主办，阿里云天池平台、阿里云瑶池数据库和开发者社区承办的年度数据库品牌赛事。
 
-本届大赛旨在鼓励参赛者通过创新的优化方法，充分挖掘数据库系统软硬件潜力，提升基准测试场景下的表现。<h3>Deadline: 2024-12-13T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+本届大赛旨在鼓励参赛者通过创新的优化方法，充分挖掘数据库系统软硬件潜力，提升基准测试场景下的表现。<h3>Deadline: 2024-12-16T11:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -814,8 +814,6 @@
     
     
     
-    
-    
     <entry>
         <id>https://zindi.africa/competitions/ghana-crop-disease-detection-challenge</id>
         <title><![CDATA[Ghana Crop Disease Detection Challenge]]></title>
@@ -838,7 +836,7 @@
         
         <link href="https://zindi.africa/competitions/telangana-crop-health-challenge"/>
         <summary>Can you predict the health status of crops?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/telangana-crop-health-challenge"><![CDATA[<h3>Description</h3>Can you predict the health status of crops?<h3>Deadline: 2025-02-10T07:59:00+08:00</h3><h3>Reward: 6 900 EUR</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/telangana-crop-health-challenge"><![CDATA[<h3>Description</h3>Can you predict the health status of crops?<h3>Deadline: 2025-02-10T07:59:00+08:00</h3><h3>Reward: €6 900 EUR</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

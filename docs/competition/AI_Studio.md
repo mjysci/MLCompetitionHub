@@ -14,7 +14,7 @@ Reward: 100000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
 Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
-Deadline: 2024-11-24T08:00:00+0800  
+Deadline: 2024-11-30T08:00:00+0800  
 Reward: 100000  
 
 

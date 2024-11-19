@@ -15,7 +15,7 @@ Reward: $8 000 USD
 Link: https://zindi.africa/competitions/telangana-crop-health-challenge  
 Description: Can you predict the health status of crops?  
 Deadline: 2025-02-10T07:59:00+0800  
-Reward: 6 900 EUR  
+Reward: €6 900 EUR  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
