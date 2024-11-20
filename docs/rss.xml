@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-19T16:00:10+08:00</updated>
+    <updated>2024-11-20T16:00:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -635,20 +635,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/666109ded65f7954b6d947b5</id>
-        <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛]]></title>
-        
-        <updated>2024-06-30T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"/>
-        <summary>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef</id>
         <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛]]></title>
         
@@ -657,6 +643,20 @@
         <link href="https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef"/>
         <summary>第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/666109ded65f7954b6d947b5</id>
+        <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛]]></title>
+        
+        <updated>2024-06-30T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"/>
+        <summary>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -767,34 +767,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532263/introduction</id>
-        <title><![CDATA[2024年全球 MoonBit 编程创新赛-编程语言设计与实现赛道(赛季 1)]]></title>
-        
-        <updated>2024-08-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532263/introduction"/>
-        <summary>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532263/introduction"><![CDATA[<h3>Description</h3>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。<h3>Deadline: 2024-11-19T23:59:59+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532262/introduction</id>
-        <title><![CDATA[2024年全球 MoonBit 编程创新赛-游戏开发挑战赛道(赛季 1)]]></title>
-        
-        <updated>2024-08-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532262/introduction"/>
-        <summary>通过提供一个用 MoonBit 实现的游戏引擎（Wasm4），鼓励开发者使用Marscode平台进行代码书写并参与游戏开发挑战，展示 MoonBit 的强大功能和潜力。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532262/introduction"><![CDATA[<h3>Description</h3>通过提供一个用 MoonBit 实现的游戏引擎（Wasm4），鼓励开发者使用Marscode平台进行代码书写并参与游戏开发挑战，展示 MoonBit 的强大功能和潜力。<h3>Deadline: 2024-11-19T20:00:00+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532261/introduction</id>
         <title><![CDATA[PolarDB数据库创新设计赛（天池杯）(赛季 1)]]></title>
         
@@ -811,6 +783,36 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532277/introduction</id>
+        <title><![CDATA[WWW2025 多模态对话系统意图识别挑战赛(赛季 1)]]></title>
+        
+        <updated>2024-10-14T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532277/introduction"/>
+        <summary>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532277/introduction"><![CDATA[<h3>Description</h3>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。<h3>Deadline: 2025-01-03T23:59:59+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532266/introduction</id>
+        <title><![CDATA[2024年亚太眼科学会大数据竞赛-使用人工智能自動從眼底照生成OCT(赛季 1)]]></title>
+        
+        <updated>2024-09-09T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532266/introduction"/>
+        <summary>2024年亚太眼科学会大数据竞赛由亚太眼科学会 (Asia Pacific Tele-Ophthalmology Society，APTOS)主办，泰国拉贾维地医院 (Rajavithi Hospital) 协办，获得泰国公共卫生部医疗服务处赞助认可，并由阿里云天池平台提供独家赛事技术支持。本次竞赛主题是使用人工智從眼底照生成OCT。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532266/introduction"><![CDATA[<h3>Description</h3>2024年亚太眼科学会大数据竞赛由亚太眼科学会 (Asia Pacific Tele-Ophthalmology Society，APTOS)主办，泰国拉贾维地医院 (Rajavithi Hospital) 协办，获得泰国公共卫生部医疗服务处赞助认可，并由阿里云天池平台提供独家赛事技术支持。本次竞赛主题是使用人工智從眼底照生成OCT。<h3>Deadline: 2024-11-30T23:59:59+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    
     
     
     
