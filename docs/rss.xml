@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-20T16:00:07+08:00</updated>
+    <updated>2024-11-21T15:59:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -767,18 +767,14 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532261/introduction</id>
-        <title><![CDATA[PolarDB数据库创新设计赛（天池杯）(赛季 1)]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/532263/introduction</id>
+        <title><![CDATA[2024年全球 MoonBit 编程创新赛-编程语言设计与实现赛道(赛季 3)]]></title>
         
-        <updated>2024-08-21T00:00:00+08:00</updated>
+        <updated>2024-08-30T10:00:00+08:00</updated>
         
-        <link href="https://tianchi.aliyun.com/competition/entrance/532261/introduction"/>
-        <summary>2024年全国大学生计算机系统能力大赛PolarDB数据库创新设计赛（天池杯），是由全国高等学校计算机教育研究会、系统能力培养研究专家组、系统能力培养研究项目发起高校、阿里云计算有限公司共同主办、武汉大学承办、机械工业出版社、希冀平台协办的全国性数据库大赛。
-
-大赛面向全国普通高等学校全日制在读本科和专科学生，旨在培养数据库系统领域的设计、分析、优化与应用人才，激发学生的想象力、创新力、工程实践能力和团队协作精神，以赛促学、以赛促教，为高质量专业人才搭建交流、展示、合作的开源社区平台，让参与大赛的学生、指导教师、学校和企业都能从中获得补益，助力我国高校与企业在数据库系统领域的产学研合作健康、快速发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532261/introduction"><![CDATA[<h3>Description</h3>2024年全国大学生计算机系统能力大赛PolarDB数据库创新设计赛（天池杯），是由全国高等学校计算机教育研究会、系统能力培养研究专家组、系统能力培养研究项目发起高校、阿里云计算有限公司共同主办、武汉大学承办、机械工业出版社、希冀平台协办的全国性数据库大赛。
-
-大赛面向全国普通高等学校全日制在读本科和专科学生，旨在培养数据库系统领域的设计、分析、优化与应用人才，激发学生的想象力、创新力、工程实践能力和团队协作精神，以赛促学、以赛促教，为高质量专业人才搭建交流、展示、合作的开源社区平台，让参与大赛的学生、指导教师、学校和企业都能从中获得补益，助力我国高校与企业在数据库系统领域的产学研合作健康、快速发展。<h3>Deadline: 2024-11-21T02:00:00+08:00</h3><h3>Reward: ￥355000</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/532263/introduction"/>
+        <summary>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532263/introduction"><![CDATA[<h3>Description</h3>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。<h3>Deadline: 2024-11-23T17:00:00+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
