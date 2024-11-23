@@ -2,6 +2,14 @@
 
 
 
+## Inundata: Mapping Floods in South Africa <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
+Description: Can you identify where and when an urban flash flood happened in South Africa?  
+Deadline: 2025-02-17T07:59:00+0800  
+Reward: $10 000 USD  
+
+
 ## Ghana Crop Disease Detection Challenge
 
 Link: https://zindi.africa/competitions/ghana-crop-disease-detection-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
 Description: Can you design a method to accurately find field locations?  
 Deadline: 2021-07-05T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## UNICEF Arm 2030 Vision #1: Flood Prediction in Malawi
-
-Link: https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi  
-Description: Predict flood extent caused by storms in southern Malawi  
-Deadline: 2020-05-18T07:59:00+0800  
 Reward: $10 000 USD  
 
