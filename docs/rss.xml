@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-23T16:02:20+08:00</updated>
+    <updated>2024-11-24T16:02:11+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -605,20 +605,6 @@
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532276/introduction"><![CDATA[<h3>Description</h3>2024年第6届天池全球数据库大赛，是由阿里云与英特尔联合主办，阿里云天池平台、阿里云瑶池数据库和开发者社区承办的年度数据库品牌赛事。
 
 本届大赛旨在鼓励参赛者通过创新的优化方法，充分挖掘数据库系统软硬件潜力，提升基准测试场景下的表现。<h3>Deadline: 2024-12-16T11:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532263/introduction</id>
-        <title><![CDATA[2024年全球 MoonBit 编程创新赛-编程语言设计与实现赛道(赛季 3)]]></title>
-        
-        <updated>2024-08-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532263/introduction"/>
-        <summary>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532263/introduction"><![CDATA[<h3>Description</h3>利用 MoonBit 提供的标准语言设计和语法解析代码，完成编译器后端的实现（RISC-V），并通过标准测试集验证编译器生成的代码的正确性和性能。<h3>Deadline: 2024-11-23T17:00:00+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
