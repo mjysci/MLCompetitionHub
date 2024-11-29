@@ -2,7 +2,7 @@
 
 
 
-## 基于FlashRAG-MindSpore的智能RAG系统设计 <sup style="color:red">[new]<sup>  
+## 基于FlashRAG-MindSpore的智能RAG系统设计
 
 Link: https://www.datafountain.cn/competitions/1075  
 Description: 基于FlashRAG-MindSpore的智能RAG系统设计  
@@ -10,7 +10,7 @@ Deadline: 2024-12-29T23:59:59+0800
 Reward: ￥50000  
 
 
-## 对话式检索增强生成 <sup style="color:red">[new]<sup>  
+## 对话式检索增强生成
 
 Link: https://www.datafountain.cn/competitions/1074  
 Description: 对话式检索增强生成  

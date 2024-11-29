@@ -1303,3 +1303,4 @@ https://tianchi.aliyun.com/competition/entrance/532280/introduction
 https://www.datafountain.cn/competitions/1075
 https://www.datafountain.cn/competitions/1074
 https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa
+https://zindi.africa/competitions/african-credit-scoring-challenge

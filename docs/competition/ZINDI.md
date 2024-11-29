@@ -2,7 +2,7 @@
 
 
 
-## Inundata: Mapping Floods in South Africa <sup style="color:red">[new]<sup>  
+## Inundata: Mapping Floods in South Africa
 
 Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
 Description: Can you identify where and when an urban flash flood happened in South Africa?  
@@ -24,6 +24,14 @@ Link: https://zindi.africa/competitions/telangana-crop-health-challenge
 Description: Can you predict the health status of crops?  
 Deadline: 2025-02-10T07:59:00+0800  
 Reward: €6 900 EUR  
+
+
+## African Credit Scoring Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/african-credit-scoring-challenge  
+Description: Can you predict the likelihood of a customer defaulting on a loan based on their financial data ?  
+Deadline: 2025-01-13T07:59:00+0800  
+Reward: $5 000 USD  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
 Description: Can you build a facial recognition model... for turtles?  
 Deadline: 2022-04-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Lacuna - Correct Field Detection Challenge
-
-Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
-Description: Can you design a method to accurately find field locations?  
-Deadline: 2021-07-05T07:59:00+0800  
 Reward: $10 000 USD  
 
