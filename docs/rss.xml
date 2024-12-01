@@ -3,40 +3,12 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-11-30T16:00:03+08:00</updated>
+    <updated>2024-12-01T16:00:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1251</id>
-        <title><![CDATA[飞桨星河社区 ERINE Hackathon]]></title>
-        
-        <updated>2024-10-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1251"/>
-        <summary>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1251"><![CDATA[<h3>Description</h3>基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。<h3>Deadline: 2024-11-30T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1255</id>
-        <title><![CDATA[飞桨星河社区 Robotics Hackathon]]></title>
-        
-        <updated>2024-10-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1255"/>
-        <summary>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1255"><![CDATA[<h3>Description</h3>开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。<h3>Deadline: 2024-11-30T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1265</id>
@@ -47,20 +19,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1265"/>
         <summary>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1265"><![CDATA[<h3>Description</h3>本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！<h3>Deadline: 2024-12-31T08:00:00+08:00</h3><h3>Reward: 115万奖金</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1253</id>
-        <title><![CDATA[飞桨星河社区 Agent Hackathon]]></title>
-        
-        <updated>2024-10-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1253"/>
-        <summary>智能体开发挑战，基于文心大模型结合实际应用场景开发Agent。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1253"><![CDATA[<h3>Description</h3>智能体开发挑战，基于文心大模型结合实际应用场景开发Agent。<h3>Deadline: 2024-11-30T08:00:00+08:00</h3><h3>Reward: 100000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -621,48 +579,6 @@
     
     
     <entry>
-        <id>https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0</id>
-        <title><![CDATA[2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法]]></title>
-        
-        <updated>2024-07-25T12:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0"/>
-        <summary>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/669f91e4981b6a298d8335a0"><![CDATA[<h3>Description</h3>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的电池更换识别算法<h3>Deadline: 2024-12-01T00:00:00+08:00</h3><h3>Reward: ￥24,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/669f92a0981b6a298d836d53</id>
-        <title><![CDATA[2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法]]></title>
-        
-        <updated>2024-07-25T12:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/669f92a0981b6a298d836d53"/>
-        <summary>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/669f92a0981b6a298d836d53"><![CDATA[<h3>Description</h3>2024 X-GAME 上海智能新能源汽车大数据竞赛——基于车辆运行数据的交通信号灯配时推算算法<h3>Deadline: 2024-12-01T00:00:00+08:00</h3><h3>Reward: ￥24,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4</id>
-        <title><![CDATA[2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛]]></title>
-        
-        <updated>2024-07-25T12:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4"/>
-        <summary>2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/66a01e47981b6a298d91b9d4"><![CDATA[<h3>Description</h3>2024 X-GAME 上海智能新能源汽车大数据竞赛——智能网联汽车方向算法赛<h3>Deadline: 2024-12-01T00:00:00+08:00</h3><h3>Reward: ￥35,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef</id>
         <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛]]></title>
         
@@ -821,20 +737,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532277/introduction"/>
         <summary>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532277/introduction"><![CDATA[<h3>Description</h3>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。<h3>Deadline: 2025-01-03T23:59:59+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532266/introduction</id>
-        <title><![CDATA[2024年亚太眼科学会大数据竞赛-使用人工智能自動從眼底照生成OCT(赛季 1)]]></title>
-        
-        <updated>2024-09-09T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532266/introduction"/>
-        <summary>2024年亚太眼科学会大数据竞赛由亚太眼科学会 (Asia Pacific Tele-Ophthalmology Society，APTOS)主办，泰国拉贾维地医院 (Rajavithi Hospital) 协办，获得泰国公共卫生部医疗服务处赞助认可，并由阿里云天池平台提供独家赛事技术支持。本次竞赛主题是使用人工智從眼底照生成OCT。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532266/introduction"><![CDATA[<h3>Description</h3>2024年亚太眼科学会大数据竞赛由亚太眼科学会 (Asia Pacific Tele-Ophthalmology Society，APTOS)主办，泰国拉贾维地医院 (Rajavithi Hospital) 协办，获得泰国公共卫生部医疗服务处赞助认可，并由阿里云天池平台提供独家赛事技术支持。本次竞赛主题是使用人工智從眼底照生成OCT。<h3>Deadline: 2024-11-30T18:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

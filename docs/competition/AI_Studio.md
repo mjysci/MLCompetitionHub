@@ -2,36 +2,12 @@
 
 
 
-## 飞桨星河社区 ERINE Hackathon
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1251  
-Description: 基于文心大模型结合实际应用场景搭建AI搜索、长篇网文小说生成等LLM应用。  
-Deadline: 2024-11-30T08:00:00+0800  
-Reward: 100000  
-
-
-## 飞桨星河社区 Robotics Hackathon
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1255  
-Description: 开发一个基于文心大模型或PaddleMIX/PaddleNLP和硬件（例如传感器、舵机等硬件模块）的软硬件结合应用。  
-Deadline: 2024-11-30T08:00:00+0800  
-Reward: 100000  
-
-
 ## “上地UPSIDE”2024人工智能创新创业挑战赛（报名截止：11月15日）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1265  
 Description: 本赛事由海淀区上地街道党工委、办事处主办，旨在推动人工智能技术的创新应用，服务项目落地成长，支持并保障海淀区人工智能产业快速发展。通过AI Studio飞桨星河社区，深入发掘和培养优秀人工智能创业团队，诚邀全球范围内人工智能领域人才参赛！  
 Deadline: 2024-12-31T08:00:00+0800  
 Reward: 115万奖金  
-
-
-## 飞桨星河社区 Agent Hackathon
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1253  
-Description: 智能体开发挑战，基于文心大模型结合实际应用场景开发Agent。  
-Deadline: 2024-11-30T08:00:00+0800  
-Reward: 100000  
 
 
 ## 飞桨多模态大模型套件PaddleMIX开发大赛
