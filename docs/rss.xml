@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-12-03T16:00:10+08:00</updated>
+    <updated>2024-12-04T16:00:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -631,6 +631,34 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532256/introduction"/>
         <summary>2024 CXL（Compute Express Link）技术创新方案大赛，是由CXL联盟联合Intel和阿里云发起的一项面向亚太地区的技术/产品/解决方案征集活动。旨在通过对技术/产品、解决方案、部署和应用实践，以及生态建设方面的优秀企业或组织的鼓励，从而推动CXL技术社区的成员的聚集、成果共享以及应用和实践的展示，最终吸引更多的数据中心领域相关厂商、用户和初创企业加入，推动CXL技术生态的繁荣。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532256/introduction"><![CDATA[<h3>Description</h3>2024 CXL（Compute Express Link）技术创新方案大赛，是由CXL联盟联合Intel和阿里云发起的一项面向亚太地区的技术/产品/解决方案征集活动。旨在通过对技术/产品、解决方案、部署和应用实践，以及生态建设方面的优秀企业或组织的鼓励，从而推动CXL技术社区的成员的聚集、成果共享以及应用和实践的展示，最终吸引更多的数据中心领域相关厂商、用户和初创企业加入，推动CXL技术生态的繁荣。<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532285/introduction</id>
+        <title><![CDATA[智源行业数据应用大模型挑战赛 ——医学数据赛道（开发者组）(赛季 1)]]></title>
+        
+        <updated>2024-11-08T23:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532285/introduction"/>
+        <summary>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532285/introduction"><![CDATA[<h3>Description</h3>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。<h3>Deadline: 2024-12-15T23:59:59+08:00</h3><h3>Reward: ￥8100</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532284/introduction</id>
+        <title><![CDATA[智源行业数据应用大模型挑战赛 ——医学数据赛道（企业组）(赛季 1)]]></title>
+        
+        <updated>2024-11-08T23:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532284/introduction"/>
+        <summary>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532284/introduction"><![CDATA[<h3>Description</h3>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。<h3>Deadline: 2024-12-15T23:59:59+08:00</h3><h3>Reward: ￥8100</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
