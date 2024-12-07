@@ -1304,3 +1304,6 @@ https://www.datafountain.cn/competitions/1075
 https://www.datafountain.cn/competitions/1074
 https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa
 https://zindi.africa/competitions/african-credit-scoring-challenge
+https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge
+https://zindi.africa/competitions/outsmarting-outbreaks-challenge
+https://zindi.africa/competitions/indabax-equatorial-guinea-hackathon
