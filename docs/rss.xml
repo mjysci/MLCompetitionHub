@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-12-07T16:00:05+08:00</updated>
+    <updated>2024-12-08T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -435,62 +435,6 @@
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/1023</id>
-        <title><![CDATA[基于对抗场景下重要目标人脸深度伪造视频检测]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1023"/>
-        <summary>基于对抗场景下重要目标人脸深度伪造视频检测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1023"><![CDATA[<h3>Description</h3>基于对抗场景下重要目标人脸深度伪造视频检测<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1022</id>
-        <title><![CDATA[面向联邦学习的数据样本对齐]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1022"/>
-        <summary>面向联邦学习的数据样本对齐</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1022"><![CDATA[<h3>Description</h3>面向联邦学习的数据样本对齐<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1021</id>
-        <title><![CDATA[面向大语言模型的领域知识注入与推理]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1021"/>
-        <summary>面向大语言模型的领域知识注入与推理</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1021"><![CDATA[<h3>Description</h3>面向大语言模型的领域知识注入与推理<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1020</id>
-        <title><![CDATA[领域事件多因果关联挖掘]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1020"/>
-        <summary>领域事件多因果关联挖掘</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1020"><![CDATA[<h3>Description</h3>领域事件多因果关联挖掘<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/1019</id>
         <title><![CDATA[基于大语言模型的数据库查询指令生成]]></title>
         
@@ -513,62 +457,6 @@
         <link href="https://www.datafountain.cn/competitions/1018"/>
         <summary>基于SAR图像的近岸密集小目标船只检测</summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/1018"><![CDATA[<h3>Description</h3>基于SAR图像的近岸密集小目标船只检测<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1017</id>
-        <title><![CDATA[基于海量数据的雷达辐射源识别]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1017"/>
-        <summary>基于海量数据的雷达辐射源识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1017"><![CDATA[<h3>Description</h3>基于海量数据的雷达辐射源识别<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1016</id>
-        <title><![CDATA[基于多源异构融合数据的空间物体识别]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1016"/>
-        <summary>基于多源异构融合数据的空间物体识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1016"><![CDATA[<h3>Description</h3>基于多源异构融合数据的空间物体识别<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1015</id>
-        <title><![CDATA[多文档事件摘要信息生成]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1015"/>
-        <summary>多文档事件摘要信息生成</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1015"><![CDATA[<h3>Description</h3>多文档事件摘要信息生成<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1014</id>
-        <title><![CDATA[低资源智能传感设备隐私聚合技术]]></title>
-        
-        <updated>2024-10-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1014"/>
-        <summary>低资源智能传感设备隐私聚合技术</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1014"><![CDATA[<h3>Description</h3>低资源智能传感设备隐私聚合技术<h3>Deadline: 2024-12-07T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
