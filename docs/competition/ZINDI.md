@@ -23,7 +23,7 @@ Reward: $8 000 USD
 Link: https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge  
 Description: Can you help communities recover by detecting damaged infrastructure using aerial imagery?   
 Deadline: 2025-02-01T07:59:00+0800  
-Reward: $37 500 USD  
+Reward: $12 500 USD + AWS credits  
 
 
 ## SUA Outsmarting Outbreaks Challenge <sup style="color:red">[new]<sup>  
@@ -31,7 +31,7 @@ Reward: $37 500 USD
 Link: https://zindi.africa/competitions/outsmarting-outbreaks-challenge  
 Description: Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?  
 Deadline: 2025-02-01T07:59:00+0800  
-Reward: $37 500 USD  
+Reward: $12 500 USD + AWS credits  
 
 
 ## Telangana Crop Health Challenge
