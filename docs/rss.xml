@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-12-11T16:00:22+08:00</updated>
+    <updated>2024-12-12T15:59:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -525,6 +525,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532266/introduction</id>
+        <title><![CDATA[2024年亚太眼科学会大数据竞赛-使用人工智能自動從眼底照生成OCT(赛季 2)]]></title>
+        
+        <updated>2024-09-09T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532266/introduction"/>
+        <summary>2024年亚太眼科学会大数据竞赛由亚太眼科学会 (Asia Pacific Tele-Ophthalmology Society，APTOS)主办，泰国拉贾维地医院 (Rajavithi Hospital) 协办，获得泰国公共卫生部医疗服务处赞助认可，并由阿里云天池平台提供独家赛事技术支持。本次竞赛主题是使用人工智從眼底照生成OCT。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532266/introduction"><![CDATA[<h3>Description</h3>2024年亚太眼科学会大数据竞赛由亚太眼科学会 (Asia Pacific Tele-Ophthalmology Society，APTOS)主办，泰国拉贾维地医院 (Rajavithi Hospital) 协办，获得泰国公共卫生部医疗服务处赞助认可，并由阿里云天池平台提供独家赛事技术支持。本次竞赛主题是使用人工智從眼底照生成OCT。<h3>Deadline: 2024-12-13T18:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532285/introduction</id>
         <title><![CDATA[智源行业数据应用大模型挑战赛 ——医学数据赛道（开发者组）(赛季 1)]]></title>
         
@@ -532,21 +546,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532285/introduction"/>
         <summary>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532285/introduction"><![CDATA[<h3>Description</h3>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。<h3>Deadline: 2024-12-15T23:59:59+08:00</h3><h3>Reward: ￥8100</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532284/introduction</id>
-        <title><![CDATA[智源行业数据应用大模型挑战赛 ——医学数据赛道（企业组）(赛季 1)]]></title>
-        
-        <updated>2024-11-08T23:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532284/introduction"/>
-        <summary>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532284/introduction"><![CDATA[<h3>Description</h3>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。<h3>Deadline: 2024-12-15T23:59:59+08:00</h3><h3>Reward: ￥8100</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532285/introduction"><![CDATA[<h3>Description</h3>为进一步推广行业数据集应用，智源研究院、魔搭社区、天池平台、中国互联网协会、AIIA联盟共同发起行业数据场景应用创新计划第二期 暨行业数据应用挑战赛，邀请企业技术团队和广大开发者共同参与，希望能够帮助更多行业高效地利用大模型的技术赋能生产力，产生更多的创新和行业应用，推动垂直行业的快速发展。<h3>Deadline: 2024-12-16T23:59:59+08:00</h3><h3>Reward: ￥8100</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
