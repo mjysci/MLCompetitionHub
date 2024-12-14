@@ -18,7 +18,7 @@ Deadline: 2024-12-16T07:59:00+0800
 Reward: $8 000 USD  
 
 
-## Kuyesera AI Disaster Damage and Displacement Challenge <sup style="color:red">[new]<sup>  
+## Kuyesera AI Disaster Damage and Displacement Challenge
 
 Link: https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge  
 Description: Can you help communities recover by detecting damaged infrastructure using aerial imagery?   
@@ -26,7 +26,7 @@ Deadline: 2025-02-01T07:59:00+0800
 Reward: $12 500 USD + AWS credits  
 
 
-## SUA Outsmarting Outbreaks Challenge <sup style="color:red">[new]<sup>  
+## SUA Outsmarting Outbreaks Challenge
 
 Link: https://zindi.africa/competitions/outsmarting-outbreaks-challenge  
 Description: Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?  
@@ -48,14 +48,6 @@ Link: https://zindi.africa/competitions/african-credit-scoring-challenge
 Description: Can you predict the likelihood of a customer defaulting on a loan based on their financial data ?  
 Deadline: 2025-01-13T07:59:00+0800  
 Reward: $5 000 USD  
-
-
-## IndabaX Equatorial Guinea Hackathon <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/indabax-equatorial-guinea-hackathon  
-Description: Can you predict carbon output in Africa using CO2 emissions data?  
-Deadline: 2024-12-13T23:00:00+0800  
-Reward: 500 Zindi Points  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
