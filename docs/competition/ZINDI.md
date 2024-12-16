@@ -10,14 +10,6 @@ Deadline: 2025-02-17T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## Ghana Crop Disease Detection Challenge
-
-Link: https://zindi.africa/competitions/ghana-crop-disease-detection-challenge  
-Description: Can you build a model for mobile phones to identify diseases on tomatoes, corn, and peppers?  
-Deadline: 2024-12-16T07:59:00+0800  
-Reward: $8 000 USD  
-
-
 ## Kuyesera AI Disaster Damage and Displacement Challenge
 
 Link: https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
