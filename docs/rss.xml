@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-12-17T16:00:06+08:00</updated>
+    <updated>2024-12-18T16:00:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -521,106 +521,6 @@
     
     
     
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef</id>
-        <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛]]></title>
-        
-        <updated>2024-07-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef"/>
-        <summary>第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6655bf1fb9a5dc61b6cde6ef"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”海面RGB-T目标跟踪竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/666109ded65f7954b6d947b5</id>
-        <title><![CDATA[第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛]]></title>
-        
-        <updated>2024-06-30T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"/>
-        <summary>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/666109ded65f7954b6d947b5"><![CDATA[<h3>Description</h3>第三届全国信息融合挑战赛——“杰瑞杯”无人集群队形变换竞赛<h3>Deadline: 2024-12-18T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532289/introduction</id>
-        <title><![CDATA[IEEE AICAS 2025 Grand Challenge - 大模型软硬系统优化赛道(赛季 1)]]></title>
-        
-        <updated>2024-12-10T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532289/introduction"/>
-        <summary>​大语言模型在绝大多数自然语言处理的下游任务上都取得了瞩目的表现，例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，数十亿乃至上千亿的模型参数，使得大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532289/introduction"><![CDATA[<h3>Description</h3>​大语言模型在绝大多数自然语言处理的下游任务上都取得了瞩目的表现，例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，数十亿乃至上千亿的模型参数，使得大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型。<h3>Deadline: 2025-02-16T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532288/introduction</id>
-        <title><![CDATA[IEEE AICAS 2025 Grand Challenge - 大模型硬件系统设计赛道(赛季 1)]]></title>
-        
-        <updated>2024-12-10T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532288/introduction"/>
-        <summary>近年来，基于预训练与Transformer技术的大语言模型（Large Language Models, LLM）在自然语言处理的下游任务上都取得了瞩目的表现例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，由于数据隐私、计算能效等考量，在边缘侧进行高效的LLM推理是未来的发展趋势。由于数十亿乃至上千亿的模型参数，大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532288/introduction"><![CDATA[<h3>Description</h3>近年来，基于预训练与Transformer技术的大语言模型（Large Language Models, LLM）在自然语言处理的下游任务上都取得了瞩目的表现例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，由于数据隐私、计算能效等考量，在边缘侧进行高效的LLM推理是未来的发展趋势。由于数十亿乃至上千亿的模型参数，大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型<h3>Deadline: 2025-02-16T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532287/introduction</id>
-        <title><![CDATA[IEEE AICAS 2025 Grand Challenge -大模型模拟电路自动设计赛道(赛季 1)]]></title>
-        
-        <updated>2024-12-03T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532287/introduction"/>
-        <summary>随着大语言模型（Large Language Models）在多个领域取得突破性进展，其在电子设计自动化（EDA）中的应用也受到广泛关注。在数字电路设计方面，基于LLM的自动化设计技术已经展示出巨大应用潜力，推动了从设计优化到生产自动化的全面升级。然而，与高度规则化的数字电路相比，模拟电路设计的过程更复杂，对非线性特性和精确度有更高的要求，因此在LLM驱动的设计领域中，模拟电路仍处于探索阶段。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532287/introduction"><![CDATA[<h3>Description</h3>随着大语言模型（Large Language Models）在多个领域取得突破性进展，其在电子设计自动化（EDA）中的应用也受到广泛关注。在数字电路设计方面，基于LLM的自动化设计技术已经展示出巨大应用潜力，推动了从设计优化到生产自动化的全面升级。然而，与高度规则化的数字电路相比，模拟电路设计的过程更复杂，对非线性特性和精确度有更高的要求，因此在LLM驱动的设计领域中，模拟电路仍处于探索阶段。<h3>Deadline: 2025-02-16T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532277/introduction</id>
-        <title><![CDATA[WWW2025 多模态对话系统意图识别挑战赛(赛季 1)]]></title>
-        
-        <updated>2024-10-14T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532277/introduction"/>
-        <summary>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532277/introduction"><![CDATA[<h3>Description</h3>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。<h3>Deadline: 2025-01-03T23:59:59+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532256/introduction</id>
-        <title><![CDATA[2024 CXL（Compute Express Link）技术创新方案大赛(赛季 1)]]></title>
-        
-        <updated>2024-12-01T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532256/introduction"/>
-        <summary>2024 CXL（Compute Express Link）技术创新方案大赛，是由CXL联盟联合Intel和阿里云发起的一项面向亚太地区的技术/产品/解决方案征集活动。旨在通过对技术/产品、解决方案、部署和应用实践，以及生态建设方面的优秀企业或组织的鼓励，从而推动CXL技术社区的成员的聚集、成果共享以及应用和实践的展示，最终吸引更多的数据中心领域相关厂商、用户和初创企业加入，推动CXL技术生态的繁荣。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532256/introduction"><![CDATA[<h3>Description</h3>2024 CXL（Compute Express Link）技术创新方案大赛，是由CXL联盟联合Intel和阿里云发起的一项面向亚太地区的技术/产品/解决方案征集活动。旨在通过对技术/产品、解决方案、部署和应用实践，以及生态建设方面的优秀企业或组织的鼓励，从而推动CXL技术社区的成员的聚集、成果共享以及应用和实践的展示，最终吸引更多的数据中心领域相关厂商、用户和初创企业加入，推动CXL技术生态的繁荣。<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
     
     
     
