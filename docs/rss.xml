@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2024-12-29T16:00:07+08:00</updated>
+    <updated>2024-12-30T16:00:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -407,34 +407,6 @@
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/1075</id>
-        <title><![CDATA[基于FlashRAG-MindSpore的智能RAG系统设计]]></title>
-        
-        <updated>2024-11-22T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1075"/>
-        <summary>基于FlashRAG-MindSpore的智能RAG系统设计</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1075"><![CDATA[<h3>Description</h3>基于FlashRAG-MindSpore的智能RAG系统设计<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1074</id>
-        <title><![CDATA[对话式检索增强生成]]></title>
-        
-        <updated>2024-11-22T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1074"/>
-        <summary>对话式检索增强生成</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1074"><![CDATA[<h3>Description</h3>对话式检索增强生成<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/1064</id>
         <title><![CDATA[基于航片的玉米异常情况识别]]></title>
         
@@ -457,76 +429,6 @@
         <link href="https://www.datafountain.cn/competitions/1063"/>
         <summary>第五届中国人工智能大赛</summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/1063"><![CDATA[<h3>Description</h3>第五届中国人工智能大赛<h3>Deadline: 2024-12-31T23:59:59+08:00</h3><h3>Reward: 丰厚奖励</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1047</id>
-        <title><![CDATA[「AI for TuGraph」小样本条件下的自然语言至图查询语言翻译大模型微调]]></title>
-        
-        <updated>2024-09-14T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1047"/>
-        <summary>「AI for TuGraph」小样本条件下的自然语言至图查询语言翻译大模型微调</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1047"><![CDATA[<h3>Description</h3>「AI for TuGraph」小样本条件下的自然语言至图查询语言翻译大模型微调<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1046</id>
-        <title><![CDATA[「TuGraph for AI」RAG在智能问答场景中的落地]]></title>
-        
-        <updated>2024-09-14T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1046"/>
-        <summary>「TuGraph for AI」RAG在智能问答场景中的落地</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1046"><![CDATA[<h3>Description</h3>「TuGraph for AI」RAG在智能问答场景中的落地<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1045</id>
-        <title><![CDATA[基于运营商文本数据的知识库检索]]></title>
-        
-        <updated>2024-09-14T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1045"/>
-        <summary>基于运营商文本数据的知识库检索</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1045"><![CDATA[<h3>Description</h3>基于运营商文本数据的知识库检索<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1044</id>
-        <title><![CDATA[基于TPU平台的OCR模型性能优化]]></title>
-        
-        <updated>2024-09-14T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1044"/>
-        <summary>基于TPU平台的OCR模型性能优化</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1044"><![CDATA[<h3>Description</h3>基于TPU平台的OCR模型性能优化<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1041</id>
-        <title><![CDATA[基于Intel Gaudi AI加速器的大语言模型微调与推理优化]]></title>
-        
-        <updated>2024-09-14T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1041"/>
-        <summary>基于Intel Gaudi AI加速器的大语言模型微调与推理优化</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1041"><![CDATA[<h3>Description</h3>基于Intel Gaudi AI加速器的大语言模型微调与推理优化<h3>Deadline: 2024-12-29T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
