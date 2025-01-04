@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-01-03T16:00:03+08:00</updated>
+    <updated>2025-01-04T16:00:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -339,6 +339,50 @@
     
     
     
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532289/introduction</id>
+        <title><![CDATA[IEEE AICAS 2025 Grand Challenge - 大模型软硬系统优化赛道(赛季 1)]]></title>
+        
+        <updated>2024-12-10T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532289/introduction"/>
+        <summary>​大语言模型在绝大多数自然语言处理的下游任务上都取得了瞩目的表现，例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，数十亿乃至上千亿的模型参数，使得大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532289/introduction"><![CDATA[<h3>Description</h3>​大语言模型在绝大多数自然语言处理的下游任务上都取得了瞩目的表现，例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，数十亿乃至上千亿的模型参数，使得大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型。<h3>Deadline: 2025-02-16T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532288/introduction</id>
+        <title><![CDATA[IEEE AICAS 2025 Grand Challenge - 大模型硬件系统设计赛道(赛季 1)]]></title>
+        
+        <updated>2024-12-10T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532288/introduction"/>
+        <summary>近年来，基于预训练与Transformer技术的大语言模型（Large Language Models, LLM）在自然语言处理的下游任务上都取得了瞩目的表现例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，由于数据隐私、计算能效等考量，在边缘侧进行高效的LLM推理是未来的发展趋势。由于数十亿乃至上千亿的模型参数，大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532288/introduction"><![CDATA[<h3>Description</h3>近年来，基于预训练与Transformer技术的大语言模型（Large Language Models, LLM）在自然语言处理的下游任务上都取得了瞩目的表现例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，由于数据隐私、计算能效等考量，在边缘侧进行高效的LLM推理是未来的发展趋势。由于数十亿乃至上千亿的模型参数，大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型<h3>Deadline: 2025-02-16T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532287/introduction</id>
+        <title><![CDATA[IEEE AICAS 2025 Grand Challenge -大模型模拟电路自动设计赛道(赛季 1)]]></title>
+        
+        <updated>2024-12-03T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532287/introduction"/>
+        <summary>随着大语言模型（Large Language Models）在多个领域取得突破性进展，其在电子设计自动化（EDA）中的应用也受到广泛关注。在数字电路设计方面，基于LLM的自动化设计技术已经展示出巨大应用潜力，推动了从设计优化到生产自动化的全面升级。然而，与高度规则化的数字电路相比，模拟电路设计的过程更复杂，对非线性特性和精确度有更高的要求，因此在LLM驱动的设计领域中，模拟电路仍处于探索阶段。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532287/introduction"><![CDATA[<h3>Description</h3>随着大语言模型（Large Language Models）在多个领域取得突破性进展，其在电子设计自动化（EDA）中的应用也受到广泛关注。在数字电路设计方面，基于LLM的自动化设计技术已经展示出巨大应用潜力，推动了从设计优化到生产自动化的全面升级。然而，与高度规则化的数字电路相比，模拟电路设计的过程更复杂，对非线性特性和精确度有更高的要求，因此在LLM驱动的设计领域中，模拟电路仍处于探索阶段。<h3>Deadline: 2025-02-16T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     
     
