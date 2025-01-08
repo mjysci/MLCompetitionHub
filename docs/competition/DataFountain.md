@@ -2,7 +2,7 @@
 
 
 
-## 大数据技术竞赛 <sup style="color:red">[new]<sup>  
+## 大数据技术竞赛
 
 Link: https://www.datafountain.cn/competitions/1095  
 Description: 大数据技术竞赛  
