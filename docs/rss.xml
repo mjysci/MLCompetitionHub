@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-01-10T16:00:15+08:00</updated>
+    <updated>2025-01-11T16:00:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -406,7 +406,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532277/introduction"/>
         <summary>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532277/introduction"><![CDATA[<h3>Description</h3>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。<h3>Deadline: 2025-01-20T23:59:59+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532277/introduction"><![CDATA[<h3>Description</h3>在人工智能快速发展的背景下，如何高效地进行客户服务对话中多模态意图的识别成为了一个关键挑战。精准识别消费者在多次互动中的意图，不仅能显著提升客户体验和服务质量，还能助力企业的商业智能发展。为此，本次比赛由淘天集团、WWW2025、天池联合主办，设计了一个涵盖文本与图像涉及40余种不同类型的消费者图片场景以及意图分类任务数据集，旨在推动电商领域多模态对话场景意图识别技术的发展。<h3>Deadline: 2025-01-19T23:59:59+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -467,6 +467,20 @@
         <link href="https://zindi.africa/competitions/telangana-crop-health-challenge"/>
         <summary>Can you predict the health status of crops?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/telangana-crop-health-challenge"><![CDATA[<h3>Description</h3>Can you predict the health status of crops?<h3>Deadline: 2025-02-10T07:59:00+08:00</h3><h3>Reward: €6 900 EUR</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge</id>
+        <title><![CDATA[Lelapa AI Buzuzu-Mavi Challenge]]></title>
+        
+        <updated>2025-01-09T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge"/>
+        <summary>How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge"><![CDATA[<h3>Description</h3>How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?<h3>Deadline: 2025-04-07T07:59:00+08:00</h3><h3>Reward: $1 300 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -677,20 +691,6 @@
         <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
         <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/agrifieldnet-india-challenge</id>
-        <title><![CDATA[AgriFieldNet India Challenge]]></title>
-        
-        <updated>2022-09-05T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/agrifieldnet-india-challenge"/>
-        <summary>Can you detect crop types in a class-imbalanced satellite image dataset?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/agrifieldnet-india-challenge"><![CDATA[<h3>Description</h3>Can you detect crop types in a class-imbalanced satellite image dataset?<h3>Deadline: 2022-11-01T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
