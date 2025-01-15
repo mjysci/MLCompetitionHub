@@ -6,7 +6,7 @@
 
 Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
 Description: Can you identify where and when an urban flash flood happened in South Africa?  
-Deadline: 2025-02-17T07:59:00+0800  
+Deadline: 2025-02-17T08:15:00+0800  
 Reward: $10 000 USD  
 
 
@@ -14,7 +14,7 @@ Reward: $10 000 USD
 
 Link: https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge  
 Description: Can you help communities recover by detecting damaged infrastructure using aerial imagery?   
-Deadline: 2025-02-01T07:59:00+0800  
+Deadline: 2025-01-31T08:15:00+0800  
 Reward: $12 500 USD + AWS credits  
 
 
@@ -22,7 +22,7 @@ Reward: $12 500 USD + AWS credits
 
 Link: https://zindi.africa/competitions/outsmarting-outbreaks-challenge  
 Description: Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?  
-Deadline: 2025-02-01T07:59:00+0800  
+Deadline: 2025-01-31T08:15:00+0800  
 Reward: $12 500 USD + AWS credits  
 
 
@@ -30,7 +30,7 @@ Reward: $12 500 USD + AWS credits
 
 Link: https://zindi.africa/competitions/telangana-crop-health-challenge  
 Description: Can you predict the health status of crops?  
-Deadline: 2025-02-10T07:59:00+0800  
+Deadline: 2025-02-09T08:15:00+0800  
 Reward: €6 900 EUR  
 
 
@@ -38,7 +38,7 @@ Reward: €6 900 EUR
 
 Link: https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge  
 Description: How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?  
-Deadline: 2025-04-07T07:59:00+0800  
+Deadline: 2025-04-07T08:15:00+0800  
 Reward: $1 300 USD  
 
 
