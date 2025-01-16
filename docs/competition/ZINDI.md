@@ -34,7 +34,7 @@ Deadline: 2025-02-09T08:15:00+0800
 Reward: €6 900 EUR  
 
 
-## Lelapa AI Buzuzu-Mavi Challenge <sup style="color:red">[new]<sup>  
+## Lelapa AI Buzuzu-Mavi Challenge
 
 Link: https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge  
 Description: How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?  
