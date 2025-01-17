@@ -14,7 +14,7 @@ Reward: $10 000 USD
 
 Link: https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge  
 Description: Can you help communities recover by detecting damaged infrastructure using aerial imagery?   
-Deadline: 2025-01-31T08:15:00+0800  
+Deadline: 2025-02-01T08:15:00+0800  
 Reward: $12 500 USD + AWS credits  
 
 
