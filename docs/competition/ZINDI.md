@@ -22,7 +22,7 @@ Reward: $12 500 USD + AWS credits
 
 Link: https://zindi.africa/competitions/outsmarting-outbreaks-challenge  
 Description: Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?  
-Deadline: 2025-01-31T08:15:00+0800  
+Deadline: 2025-02-01T08:15:00+0800  
 Reward: $12 500 USD + AWS credits  
 
 
@@ -30,7 +30,7 @@ Reward: $12 500 USD + AWS credits
 
 Link: https://zindi.africa/competitions/telangana-crop-health-challenge  
 Description: Can you predict the health status of crops?  
-Deadline: 2025-02-09T08:15:00+0800  
+Deadline: 2025-02-10T08:15:00+0800  
 Reward: €6 900 EUR  
 
 

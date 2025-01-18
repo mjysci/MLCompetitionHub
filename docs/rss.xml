@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-01-17T15:59:59+08:00</updated>
+    <updated>2025-01-18T16:00:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -211,62 +211,6 @@
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/1094</id>
-        <title><![CDATA[ AI+数智人能力及客服应用]]></title>
-        
-        <updated>2024-12-12T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1094"/>
-        <summary> AI+数智人能力及客服应用</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1094"><![CDATA[<h3>Description</h3> AI+数智人能力及客服应用<h3>Deadline: 2025-04-30T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1093</id>
-        <title><![CDATA[AI+数智空间]]></title>
-        
-        <updated>2024-12-12T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1093"/>
-        <summary>AI+数智空间</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1093"><![CDATA[<h3>Description</h3>AI+数智空间<h3>Deadline: 2025-04-30T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1092</id>
-        <title><![CDATA[AI+增强视频质量评价赛道]]></title>
-        
-        <updated>2024-12-12T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1092"/>
-        <summary>AI+增强视频质量评价赛道</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1092"><![CDATA[<h3>Description</h3>AI+增强视频质量评价赛道<h3>Deadline: 2025-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1091</id>
-        <title><![CDATA[AI+图像编码]]></title>
-        
-        <updated>2024-12-12T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1091"/>
-        <summary>AI+图像编码</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1091"><![CDATA[<h3>Description</h3>AI+图像编码<h3>Deadline: 2025-04-30T23:59:59+08:00</h3><h3>Reward: ￥980000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/1089</id>
         <title><![CDATA[领域事件多因果关联挖掘]]></title>
         
@@ -450,7 +394,7 @@
         
         <link href="https://zindi.africa/competitions/outsmarting-outbreaks-challenge"/>
         <summary>Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/outsmarting-outbreaks-challenge"><![CDATA[<h3>Description</h3>Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?<h3>Deadline: 2025-01-31T08:15:00+08:00</h3><h3>Reward: $12 500 USD + AWS credits</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/outsmarting-outbreaks-challenge"><![CDATA[<h3>Description</h3>Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?<h3>Deadline: 2025-02-01T08:15:00+08:00</h3><h3>Reward: $12 500 USD + AWS credits</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -464,7 +408,7 @@
         
         <link href="https://zindi.africa/competitions/telangana-crop-health-challenge"/>
         <summary>Can you predict the health status of crops?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/telangana-crop-health-challenge"><![CDATA[<h3>Description</h3>Can you predict the health status of crops?<h3>Deadline: 2025-02-09T08:15:00+08:00</h3><h3>Reward: €6 900 EUR</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/telangana-crop-health-challenge"><![CDATA[<h3>Description</h3>Can you predict the health status of crops?<h3>Deadline: 2025-02-10T08:15:00+08:00</h3><h3>Reward: €6 900 EUR</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
