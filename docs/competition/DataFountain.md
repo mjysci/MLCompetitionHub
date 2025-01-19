@@ -2,14 +2,6 @@
 
 
 
-## 大数据技术竞赛
-
-Link: https://www.datafountain.cn/competitions/1095  
-Description: 大数据技术竞赛  
-Deadline: 2025-01-18T23:59:59+0800  
-Reward: ￥10000  
-
-
 ## 领域事件多因果关联挖掘
 
 Link: https://www.datafountain.cn/competitions/1089  
