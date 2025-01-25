@@ -1322,3 +1322,5 @@ https://www.datafountain.cn/competitions/1085
 https://www.datafountain.cn/competitions/1084
 https://www.datafountain.cn/competitions/1095
 https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge
+https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge
+https://zindi.africa/competitions/amini-canopy-or-crop-challenge

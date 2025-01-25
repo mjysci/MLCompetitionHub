@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-01-24T16:00:02+08:00</updated>
+    <updated>2025-01-25T16:00:18+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -331,6 +331,20 @@
     
     
     <entry>
+        <id>https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge</id>
+        <title><![CDATA[CGIAR Root Volume Estimation Challenge]]></title>
+        
+        <updated>2025-01-25T06:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge"/>
+        <summary>Can you estimate cassava root volume from underground scanning images?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge"><![CDATA[<h3>Description</h3>Can you estimate cassava root volume from underground scanning images?<h3>Deadline: 2025-03-11T07:15:00+08:00</h3><h3>Reward: $15 000</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa</id>
         <title><![CDATA[Inundata: Mapping Floods in South Africa]]></title>
         
@@ -395,6 +409,20 @@
         <link href="https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge"/>
         <summary>How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge"><![CDATA[<h3>Description</h3>How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?<h3>Deadline: 2025-04-07T08:15:00+08:00</h3><h3>Reward: $1 300 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/amini-canopy-or-crop-challenge</id>
+        <title><![CDATA[Amini Canopy or Crop Challenge]]></title>
+        
+        <updated>2025-01-17T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/amini-canopy-or-crop-challenge"/>
+        <summary>Can your model untangle forests from farms in the heart of West Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/amini-canopy-or-crop-challenge"><![CDATA[<h3>Description</h3>Can your model untangle forests from farms in the heart of West Africa?<h3>Deadline: 2025-03-02T08:15:00+08:00</h3><h3>Reward: Get Started with Earth Observation</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -577,34 +605,6 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
-        <title><![CDATA[Africa Biomass Challenge]]></title>
-        
-        <updated>2023-01-27T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
-        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/agrifieldnet-india-challenge</id>
-        <title><![CDATA[AgriFieldNet India Challenge]]></title>
-        
-        <updated>2022-09-05T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/agrifieldnet-india-challenge"/>
-        <summary>Can you detect crop types in a class-imbalanced satellite image dataset?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/agrifieldnet-india-challenge"><![CDATA[<h3>Description</h3>Can you detect crop types in a class-imbalanced satellite image dataset?<h3>Deadline: 2022-11-01T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

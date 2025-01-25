@@ -2,6 +2,14 @@
 
 
 
+## CGIAR Root Volume Estimation Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge  
+Description: Can you estimate cassava root volume from underground scanning images?  
+Deadline: 2025-03-11T07:15:00+0800  
+Reward: $15 000  
+
+
 ## Inundata: Mapping Floods in South Africa
 
 Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
@@ -40,6 +48,14 @@ Link: https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge
 Description: How can a focused version of InkubaLM for Swahili and Hausa be achieved through model compression techniques?  
 Deadline: 2025-04-07T08:15:00+0800  
 Reward: $1 300 USD  
+
+
+## Amini Canopy or Crop Challenge
+
+Link: https://zindi.africa/competitions/amini-canopy-or-crop-challenge  
+Description: Can your model untangle forests from farms in the heart of West Africa?  
+Deadline: 2025-03-02T08:15:00+0800  
+Reward: Get Started with Earth Observation  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -143,21 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Africa Biomass Challenge
-
-Link: https://zindi.africa/competitions/africa-biomass-challenge  
-Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
-Deadline: 2023-05-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## AgriFieldNet India Challenge
-
-Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
-Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
-Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
