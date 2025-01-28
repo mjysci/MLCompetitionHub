@@ -6,8 +6,8 @@
 
 Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge  
 Description: Can you estimate cassava root volume from underground scanning images?  
-Deadline: 2025-03-11T07:15:00+0800  
-Reward: $15 000  
+Deadline: 2025-03-10T08:15:00+0800  
+Reward: $15 000 USD  
 
 
 ## Inundata: Mapping Floods in South Africa
@@ -55,7 +55,7 @@ Reward: $1 300 USD
 Link: https://zindi.africa/competitions/amini-canopy-or-crop-challenge  
 Description: Can your model untangle forests from farms in the heart of West Africa?  
 Deadline: 2025-03-02T08:15:00+0800  
-Reward: Get Started with Earth Observation  
+Reward: 3 000 Points  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
