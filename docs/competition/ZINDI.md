@@ -54,7 +54,7 @@ Reward: $1 300 USD
 
 Link: https://zindi.africa/competitions/amini-canopy-or-crop-challenge  
 Description: Can your model untangle forests from farms in the heart of West Africa?  
-Deadline: 2025-03-02T08:15:00+0800  
+Deadline: 2025-03-30T08:30:00+0800  
 Reward: 3 000 Points  
 
 
