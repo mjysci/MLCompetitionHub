@@ -2,7 +2,7 @@
 
 
 
-## CGIAR Root Volume Estimation Challenge <sup style="color:red">[new]<sup>  
+## CGIAR Root Volume Estimation Challenge
 
 Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge  
 Description: Can you estimate cassava root volume from underground scanning images?  
