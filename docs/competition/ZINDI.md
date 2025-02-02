@@ -18,22 +18,6 @@ Deadline: 2025-02-17T08:15:00+0800
 Reward: $10 000 USD  
 
 
-## Kuyesera AI Disaster Damage and Displacement Challenge
-
-Link: https://zindi.africa/competitions/kuyesera-ai-disaster-damage-and-displacement-challenge  
-Description: Can you help communities recover by detecting damaged infrastructure using aerial imagery?   
-Deadline: 2025-02-01T08:15:00+0800  
-Reward: $12 500 USD + AWS credits  
-
-
-## SUA Outsmarting Outbreaks Challenge
-
-Link: https://zindi.africa/competitions/outsmarting-outbreaks-challenge  
-Description: Can you turn the tide on waterborne diseases by predicting the next outbreak in Tanzania?  
-Deadline: 2025-02-01T08:15:00+0800  
-Reward: $12 500 USD + AWS credits  
-
-
 ## Telangana Crop Health Challenge
 
 Link: https://zindi.africa/competitions/telangana-crop-health-challenge  
@@ -159,5 +143,21 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
 Description: Can you predict drought damage from smartphone images of crops?  
 Deadline: 2023-11-04T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Digital Africa Plantation Counting Challenge
+
+Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
+Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
+Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
