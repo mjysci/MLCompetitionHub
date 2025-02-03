@@ -47,7 +47,7 @@ Reward: 3 000 Points
 Link: https://zindi.africa/competitions/indabax-equatorial-guinea-hackathon  
 Description: Can you predict carbon output in Africa using CO2 emissions data?  
 Deadline: 2025-02-13T21:00:00+0800  
-Reward: 100.000,00 CFA  
+Reward: 100 000 CFA  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
