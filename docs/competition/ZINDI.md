@@ -42,7 +42,7 @@ Deadline: 2025-03-30T08:30:00+0800
 Reward: 3 000 Points  
 
 
-## IndabaX Equatorial Guinea Hackathon <sup style="color:red">[new]<sup>  
+## IndabaX Equatorial Guinea Hackathon
 
 Link: https://zindi.africa/competitions/indabax-equatorial-guinea-hackathon  
 Description: Can you predict carbon output in Africa using CO2 emissions data?  
