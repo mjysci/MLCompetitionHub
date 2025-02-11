@@ -18,14 +18,6 @@ Deadline: 2025-02-17T08:15:00+0800
 Reward: $10 000 USD  
 
 
-## Telangana Crop Health Challenge
-
-Link: https://zindi.africa/competitions/telangana-crop-health-challenge  
-Description: Can you predict the health status of crops?  
-Deadline: 2025-02-10T08:15:00+0800  
-Reward: €6 900 EUR  
-
-
 ## Lelapa AI Buzuzu-Mavi Challenge
 
 Link: https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
