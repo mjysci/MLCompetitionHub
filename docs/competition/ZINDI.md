@@ -34,14 +34,6 @@ Deadline: 2025-03-30T08:30:00+0800
 Reward: 3 000 Points  
 
 
-## IndabaX Equatorial Guinea Hackathon
-
-Link: https://zindi.africa/competitions/indabax-equatorial-guinea-hackathon  
-Description: Can you predict carbon output in Africa using CO2 emissions data?  
-Deadline: 2025-02-13T21:00:00+0800  
-Reward: 100 000 CFA  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
 Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
 Deadline: 2022-11-01T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Turtle Recall: Conservation Challenge
+
+Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
+Description: Can you build a facial recognition model... for turtles?  
+Deadline: 2022-04-22T07:59:00+0800  
 Reward: $10 000 USD  
 
