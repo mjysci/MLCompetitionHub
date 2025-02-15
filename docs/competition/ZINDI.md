@@ -18,6 +18,22 @@ Deadline: 2025-02-17T08:15:00+0800
 Reward: $10 000 USD  
 
 
+## Lacuna Solar Survey Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/lacuna-solar-survey-challenge  
+Description: Can you identify solar panels and boilers in satellite and drone imagery?  
+Deadline: 2025-03-24T08:15:00+0800  
+Reward: $5 000 USD  
+
+
+## Amini Cocoa Contamination Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
+Description: Can you develop a mobile-friendly machine learning model to identify diseases on cocoa leaves?  
+Deadline: 2025-05-11T08:15:00+0800  
+Reward: $2 500 USD + DLI Vouchers  
+
+
 ## Lelapa AI Buzuzu-Mavi Challenge
 
 Link: https://zindi.africa/competitions/lelapa-ai-buzuzu-mavi-challenge  
@@ -143,21 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## AgriFieldNet India Challenge
-
-Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
-Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
-Deadline: 2022-11-01T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Turtle Recall: Conservation Challenge
-
-Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
-Description: Can you build a facial recognition model... for turtles?  
-Deadline: 2022-04-22T07:59:00+0800  
 Reward: $10 000 USD  
 
