@@ -10,14 +10,6 @@ Deadline: 2025-03-10T08:15:00+0800
 Reward: $15 000 USD  
 
 
-## Inundata: Mapping Floods in South Africa
-
-Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
-Description: Can you identify where and when an urban flash flood happened in South Africa?  
-Deadline: 2025-02-17T08:15:00+0800  
-Reward: $10 000 USD  
-
-
 ## Lacuna Solar Survey Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/lacuna-solar-survey-challenge  
@@ -31,7 +23,7 @@ Reward: $5 000 USD
 Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
 Description: Can you develop a mobile-friendly machine learning model to identify diseases on cocoa leaves?  
 Deadline: 2025-05-11T08:15:00+0800  
-Reward: $2 500 USD + DLI Vouchers  
+Reward: $7 000 USD  
 
 
 ## Lelapa AI Buzuzu-Mavi Challenge
@@ -104,6 +96,14 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Classify fields in South Africa by crop type using Sentinel-2 satellite imagery  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
+
+
+## Inundata: Mapping Floods in South Africa
+
+Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
+Description: Can you identify where and when an urban flash flood happened in South Africa?  
+Deadline: 2025-02-17T08:15:00+0800  
+Reward: $10 000 USD  
 
 
 ## Uwazi Citizen Science Challenge
