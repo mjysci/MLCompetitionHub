@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-02-18T16:00:01+08:00</updated>
+    <updated>2025-02-19T16:00:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1273</id>
+        <title><![CDATA[基于百度飞桨和文心大模型的智能乒乓球运动分析与可视化设计-第十五届中国大学生服务外包创新创业大赛]]></title>
+        
+        <updated>2025-02-06T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1273"/>
+        <summary>中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了两个赛道，报名截止日期为3月20日。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1273"><![CDATA[<h3>Description</h3>中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了两个赛道，报名截止日期为3月20日。<h3>Deadline: 2025-08-31T08:00:00+08:00</h3><h3>Reward: 教育部榜单国赛</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1274</id>
@@ -19,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1274"/>
         <summary>开发者需基于飞桨星河社区相关功能调用DeepSeek模型，探索模型优化与应用开发，推动垂直领域场景项目开发。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1274"><![CDATA[<h3>Description</h3>开发者需基于飞桨星河社区相关功能调用DeepSeek模型，探索模型优化与应用开发，推动垂直领域场景项目开发。<h3>Deadline: 2025-03-14T08:00:00+08:00</h3><h3>Reward: 京东卡+开发资源</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1279</id>
+        <title><![CDATA[基于文心大模型的多Agent合作模拟系统设计]]></title>
+        
+        <updated>2025-02-19T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1279"/>
+        <summary>中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了两个赛道，报名截止日期为3月20日。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1279"><![CDATA[<h3>Description</h3>中国大学生服务外包创新创业大赛是全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了两个赛道，报名截止日期为3月20日。<h3>Deadline: 2025-08-31T08:00:00+08:00</h3><h3>Reward: 教育部榜单竞赛</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>

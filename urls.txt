@@ -1327,3 +1327,5 @@ https://zindi.africa/competitions/amini-canopy-or-crop-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/1274
 https://zindi.africa/competitions/lacuna-solar-survey-challenge
 https://zindi.africa/competitions/amini-cocoa-contamination-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/1273
+https://aistudio.baidu.com/aistudio/competition/detail/1279
