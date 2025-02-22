@@ -10,7 +10,7 @@ Deadline: 2025-03-10T08:15:00+0800
 Reward: $15 000 USD  
 
 
-## Lacuna Solar Survey Challenge <sup style="color:red">[new]<sup>  
+## Lacuna Solar Survey Challenge
 
 Link: https://zindi.africa/competitions/lacuna-solar-survey-challenge  
 Description: Can you identify solar panels and boilers in satellite and drone imagery?  
@@ -18,7 +18,7 @@ Deadline: 2025-03-24T08:15:00+0800
 Reward: $5 000 USD  
 
 
-## Amini Cocoa Contamination Challenge <sup style="color:red">[new]<sup>  
+## Amini Cocoa Contamination Challenge
 
 Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
 Description: Can you develop a mobile-friendly machine learning model to identify diseases on cocoa leaves?  
