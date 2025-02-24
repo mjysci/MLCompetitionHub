@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-02-23T16:00:17+08:00</updated>
+    <updated>2025-02-24T16:00:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -237,6 +237,34 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1098</id>
+        <title><![CDATA[中文开源数据集驱动中文大模型智能跃迁挑战赛]]></title>
+        
+        <updated>2025-02-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1098"/>
+        <summary>中文开源数据集驱动中文大模型智能跃迁挑战赛</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1098"><![CDATA[<h3>Description</h3>中文开源数据集驱动中文大模型智能跃迁挑战赛<h3>Deadline: 2025-03-31T23:59:59+08:00</h3><h3>Reward: 奖金待公布</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1097</id>
+        <title><![CDATA[盲区突围：模型BadCase极限挑战赛]]></title>
+        
+        <updated>2025-02-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1097"/>
+        <summary>盲区突围：模型BadCase极限挑战赛</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1097"><![CDATA[<h3>Description</h3>盲区突围：模型BadCase极限挑战赛<h3>Deadline: 2025-03-31T23:59:59+08:00</h3><h3>Reward: 奖金待公布</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/1089</id>

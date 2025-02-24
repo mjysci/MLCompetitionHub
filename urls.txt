@@ -1329,3 +1329,5 @@ https://zindi.africa/competitions/lacuna-solar-survey-challenge
 https://zindi.africa/competitions/amini-cocoa-contamination-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/1273
 https://aistudio.baidu.com/aistudio/competition/detail/1279
+https://www.datafountain.cn/competitions/1098
+https://www.datafountain.cn/competitions/1097
