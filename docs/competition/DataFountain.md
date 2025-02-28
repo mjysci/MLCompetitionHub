@@ -10,7 +10,7 @@ Deadline: 2025-04-06T23:59:59+0800
 Reward: ￥170000  
 
 
-## 中文开源数据集驱动中文大模型智能跃迁挑战赛 <sup style="color:red">[new]<sup>  
+## 中文开源数据集驱动中文大模型智能跃迁挑战赛
 
 Link: https://www.datafountain.cn/competitions/1098  
 Description: 中文开源数据集驱动中文大模型智能跃迁挑战赛  
@@ -18,7 +18,7 @@ Deadline: 2025-03-31T23:59:59+0800
 Reward: ￥160000  
 
 
-## 盲区突围：模型BadCase极限挑战赛 <sup style="color:red">[new]<sup>  
+## 盲区突围：模型BadCase极限挑战赛
 
 Link: https://www.datafountain.cn/competitions/1097  
 Description: 盲区突围：模型BadCase极限挑战赛  
