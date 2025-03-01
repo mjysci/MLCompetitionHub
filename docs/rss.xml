@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-02-28T16:00:04+08:00</updated>
+    <updated>2025-03-01T15:59:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -415,6 +415,20 @@
     </entry>
     
     <entry>
+        <id>https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge</id>
+        <title><![CDATA[IBM SkillsBuild Hydropower Climate Optimisation Challenge ]]></title>
+        
+        <updated>2025-03-04T00:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge"/>
+        <summary>Can you forecast climate and operational effects on load generation for micro-hydropower plants in off-grid communities?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge"><![CDATA[<h3>Description</h3>Can you forecast climate and operational effects on load generation for micro-hydropower plants in off-grid communities?<h3>Deadline: 2025-04-12T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/lacuna-solar-survey-challenge</id>
         <title><![CDATA[Lacuna Solar Survey Challenge]]></title>
         
@@ -661,20 +675,6 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
-        <title><![CDATA[Africa Biomass Challenge]]></title>
-        
-        <updated>2023-01-27T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
-        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

@@ -1332,3 +1332,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1279
 https://www.datafountain.cn/competitions/1098
 https://www.datafountain.cn/competitions/1097
 https://www.datafountain.cn/competitions/1102
+https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge
