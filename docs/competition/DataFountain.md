@@ -2,7 +2,7 @@
 
 
 
-## 基于人工智能的闽江流域水情预报 <sup style="color:red">[new]<sup>  
+## 基于人工智能的闽江流域水情预报
 
 Link: https://www.datafountain.cn/competitions/1102  
 Description: 基于人工智能的闽江流域水情预报  

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-03-03T16:00:47+08:00</updated>
+    <updated>2025-03-04T16:00:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -369,6 +369,20 @@
     
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532296/introduction</id>
+        <title><![CDATA[CCL2025-面向中文语音的实体关系三元组抽取评测(赛季 1)]]></title>
+        
+        <updated>2024-12-20T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532296/introduction"/>
+        <summary>传统的关系三元组抽取任务主要集中于书面文本，通过识别实体及其相互关系来构建结构化的知识图谱。然而，语音作为人机交互的主要形式之一，在智能助手、智能客服、语音搜索等诸多应用中发挥着日益重要的作用。因此，如何高效、准确地从语音数据中提取有价值的结构化信息成为研究的热点之一。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532296/introduction"><![CDATA[<h3>Description</h3>传统的关系三元组抽取任务主要集中于书面文本，通过识别实体及其相互关系来构建结构化的知识图谱。然而，语音作为人机交互的主要形式之一，在智能助手、智能客服、语音搜索等诸多应用中发挥着日益重要的作用。因此，如何高效、准确地从语音数据中提取有价值的结构化信息成为研究的热点之一。<h3>Deadline: 2025-05-02T23:59:59+08:00</h3><h3>Reward: ￥18000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532289/introduction</id>
