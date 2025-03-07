@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-03-06T16:00:03+08:00</updated>
+    <updated>2025-03-07T16:00:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -197,6 +197,20 @@
     
     
     <entry>
+        <id>https://www.datafountain.cn/competitions/1104</id>
+        <title><![CDATA[多模态BadCase极限挑战赛]]></title>
+        
+        <updated>2025-03-05T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1104"/>
+        <summary>多模态BadCase极限挑战赛</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1104"><![CDATA[<h3>Description</h3>多模态BadCase极限挑战赛<h3>Deadline: 2025-03-26T23:59:59+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.datafountain.cn/competitions/1102</id>
         <title><![CDATA[基于人工智能的闽江流域水情预报]]></title>
         
@@ -329,6 +343,48 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532324/introduction</id>
+        <title><![CDATA[ELE AI算法大赛“赛道二：智慧骑士—消防隐患识别”(赛季 1)]]></title>
+        
+        <updated>2025-03-07T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532324/introduction"/>
+        <summary>蓝骑士在履约配送的过程中，会经过大街小巷以及楼梯拐角，是很好的发现隐患的眼睛。但在隐患上报的链路中，存在几个卡点：一是蓝骑士上传信息的真实性及准确性，二是上报行为能不能得到最快的奖励反馈。借助AI的实施识别功能，可以有效解决以上两个卡点，一方面可以将更真实有效的隐患信息传达给监管部门，另一方面也能对蓝骑士进行即时奖励，鼓励其上报隐患的积极行为。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532324/introduction"><![CDATA[<h3>Description</h3>蓝骑士在履约配送的过程中，会经过大街小巷以及楼梯拐角，是很好的发现隐患的眼睛。但在隐患上报的链路中，存在几个卡点：一是蓝骑士上传信息的真实性及准确性，二是上报行为能不能得到最快的奖励反馈。借助AI的实施识别功能，可以有效解决以上两个卡点，一方面可以将更真实有效的隐患信息传达给监管部门，另一方面也能对蓝骑士进行即时奖励，鼓励其上报隐患的积极行为。<h3>Deadline: 2025-05-16T12:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532323/introduction</id>
+        <title><![CDATA[ELE AI算法大赛“赛道三：智算商效—智能化市场营销解决方案探寻”(赛季 1)]]></title>
+        
+        <updated>2025-03-07T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532323/introduction"/>
+        <summary>营销洞察与舆情监控，是营销生态中至关重要的两个领域，直接影响到品牌市场竞争力与形象影响力。营销洞察，为市场营销活动的策略制定提供了基于全网数据的洞察分析，全方位驱动营销走向成功高效。舆情监控，则为营销活动保驾护航，实时洞察舆论风向，助力品牌及时应对危机、把握口碑动向、精准优化策略。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532323/introduction"><![CDATA[<h3>Description</h3>营销洞察与舆情监控，是营销生态中至关重要的两个领域，直接影响到品牌市场竞争力与形象影响力。营销洞察，为市场营销活动的策略制定提供了基于全网数据的洞察分析，全方位驱动营销走向成功高效。舆情监控，则为营销活动保驾护航，实时洞察舆论风向，助力品牌及时应对危机、把握口碑动向、精准优化策略。<h3>Deadline: 2025-05-16T12:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532322/introduction</id>
+        <title><![CDATA[ELE AI算法大赛“赛道一：智慧养老—助老年群体智慧点餐”(赛季 1)]]></title>
+        
+        <updated>2025-03-07T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532322/introduction"/>
+        <summary>2024年，全球平均预期寿命已经增长到73.2岁，越来越多传统意义上的老人开始接收外卖这一曾经是年轻人专属的领域，大社会化的老人年餐饮形式必然更加丰富。让我们来为现在的他们和未来的自己做些什么！</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532322/introduction"><![CDATA[<h3>Description</h3>2024年，全球平均预期寿命已经增长到73.2岁，越来越多传统意义上的老人开始接收外卖这一曾经是年轻人专属的领域，大社会化的老人年餐饮形式必然更加丰富。让我们来为现在的他们和未来的自己做些什么！<h3>Deadline: 2025-05-16T12:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532296/introduction</id>
         <title><![CDATA[CCL2025-面向中文语音的实体关系三元组抽取评测(赛季 1)]]></title>
         
@@ -337,48 +393,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532296/introduction"/>
         <summary>传统的关系三元组抽取任务主要集中于书面文本，通过识别实体及其相互关系来构建结构化的知识图谱。然而，语音作为人机交互的主要形式之一，在智能助手、智能客服、语音搜索等诸多应用中发挥着日益重要的作用。因此，如何高效、准确地从语音数据中提取有价值的结构化信息成为研究的热点之一。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532296/introduction"><![CDATA[<h3>Description</h3>传统的关系三元组抽取任务主要集中于书面文本，通过识别实体及其相互关系来构建结构化的知识图谱。然而，语音作为人机交互的主要形式之一，在智能助手、智能客服、语音搜索等诸多应用中发挥着日益重要的作用。因此，如何高效、准确地从语音数据中提取有价值的结构化信息成为研究的热点之一。<h3>Deadline: 2025-05-02T23:59:59+08:00</h3><h3>Reward: ￥18000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532289/introduction</id>
-        <title><![CDATA[IEEE AICAS 2025 Grand Challenge - 大模型软硬系统优化赛道(赛季 2)]]></title>
-        
-        <updated>2024-12-10T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532289/introduction"/>
-        <summary>​大语言模型在绝大多数自然语言处理的下游任务上都取得了瞩目的表现，例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，数十亿乃至上千亿的模型参数，使得大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532289/introduction"><![CDATA[<h3>Description</h3>​大语言模型在绝大多数自然语言处理的下游任务上都取得了瞩目的表现，例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，数十亿乃至上千亿的模型参数，使得大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型。<h3>Deadline: 2025-03-24T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532288/introduction</id>
-        <title><![CDATA[IEEE AICAS 2025 Grand Challenge - 大模型硬件系统设计赛道(赛季 2)]]></title>
-        
-        <updated>2024-12-10T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532288/introduction"/>
-        <summary>近年来，基于预训练与Transformer技术的大语言模型（Large Language Models, LLM）在自然语言处理的下游任务上都取得了瞩目的表现例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，由于数据隐私、计算能效等考量，在边缘侧进行高效的LLM推理是未来的发展趋势。由于数十亿乃至上千亿的模型参数，大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532288/introduction"><![CDATA[<h3>Description</h3>近年来，基于预训练与Transformer技术的大语言模型（Large Language Models, LLM）在自然语言处理的下游任务上都取得了瞩目的表现例如文本理解、文本生成、情感分析、机器翻译和互动问答等。然而，由于数据隐私、计算能效等考量，在边缘侧进行高效的LLM推理是未来的发展趋势。由于数十亿乃至上千亿的模型参数，大模型在端侧应用进行高效部署面临很大的挑战。并且模型参数量增长的速度远大于硬件性能提升的速度，学术界和工业界开始通过模型压缩、数据流优化和算子调用等软硬件协同的方法尝试在有限的硬件条件下部署和运行大模型<h3>Deadline: 2025-03-24T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532287/introduction</id>
-        <title><![CDATA[IEEE AICAS 2025 Grand Challenge -大模型模拟电路自动设计赛道(赛季 2)]]></title>
-        
-        <updated>2024-12-03T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532287/introduction"/>
-        <summary>随着大语言模型（Large Language Models）在多个领域取得突破性进展，其在电子设计自动化（EDA）中的应用也受到广泛关注。在数字电路设计方面，基于LLM的自动化设计技术已经展示出巨大应用潜力，推动了从设计优化到生产自动化的全面升级。然而，与高度规则化的数字电路相比，模拟电路设计的过程更复杂，对非线性特性和精确度有更高的要求，因此在LLM驱动的设计领域中，模拟电路仍处于探索阶段。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532287/introduction"><![CDATA[<h3>Description</h3>随着大语言模型（Large Language Models）在多个领域取得突破性进展，其在电子设计自动化（EDA）中的应用也受到广泛关注。在数字电路设计方面，基于LLM的自动化设计技术已经展示出巨大应用潜力，推动了从设计优化到生产自动化的全面升级。然而，与高度规则化的数字电路相比，模拟电路设计的过程更复杂，对非线性特性和精确度有更高的要求，因此在LLM驱动的设计领域中，模拟电路仍处于探索阶段。<h3>Deadline: 2025-03-24T23:59:59+08:00</h3><h3>Reward: $16650</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

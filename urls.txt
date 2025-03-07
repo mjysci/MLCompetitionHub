@@ -1334,3 +1334,7 @@ https://www.datafountain.cn/competitions/1097
 https://www.datafountain.cn/competitions/1102
 https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge
 https://tianchi.aliyun.com/competition/entrance/532296/introduction
+https://www.datafountain.cn/competitions/1104
+https://tianchi.aliyun.com/competition/entrance/532324/introduction
+https://tianchi.aliyun.com/competition/entrance/532323/introduction
+https://tianchi.aliyun.com/competition/entrance/532322/introduction
