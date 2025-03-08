@@ -42,6 +42,14 @@ Deadline: 2025-04-07T08:15:00+0800
 Reward: $1 300 USD  
 
 
+## International Women's Day Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/international-womens-day-challenge  
+Description: Can you predict women headed households living below an income threshold?  
+Deadline: 2025-04-01T07:59:00+0800  
+Reward: 3 000 Zindi Points  
+
+
 ## Amini Canopy or Crop Challenge
 
 Link: https://zindi.africa/competitions/amini-canopy-or-crop-challenge  
@@ -101,7 +109,7 @@ Reward: $12 000 USD
 ## Farm Pin Crop Detection Challenge
 
 Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge  
-Description: Classify fields in South Africa by crop type using Sentinel-2 satellite imagery  
+Description: Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
 
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
 Description: Can you predict drought damage from smartphone images of crops?  
 Deadline: 2023-11-04T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Digital Africa Plantation Counting Challenge
-
-Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
-Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
-Deadline: 2023-04-10T07:59:00+0800  
 Reward: $10 000 USD  
 
