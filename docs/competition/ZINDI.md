@@ -2,15 +2,7 @@
 
 
 
-## CGIAR Root Volume Estimation Challenge
-
-Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge  
-Description: Can you estimate cassava root volume from underground scanning images?  
-Deadline: 2025-03-10T08:15:00+0800  
-Reward: $15 000 USD  
-
-
-## IBM SkillsBuild Hydropower Climate Optimisation Challenge  <sup style="color:red">[new]<sup>  
+## IBM SkillsBuild Hydropower Climate Optimisation Challenge 
 
 Link: https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge  
 Description: Can you forecast climate and operational effects on load generation for micro-hydropower plants in off-grid communities?  
@@ -47,7 +39,7 @@ Reward: $1 300 USD
 Link: https://zindi.africa/competitions/international-womens-day-challenge  
 Description: Can you predict women headed households living below an income threshold?  
 Deadline: 2025-04-01T07:59:00+0800  
-Reward: 3 000 Zindi Points  
+Reward: 3 000 Points  
 
 
 ## Amini Canopy or Crop Challenge
@@ -80,6 +72,14 @@ Link: https://zindi.africa/competitions/rmb-cpi-nowcasting-challenge
 Description: Can you nowcast South African CPI?  
 Deadline: 2023-12-13T03:59:00+0800  
 Reward: $17 000 USD  
+
+
+## CGIAR Root Volume Estimation Challenge
+
+Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge  
+Description: Can you estimate cassava root volume from underground scanning images?  
+Deadline: 2025-03-10T08:15:00+0800  
+Reward: $15 000 USD  
 
 
 ## Wadhwani AI Bollworm Counting Challenge
