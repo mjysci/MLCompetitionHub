@@ -6,7 +6,7 @@
 
 Link: https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge  
 Description: Can you forecast climate and operational effects on load generation for micro-hydropower plants in off-grid communities?  
-Deadline: 2025-04-12T07:59:00+0800  
+Deadline: 2025-04-14T08:15:00+0800  
 Reward: $3 000 USD  
 
 
@@ -22,7 +22,7 @@ Reward: $5 000 USD
 
 Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
 Description: Can you develop a mobile-friendly machine learning model to identify diseases on cocoa leaves?  
-Deadline: 2025-05-11T08:15:00+0800  
+Deadline: 2025-05-12T08:15:00+0800  
 Reward: $7 000 USD  
 
 
@@ -38,7 +38,7 @@ Reward: $1 300 USD
 
 Link: https://zindi.africa/competitions/international-womens-day-challenge  
 Description: Can you predict women headed households living below an income threshold?  
-Deadline: 2025-04-01T07:59:00+0800  
+Deadline: 2025-03-31T08:15:00+0800  
 Reward: 3 000 Points  
 
 
@@ -46,7 +46,7 @@ Reward: 3 000 Points
 
 Link: https://zindi.africa/competitions/amini-canopy-or-crop-challenge  
 Description: Can your model untangle forests from farms in the heart of West Africa?  
-Deadline: 2025-03-30T08:30:00+0800  
+Deadline: 2025-03-31T08:15:00+0800  
 Reward: 3 000 Points  
 
 

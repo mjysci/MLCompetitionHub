@@ -2,7 +2,7 @@
 
 
 
-## 多模态BadCase极限挑战赛 <sup style="color:red">[new]<sup>  
+## 多模态BadCase极限挑战赛
 
 Link: https://www.datafountain.cn/competitions/1104  
 Description: 多模态BadCase极限挑战赛  
