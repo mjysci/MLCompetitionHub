@@ -34,7 +34,7 @@ Deadline: 2025-04-07T08:15:00+0800
 Reward: $1 300 USD  
 
 
-## International Women's Day Challenge <sup style="color:red">[new]<sup>  
+## International Women's Day Challenge
 
 Link: https://zindi.africa/competitions/international-womens-day-challenge  
 Description: Can you predict women headed households living below an income threshold?  
