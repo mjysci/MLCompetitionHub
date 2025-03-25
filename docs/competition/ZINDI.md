@@ -10,14 +10,6 @@ Deadline: 2025-04-14T08:15:00+0800
 Reward: $3 000 USD  
 
 
-## Lacuna Solar Survey Challenge
-
-Link: https://zindi.africa/competitions/lacuna-solar-survey-challenge  
-Description: Can you identify solar panels and boilers in satellite and drone imagery?  
-Deadline: 2025-03-24T08:15:00+0800  
-Reward: $5 000 USD  
-
-
 ## Amini Cocoa Contamination Challenge
 
 Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
 Description: Can you predict drought damage from smartphone images of crops?  
 Deadline: 2023-11-04T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Digital Africa Plantation Counting Challenge
+
+Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
+Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
+Deadline: 2023-04-10T07:59:00+0800  
 Reward: $10 000 USD  
 
