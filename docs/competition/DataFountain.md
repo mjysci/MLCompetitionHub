@@ -2,14 +2,6 @@
 
 
 
-## 多模态BadCase极限挑战赛
-
-Link: https://www.datafountain.cn/competitions/1104  
-Description: 多模态BadCase极限挑战赛  
-Deadline: 2025-03-26T23:59:59+0800  
-Reward: ￥160000  
-
-
 ## 基于人工智能的闽江流域水情预报
 
 Link: https://www.datafountain.cn/competitions/1102  
