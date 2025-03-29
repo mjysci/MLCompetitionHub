@@ -2,6 +2,14 @@
 
 
 
+## AMINI Soil Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/amini-soil-prediction-challenge  
+Description: Can you predict nutrient gaps for a more fertile tomorrow?  
+Deadline: 2025-06-23T08:15:00+0800  
+Reward: $7 000 USD  
+
+
 ## IBM SkillsBuild Hydropower Climate Optimisation Challenge 
 
 Link: https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
 Description: Can you predict drought damage from smartphone images of crops?  
 Deadline: 2023-11-04T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Digital Africa Plantation Counting Challenge
-
-Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
-Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
-Deadline: 2023-04-10T07:59:00+0800  
 Reward: $10 000 USD  
 
