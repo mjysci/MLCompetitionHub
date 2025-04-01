@@ -34,22 +34,6 @@ Deadline: 2025-04-07T08:15:00+0800
 Reward: $1 300 USD  
 
 
-## International Women's Day Challenge
-
-Link: https://zindi.africa/competitions/international-womens-day-challenge  
-Description: Can you predict women headed households living below an income threshold?  
-Deadline: 2025-03-31T08:15:00+0800  
-Reward: 3 000 Points  
-
-
-## Amini Canopy or Crop Challenge
-
-Link: https://zindi.africa/competitions/amini-canopy-or-crop-challenge  
-Description: Can your model untangle forests from farms in the heart of West Africa?  
-Deadline: 2025-03-31T08:15:00+0800  
-Reward: 3 000 Points  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +143,21 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
 Description: Can you predict drought damage from smartphone images of crops?  
 Deadline: 2023-11-04T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Digital Africa Plantation Counting Challenge
+
+Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
+Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
+Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
