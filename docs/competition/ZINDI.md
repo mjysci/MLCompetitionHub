@@ -2,6 +2,14 @@
 
 
 
+## Kenya Clinical Reasoning Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/kenya-clinical-reasoning-challenge  
+Description: Can your model match real clinicians in rural Kenyan healthcare?  
+Deadline: 2025-06-30T08:15:00+0800  
+Reward: $10 000 USD  
+
+
 ## AMINI Soil Prediction Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/amini-soil-prediction-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Africa Biomass Challenge
-
-Link: https://zindi.africa/competitions/africa-biomass-challenge  
-Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
-Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
