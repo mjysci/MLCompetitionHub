@@ -2,14 +2,6 @@
 
 
 
-## 基于人工智能的闽江流域水情预报
-
-Link: https://www.datafountain.cn/competitions/1102  
-Description: 基于人工智能的闽江流域水情预报  
-Deadline: 2025-04-06T23:59:59+0800  
-Reward: ￥170000  
-
-
 ## 领域事件多因果关联挖掘
 
 Link: https://www.datafountain.cn/competitions/1089  
