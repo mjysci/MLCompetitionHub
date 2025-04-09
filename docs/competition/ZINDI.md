@@ -10,7 +10,7 @@ Deadline: 2025-06-30T08:15:00+0800
 Reward: $10 000 USD  
 
 
-## Amini Soil Prediction Challenge <sup style="color:red">[new]<sup>  
+## Amini Soil Prediction Challenge
 
 Link: https://zindi.africa/competitions/amini-soil-prediction-challenge  
 Description: Can you predict nutrient gaps for a more fertile tomorrow?  
