@@ -2,7 +2,7 @@
 
 
 
-## Kenya Clinical Reasoning Challenge <sup style="color:red">[new]<sup>  
+## Kenya Clinical Reasoning Challenge
 
 Link: https://zindi.africa/competitions/kenya-clinical-reasoning-challenge  
 Description: Can your model match real clinicians in rural Kenyan healthcare?  

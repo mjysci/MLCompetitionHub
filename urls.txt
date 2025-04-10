@@ -1344,3 +1344,4 @@ https://zindi.africa/competitions/amini-soil-prediction-challenge
 https://tianchi.aliyun.com/competition/entrance/532335/introduction
 https://tianchi.aliyun.com/competition/entrance/532338/introduction
 https://zindi.africa/competitions/kenya-clinical-reasoning-challenge
+https://tianchi.aliyun.com/competition/entrance/532333/introduction
