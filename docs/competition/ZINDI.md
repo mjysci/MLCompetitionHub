@@ -18,14 +18,6 @@ Deadline: 2025-06-23T08:15:00+0800
 Reward: $7 000 USD  
 
 
-## IBM SkillsBuild Hydropower Climate Optimisation Challenge 
-
-Link: https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge  
-Description: Can you forecast climate and operational effects on load generation for micro-hydropower plants in off-grid communities?  
-Deadline: 2025-04-14T08:15:00+0800  
-Reward: $3 000 USD  
-
-
 ## Amini Cocoa Contamination Challenge
 
 Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
