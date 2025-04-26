@@ -2,6 +2,14 @@
 
 
 
+## Côte d’Ivoire Byte-Sized Agriculture Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge  
+Description: Can you use satellite data to classify pixels for crop identification in West Africa?  
+Deadline: 2025-06-16T08:15:00+0800  
+Reward: 7 000 EUR  
+
+
 ## Kenya Clinical Reasoning Challenge
 
 Link: https://zindi.africa/competitions/kenya-clinical-reasoning-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## AgriFieldNet India Challenge
-
-Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
-Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
-Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
