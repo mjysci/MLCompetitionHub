@@ -2,7 +2,7 @@
 
 
 
-## Côte d’Ivoire Byte-Sized Agriculture Challenge <sup style="color:red">[new]<sup>  
+## Côte d’Ivoire Byte-Sized Agriculture Challenge
 
 Link: https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge  
 Description: Can you use satellite data to classify pixels for crop identification in West Africa?  
