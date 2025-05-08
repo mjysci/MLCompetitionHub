@@ -1347,3 +1347,4 @@ https://zindi.africa/competitions/kenya-clinical-reasoning-challenge
 https://tianchi.aliyun.com/competition/entrance/532333/introduction
 https://tianchi.aliyun.com/competition/entrance/532345/introduction
 https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge
+https://zindi.africa/competitions/classification-for-landslide-detection
