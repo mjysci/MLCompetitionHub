@@ -26,14 +26,6 @@ Deadline: 2025-06-23T08:15:00+0800
 Reward: $7 000 USD  
 
 
-## Amini Cocoa Contamination Challenge
-
-Link: https://zindi.africa/competitions/amini-cocoa-contamination-challenge  
-Description: Can you develop a mobile-friendly machine learning model to identify diseases on cocoa leaves?  
-Deadline: 2025-05-12T08:15:00+0800  
-Reward: $7 000 USD  
-
-
 ## Classification for Landslide Detection
 
 Link: https://zindi.africa/competitions/classification-for-landslide-detection  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
