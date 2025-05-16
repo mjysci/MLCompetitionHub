@@ -1350,3 +1350,5 @@ https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge
 https://zindi.africa/competitions/classification-for-landslide-detection
 https://tianchi.aliyun.com/competition/entrance/532358/introduction
 https://tianchi.aliyun.com/competition/entrance/532357/introduction
+https://tianchi.aliyun.com/competition/entrance/532362/introduction
+https://tianchi.aliyun.com/competition/entrance/532360/introduction
