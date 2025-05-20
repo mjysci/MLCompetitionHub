@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-05-19T15:59:58+08:00</updated>
+    <updated>2025-05-20T16:00:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -284,6 +284,20 @@
     
     
     
+    <entry>
+        <id>https://www.kesci.com/home/competition/6826a9d0cc560e683810bf77</id>
+        <title><![CDATA[2025年中国高校计算机大赛—大数据挑战赛]]></title>
+        
+        <updated>2025-05-20T10:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6826a9d0cc560e683810bf77"/>
+        <summary>2025年中国高校计算机大赛—大数据挑战赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6826a9d0cc560e683810bf77"><![CDATA[<h3>Description</h3>2025年中国高校计算机大赛—大数据挑战赛<h3>Deadline: 2025-08-31T00:00:00+08:00</h3><h3>Reward: ￥50,000 + 获奖证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -309,6 +323,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532360/introduction"/>
         <summary>文档结构化提取旨在从非结构化文档（如PDF）中提取语义内容，是构建知识库、支持RAG应用的关键技术。中国科学院软件研究所在CCKS2025大会上组织文档端到端结构化评测，该任务以完整、多页的PDF文档作为输入，输出语义结构化的Markdown文本，涵盖标题层级、公式、表格等语义单元。通过构建跨领域、多语言的数据集和标准化评估框架，本评测旨在推动文档结构化技术向实用化发展。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532360/introduction"><![CDATA[<h3>Description</h3>文档结构化提取旨在从非结构化文档（如PDF）中提取语义内容，是构建知识库、支持RAG应用的关键技术。中国科学院软件研究所在CCKS2025大会上组织文档端到端结构化评测，该任务以完整、多页的PDF文档作为输入，输出语义结构化的Markdown文本，涵盖标题层级、公式、表格等语义单元。通过构建跨领域、多语言的数据集和标准化评估框架，本评测旨在推动文档结构化技术向实用化发展。<h3>Deadline: 2025-07-31T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532359/introduction</id>
+        <title><![CDATA[CCKS2025-人工智能领域论文复杂问题问答评测(赛季 1)]]></title>
+        
+        <updated>2025-05-01T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532359/introduction"/>
+        <summary>《人工智能领域论文复杂问题问答评测》由东南大学与华为诺亚方舟实验室联合举办，聚焦学术文献深度理解与推理的挑战。参赛系统需基于英文论文全文回答多选问题，每个问题含多个正确答案，考验模型的长文本解析、多跳推理及批判性分析能力。评测数据集涵盖85篇顶会顶刊论文和225道专家标注题目，涉及实验验证、理论推导等场景，要求模型整合术语、公式、图表及隐含逻辑，严谨排除干扰选项。与传统问答任务不同，本评测强调非结构化文本的语义挖掘和高阶推理，推动智能文献综述、科研助手等应用发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532359/introduction"><![CDATA[<h3>Description</h3>《人工智能领域论文复杂问题问答评测》由东南大学与华为诺亚方舟实验室联合举办，聚焦学术文献深度理解与推理的挑战。参赛系统需基于英文论文全文回答多选问题，每个问题含多个正确答案，考验模型的长文本解析、多跳推理及批判性分析能力。评测数据集涵盖85篇顶会顶刊论文和225道专家标注题目，涉及实验验证、理论推导等场景，要求模型整合术语、公式、图表及隐含逻辑，严谨排除干扰选项。与传统问答任务不同，本评测强调非结构化文本的语义挖掘和高阶推理，推动智能文献综述、科研助手等应用发展。<h3>Deadline: 2025-07-14T23:59:59+08:00</h3><h3>Reward: ￥10000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
