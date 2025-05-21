@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-05-20T16:00:08+08:00</updated>
+    <updated>2025-05-21T16:00:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -344,13 +344,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532358/introduction</id>
-        <title><![CDATA[CCKS2025-大模型生成文本检测(赛季 1)]]></title>
+        <title><![CDATA[CCKS2025-大模型生成文本检测(赛季 2)]]></title>
         
         <updated>2025-05-08T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532358/introduction"/>
         <summary>随着人工智能技术的不断发展，人工智能生成内容（AIGC）的质量日益提升，尤其是大型语言模型生成的文本，已经逐步接近甚至在某些场景中超越人类撰写的水平。因此，AIGC在教育、媒体、商业以及社交平台等领域得到了广泛的应用</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532358/introduction"><![CDATA[<h3>Description</h3>随着人工智能技术的不断发展，人工智能生成内容（AIGC）的质量日益提升，尤其是大型语言模型生成的文本，已经逐步接近甚至在某些场景中超越人类撰写的水平。因此，AIGC在教育、媒体、商业以及社交平台等领域得到了广泛的应用<h3>Deadline: 2025-07-15T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532358/introduction"><![CDATA[<h3>Description</h3>随着人工智能技术的不断发展，人工智能生成内容（AIGC）的质量日益提升，尤其是大型语言模型生成的文本，已经逐步接近甚至在某些场景中超越人类撰写的水平。因此，AIGC在教育、媒体、商业以及社交平台等领域得到了广泛的应用<h3>Deadline: 2025-07-16T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
