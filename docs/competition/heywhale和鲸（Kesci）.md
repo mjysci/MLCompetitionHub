@@ -2,7 +2,7 @@
 
 
 
-## 2025年中国高校计算机大赛—大数据挑战赛 <sup style="color:red">[new]<sup>  
+## 2025年中国高校计算机大赛—大数据挑战赛
 
 Link: https://www.kesci.com/home/competition/6826a9d0cc560e683810bf77  
 Description: 2025年中国高校计算机大赛—大数据挑战赛  
