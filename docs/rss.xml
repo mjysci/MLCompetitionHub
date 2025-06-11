@@ -3,12 +3,196 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-06-10T16:02:34+08:00</updated>
+    <updated>2025-06-11T16:00:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-3/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Knowledge-aware Recommendation]]></title>
+        
+        <updated>2021-06-29T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-3/"/>
+        <summary>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-3/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-2/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Link Prediction]]></title>
+        
+        <updated>2021-06-29T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-2/"/>
+        <summary>Heterogeneous Graph Benchmark - Link Prediction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-2/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Link Prediction<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-1/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Node Classification]]></title>
+        
+        <updated>2021-06-28T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-1/"/>
+        <summary>Heterogeneous Graph Benchmark - Node Classification</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-1/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Node Classification<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race/</id>
+        <title><![CDATA[RACE Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race/"/>
+        <summary>RACE Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mctest/</id>
+        <title><![CDATA[MCTest Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mctest/"/>
+        <summary>MCTest Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/open_book_qa/</id>
+        <title><![CDATA[OpenBookQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/open_book_qa/"/>
+        <summary>OpenBookQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/open_book_qa/"><![CDATA[<h3>Description</h3>OpenBookQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mutual/</id>
+        <title><![CDATA[MuTual Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mutual/"/>
+        <summary>MuTual Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race_c/</id>
+        <title><![CDATA[RACE-C Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race_c/"/>
+        <summary>RACE-C Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/dream/</id>
+        <title><![CDATA[Dream Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/dream/"/>
+        <summary>Dream Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
+        <title><![CDATA[CommonsenseQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
+        <summary>CommonsenseQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/c3/</id>
+        <title><![CDATA[C3 Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/c3/"/>
+        <summary>C3 Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/c3/"><![CDATA[<h3>Description</h3>C3 Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/sciq/</id>
+        <title><![CDATA[SciQ Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/sciq/"/>
+        <summary>SciQ Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
     
     
     
@@ -231,20 +415,34 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532360/introduction</id>
-        <title><![CDATA[CCKS2025-文档端到端结构化评测(赛季 2)]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/532361/introduction</id>
+        <title><![CDATA[CCKS2025-面向社交媒体的事件脉络生成评测(赛季 1)]]></title>
         
-        <updated>2025-05-14T00:00:00+08:00</updated>
+        <updated>2025-05-07T00:00:00+08:00</updated>
         
-        <link href="https://tianchi.aliyun.com/competition/entrance/532360/introduction"/>
-        <summary>文档结构化提取旨在从非结构化文档（如PDF）中提取语义内容，是构建知识库、支持RAG应用的关键技术。中国科学院软件研究所在CCKS2025大会上组织文档端到端结构化评测，该任务以完整、多页的PDF文档作为输入，输出语义结构化的Markdown文本，涵盖标题层级、公式、表格等语义单元。通过构建跨领域、多语言的数据集和标准化评估框架，本评测旨在推动文档结构化技术向实用化发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532360/introduction"><![CDATA[<h3>Description</h3>文档结构化提取旨在从非结构化文档（如PDF）中提取语义内容，是构建知识库、支持RAG应用的关键技术。中国科学院软件研究所在CCKS2025大会上组织文档端到端结构化评测，该任务以完整、多页的PDF文档作为输入，输出语义结构化的Markdown文本，涵盖标题层级、公式、表格等语义单元。通过构建跨领域、多语言的数据集和标准化评估框架，本评测旨在推动文档结构化技术向实用化发展。<h3>Deadline: 2025-07-31T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/532361/introduction"/>
+        <summary>面向社交媒体的事件脉络生成是舆情监控和新闻追踪的重要任务，旨在实时把握热点发展，为风险评估与应对提供支持。该任务面临两大挑战：一是需从多源时间戳文档中提取关键事件并按时间组织，确保内容真实、逻辑清晰；二是需根据用户指令灵活调整事件粒度，兼顾全局与细节。评测将从信息丰富度、粒度一致性与事实性等维度，衡量模型在生成符合不同粒度需求的事件脉络能力。语料来源广泛，覆盖多领域、多层级时间线，提供权威评估基准。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532361/introduction"><![CDATA[<h3>Description</h3>面向社交媒体的事件脉络生成是舆情监控和新闻追踪的重要任务，旨在实时把握热点发展，为风险评估与应对提供支持。该任务面临两大挑战：一是需从多源时间戳文档中提取关键事件并按时间组织，确保内容真实、逻辑清晰；二是需根据用户指令灵活调整事件粒度，兼顾全局与细节。评测将从信息丰富度、粒度一致性与事实性等维度，衡量模型在生成符合不同粒度需求的事件脉络能力。语料来源广泛，覆盖多领域、多层级时间线，提供权威评估基准。<h3>Deadline: 2025-07-31T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
     
+    
+    <entry>
+        <id>https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge</id>
+        <title><![CDATA[Amini GeoFM Decoding the Field Challenge]]></title>
+        
+        <updated>2025-06-10T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge"/>
+        <summary>Can you train a geospatial foundation model to classify crops from Space?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge"><![CDATA[<h3>Description</h3>Can you train a geospatial foundation model to classify crops from Space?<h3>Deadline: 2025-07-21T09:59:00+08:00</h3><h3>Reward: $8 500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge</id>
@@ -507,20 +705,6 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
-        <title><![CDATA[Africa Biomass Challenge]]></title>
-        
-        <updated>2023-01-27T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
-        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
