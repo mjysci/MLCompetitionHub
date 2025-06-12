@@ -6,7 +6,7 @@
 
 Link: https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge  
 Description: Can you train a geospatial foundation model to classify crops from Space?  
-Deadline: 2025-07-21T09:59:00+0800  
+Deadline: 2025-07-21T07:59:00+0800  
 Reward: $8 500 USD  
 
 
