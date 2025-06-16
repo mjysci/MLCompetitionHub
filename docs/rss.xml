@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-06-15T15:59:59+08:00</updated>
+    <updated>2025-06-16T16:00:16+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -401,20 +401,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532335/introduction</id>
-        <title><![CDATA[2025年亚太眼科学会大数据竞赛-使用人工智能自动识别手术视频的不同阶段(赛季 1)]]></title>
-        
-        <updated>2025-03-25T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532335/introduction"/>
-        <summary>计算机辅助手术系统的一个关键元素是手术视频的阶段识别，即识别手术操作的不同步骤和阶段。现有的阶段识别算法需要对大量视频进行逐帧注释，这既耗时又昂贵。假如我们可以利用机器学习（ML）自动执行阶段识别，我们将能够开发出一項高效的工具，以优化手术流程、改进手术培训和术中辅助，从而提升患者安全性和手术效率，最终推动远程手术、机器人手术和人工智能辅助手术的发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532335/introduction"><![CDATA[<h3>Description</h3>计算机辅助手术系统的一个关键元素是手术视频的阶段识别，即识别手术操作的不同步骤和阶段。现有的阶段识别算法需要对大量视频进行逐帧注释，这既耗时又昂贵。假如我们可以利用机器学习（ML）自动执行阶段识别，我们将能够开发出一項高效的工具，以优化手术流程、改进手术培训和术中辅助，从而提升患者安全性和手术效率，最终推动远程手术、机器人手术和人工智能辅助手术的发展。<h3>Deadline: 2025-06-15T18:00:00+08:00</h3><h3>Reward: $5000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532362/introduction</id>
         <title><![CDATA[IJCAI 2025 生成式大模型安全攻防比赛(赛季 1)]]></title>
         
@@ -423,6 +409,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532362/introduction"/>
         <summary>随着生成式人工智能技术的快速演进，以DeepSeek、GPT-4o、Qwen等为代表的生成式大模型正深刻改变着各行业生态。这些基于海量数据训练的系统展现出强大的内容理解和生成能力，但同时也暴露出不容忽视的安全隐患。研究表明，这类模型在外部恶意操控下可能生成具有社会危害性的内容，其固有的&amp;quot;幻觉&amp;quot;特性会导致无意识输出虚假信息，而对抗性攻击者通过特定提示词即可绕过现有安全机制。尽管当前已有多个安全评估框架和竞赛活动，但普遍存在对中文语境风险要素覆盖不足、评估场景单一化、忽略CoT内容风险等问题，难以全面揭示生成式大模型在实际应用中的综合安全风险。鉴于此，蚂蚁数科在IJCAI 2025 Workshop发起专项挑战赛，聚焦中文环境下的生成式大模型安全攻防实践。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532362/introduction"><![CDATA[<h3>Description</h3>随着生成式人工智能技术的快速演进，以DeepSeek、GPT-4o、Qwen等为代表的生成式大模型正深刻改变着各行业生态。这些基于海量数据训练的系统展现出强大的内容理解和生成能力，但同时也暴露出不容忽视的安全隐患。研究表明，这类模型在外部恶意操控下可能生成具有社会危害性的内容，其固有的&amp;quot;幻觉&amp;quot;特性会导致无意识输出虚假信息，而对抗性攻击者通过特定提示词即可绕过现有安全机制。尽管当前已有多个安全评估框架和竞赛活动，但普遍存在对中文语境风险要素覆盖不足、评估场景单一化、忽略CoT内容风险等问题，难以全面揭示生成式大模型在实际应用中的综合安全风险。鉴于此，蚂蚁数科在IJCAI 2025 Workshop发起专项挑战赛，聚焦中文环境下的生成式大模型安全攻防实践。<h3>Deadline: 2025-07-11T23:59:59+08:00</h3><h3>Reward: $2800</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532360/introduction</id>
+        <title><![CDATA[CCKS2025-文档端到端结构化评测(赛季 2)]]></title>
+        
+        <updated>2025-05-14T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532360/introduction"/>
+        <summary>文档结构化提取旨在从非结构化文档（如PDF）中提取语义内容，是构建知识库、支持RAG应用的关键技术。中国科学院软件研究所在CCKS2025大会上组织文档端到端结构化评测，该任务以完整、多页的PDF文档作为输入，输出语义结构化的Markdown文本，涵盖标题层级、公式、表格等语义单元。通过构建跨领域、多语言的数据集和标准化评估框架，本评测旨在推动文档结构化技术向实用化发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532360/introduction"><![CDATA[<h3>Description</h3>文档结构化提取旨在从非结构化文档（如PDF）中提取语义内容，是构建知识库、支持RAG应用的关键技术。中国科学院软件研究所在CCKS2025大会上组织文档端到端结构化评测，该任务以完整、多页的PDF文档作为输入，输出语义结构化的Markdown文本，涵盖标题层级、公式、表格等语义单元。通过构建跨领域、多语言的数据集和标准化评估框架，本评测旨在推动文档结构化技术向实用化发展。<h3>Deadline: 2025-07-31T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
