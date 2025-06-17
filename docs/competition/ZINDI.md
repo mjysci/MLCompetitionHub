@@ -2,20 +2,12 @@
 
 
 
-## Amini GeoFM Decoding the Field Challenge <sup style="color:red">[new]<sup>  
+## Amini GeoFM Decoding the Field Challenge
 
 Link: https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge  
 Description: Can you train a geospatial foundation model to classify crops from Space?  
 Deadline: 2025-07-21T07:59:00+0800  
 Reward: $8 500 USD  
-
-
-## Côte d’Ivoire Byte-Sized Agriculture Challenge
-
-Link: https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge  
-Description: Can you use satellite data to classify pixels for crop identification in West Africa?  
-Deadline: 2025-06-16T08:15:00+0800  
-Reward: 7 000 EUR  
 
 
 ## Kenya Clinical Reasoning Challenge
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 

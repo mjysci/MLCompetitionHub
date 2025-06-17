@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-06-16T16:00:16+08:00</updated>
+    <updated>2025-06-17T16:00:11+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -445,20 +445,6 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge</id>
-        <title><![CDATA[Côte d’Ivoire Byte-Sized Agriculture Challenge]]></title>
-        
-        <updated>2025-04-25T23:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge"/>
-        <summary>Can you use satellite data to classify pixels for crop identification in West Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge"><![CDATA[<h3>Description</h3>Can you use satellite data to classify pixels for crop identification in West Africa?<h3>Deadline: 2025-06-16T08:15:00+08:00</h3><h3>Reward: 7 000 EUR</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/kenya-clinical-reasoning-challenge</id>
         <title><![CDATA[Kenya Clinical Reasoning Challenge]]></title>
         
@@ -705,6 +691,20 @@
         <link href="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"/>
         <summary>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/digital-africa-plantation-counting-challenge"><![CDATA[<h3>Description</h3>Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?<h3>Deadline: 2023-04-10T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/africa-biomass-challenge</id>
+        <title><![CDATA[Africa Biomass Challenge]]></title>
+        
+        <updated>2023-01-27T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/africa-biomass-challenge"/>
+        <summary>Can you predict biomass in cocoa plantations in Côte d'Ivoire?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/africa-biomass-challenge"><![CDATA[<h3>Description</h3>Can you predict biomass in cocoa plantations in Côte d'Ivoire?<h3>Deadline: 2023-05-22T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
