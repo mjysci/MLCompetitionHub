@@ -1362,3 +1362,4 @@ https://tianchi.aliyun.com/competition/entrance/532351/introduction
 https://tianchi.aliyun.com/competition/entrance/532363/introduction
 https://tianchi.aliyun.com/competition/entrance/532361/introduction
 https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge
+https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge
