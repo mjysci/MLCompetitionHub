@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-06-25T16:00:07+08:00</updated>
+    <updated>2025-06-26T16:00:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -11,6 +11,20 @@
     
     
     
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/siemens-x/</id>
+        <title><![CDATA[2025 Siemens Xcelerator Contest - MioVerse Track]]></title>
+        
+        <updated>2025-06-23T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/siemens-x/"/>
+        <summary>2025 Siemens Xcelerator Contest - MioVerse Track</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/siemens-x/"><![CDATA[<h3>Description</h3>2025 Siemens Xcelerator Contest - MioVerse Track<h3>Deadline: 2025-09-05T08:00:00+08:00</h3><h3>Reward: ￥94,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.biendata.xyz/competition/hgb-3/</id>

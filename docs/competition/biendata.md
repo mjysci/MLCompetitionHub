@@ -2,6 +2,14 @@
 
 
 
+## 2025 Siemens Xcelerator Contest - MioVerse Track <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/siemens-x/  
+Description: 2025 Siemens Xcelerator Contest - MioVerse Track  
+Deadline: 2025-09-05T08:00:00+0800  
+Reward: ￥94,000  
+
+
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
