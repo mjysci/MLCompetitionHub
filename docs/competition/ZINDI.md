@@ -10,11 +10,19 @@ Deadline: 2025-07-21T07:59:00+0800
 Reward: $8 500 USD  
 
 
-## MPEG-G Microbiome Classification Challenge <sup style="color:red">[new]<sup>  
+## MPEG-G Microbiome Classification Challenge
 
 Link: https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge  
 Description: Can you classify microbiome samples by body site and individual using compressed data?  
 Deadline: 2025-09-15T19:59:00+0800  
+Reward: $5 000 USD  
+
+
+## MPEG-G: Decoding the Dialogue <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
+Description: Can you determine host-microbiome interactions in metagenomic data?  
+Deadline: 2025-09-22T08:15:00+0800  
 Reward: $5 000 USD  
 
 
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Africa Biomass Challenge
-
-Link: https://zindi.africa/competitions/africa-biomass-challenge  
-Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
-Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 
