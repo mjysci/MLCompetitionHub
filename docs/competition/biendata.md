@@ -2,7 +2,7 @@
 
 
 
-## 2025 Siemens Xcelerator Contest - MioVerse Track <sup style="color:red">[new]<sup>  
+## 2025 Siemens Xcelerator Contest - MioVerse Track
 
 Link: https://www.biendata.xyz/competition/siemens-x/  
 Description: 2025 Siemens Xcelerator Contest - MioVerse Track  

@@ -1365,3 +1365,5 @@ https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge
 https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge
 https://www.biendata.xyz/competition/siemens-x/
 https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue
+https://tianchi.aliyun.com/competition/entrance/532383/introduction
+https://tianchi.aliyun.com/competition/entrance/532379/introduction
