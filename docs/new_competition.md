@@ -1,18 +1,75 @@
-> 更新时间: 2025-06-30T15:59:57+0800 
+> 更新时间: 2025-07-01T16:00:17+0800 
 
 # 新上线比赛
 
 
-## 第十届“创客中国”视觉智能中小企业创新创业大赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532383/introduction  
-Description: 为深入贯彻落实党中央、国务院关于促进中小企业高质量发展的决策部署，持续提升中小企业创新能力和专业化水平，推动科技创新和产业创新深度融合，促进中小企业专精特新发展，根据《关于举办第十届“创客中国”中小企业创新创业大赛的通知》（信中〔2025〕4号），工业和信息化部网络安全产业发展中心（工业和信息化部信息中心）将联合浙江省经济和信息化厅共同主办第十届“创客中国”视觉智能中小企业创新创业大赛（以下简称大赛）  
-Deadline: 2025-08-12T23:59:59+0800  
-Reward: ￥285000  
+## 【数据要素×科技创新】 赛题2：科学数据助力科学研究和技术创新
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1053  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
 
-## 第十届“创客中国”人工智能中小企业创新创业大赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532379/introduction  
-Description: 为深入贯彻落实党中央、国务院关于促进中小企业高质量发展的决策部署，持续提升中小企业创新能力和专业化水平，服务国家新型工业化建设，推动科技创新和产业创新深度融合，促进中小企业专精特新发展，根据《关于举办第十届“创客中国”中小企业创新创业大赛的通知》（信中〔2025〕），工业和信息化部网络安全产业发展中心（工业和信息化部信息中心）将联合浙江省经济和信息化厅共同主办第十届“创客中国”人工智能中小企业创新创业大赛（以下简称大赛）。
-本次大赛聚焦AI基础设施、水平AI领域、垂直AI领域、AI智能终端四大领域，将征集全球人工智能领域的创新创业项目不少于200个。通过举办大赛，多措并举激活人工智能产业创新动能，推动人工智能与实体经济深度融合，打造具有国际影响力的人工智能产业集群，加速推进嘉兴南湖区“长三角人工智能创新高地”建设，助力嘉兴市智造创新强市建设，为长三角一体化战略注入数字新引擎。  
-Deadline: 2025-08-12T23:59:59+0800  
-Reward: ￥285000  
+## 【数据要素×绿色低碳】 赛题3：海洋生态保护开发平衡
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1089  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×文化旅游】 赛题7：文物数据资源应用场景展示研究
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1062  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×科技创新】 赛题3：科学数据加速科研新范式变革
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1054  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×应急管理】 赛题1：提升安全生产监管能力
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1078  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×现代农业】 赛题7：促进产业链数据融通创新能力提高
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1034  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×商贸流通】 赛题2：实现新业态创新发展
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1040  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×科技创新】 赛题1：推动科技领域人工智能大模型开发
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1052  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×文化旅游】 赛题3：数字文旅服务体验优化
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1058  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
+
+## 【数据要素×气象服务】 赛题2：开展气象数据产品新服务
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1082  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区
+  
+Deadline: 2025-08-31T23:59:59+0800  
+Reward: ¥总奖金池30万  
 
