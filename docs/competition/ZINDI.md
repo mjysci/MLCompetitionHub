@@ -26,6 +26,14 @@ Deadline: 2025-09-22T08:15:00+0800
 Reward: $5 000 USD  
 
 
+## GEOAI Challenge for Cropland Mapping in Dry Environments  <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments  
+Description: Can you develop an accurate and cost-effective method for cropland mapping?  
+Deadline: 2025-09-18T07:59:00+0800  
+Reward: 1 000 CHF  
+
+
 ## Classification for Landslide Detection
 
 Link: https://zindi.africa/competitions/classification-for-landslide-detection  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
 Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
 Deadline: 2023-04-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Africa Biomass Challenge
-
-Link: https://zindi.africa/competitions/africa-biomass-challenge  
-Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
-Deadline: 2023-05-22T07:59:00+0800  
 Reward: $10 000 USD  
 

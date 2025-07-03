@@ -1377,3 +1377,4 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=1040
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1052
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1058
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1082
+https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments
