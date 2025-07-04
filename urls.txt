@@ -1378,3 +1378,8 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=1052
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1058
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1082
 https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments
+https://tianchi.aliyun.com/competition/entrance/532394/introduction
+https://tianchi.aliyun.com/competition/entrance/532393/introduction
+https://tianchi.aliyun.com/competition/entrance/532392/introduction
+https://tianchi.aliyun.com/competition/entrance/532391/introduction
+https://tianchi.aliyun.com/competition/entrance/532390/introduction
