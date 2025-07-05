@@ -18,7 +18,7 @@ Deadline: 2025-09-15T19:59:00+0800
 Reward: $5 000 USD  
 
 
-## MPEG-G: Decoding the Dialogue <sup style="color:red">[new]<sup>  
+## MPEG-G: Decoding the Dialogue
 
 Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
 Description: Can you determine host-microbiome interactions in metagenomic data?  
