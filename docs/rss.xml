@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-07-08T16:02:08+08:00</updated>
+    <updated>2025-07-09T15:59:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -210,6 +210,92 @@
     
     
     
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1089</id>
+        <title><![CDATA[领域事件多因果关联挖掘]]></title>
+        
+        <updated>2024-12-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1089"/>
+        <summary>领域事件多因果关联挖掘</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1089"><![CDATA[<h3>Description</h3>领域事件多因果关联挖掘<h3>Deadline: 2026-01-31T23:59:59+08:00</h3><h3>Reward: 其他</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1088</id>
+        <title><![CDATA[多文档事件摘要信息生成]]></title>
+        
+        <updated>2024-12-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1088"/>
+        <summary>多文档事件摘要信息生成</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1088"><![CDATA[<h3>Description</h3>多文档事件摘要信息生成<h3>Deadline: 2026-01-31T23:59:59+08:00</h3><h3>Reward: 其他</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1087</id>
+        <title><![CDATA[基于多源异构融合数据的空间物体识别]]></title>
+        
+        <updated>2024-12-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1087"/>
+        <summary>基于多源异构融合数据的空间物体识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1087"><![CDATA[<h3>Description</h3>基于多源异构融合数据的空间物体识别<h3>Deadline: 2026-01-31T23:59:59+08:00</h3><h3>Reward: 其他</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1086</id>
+        <title><![CDATA[面向大语言模型的领域知识注入与推理]]></title>
+        
+        <updated>2024-12-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1086"/>
+        <summary>面向大语言模型的领域知识注入与推理</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1086"><![CDATA[<h3>Description</h3>面向大语言模型的领域知识注入与推理<h3>Deadline: 2026-01-31T23:59:59+08:00</h3><h3>Reward: 其他</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1085</id>
+        <title><![CDATA[基于对抗场景下重要目标人脸深度伪造视频检测]]></title>
+        
+        <updated>2024-12-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1085"/>
+        <summary>基于对抗场景下重要目标人脸深度伪造视频检测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1085"><![CDATA[<h3>Description</h3>基于对抗场景下重要目标人脸深度伪造视频检测<h3>Deadline: 2026-01-31T23:59:59+08:00</h3><h3>Reward: 其他</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1084</id>
+        <title><![CDATA[基于海量数据的雷达辐射源识别]]></title>
+        
+        <updated>2024-12-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1084"/>
+        <summary>基于海量数据的雷达辐射源识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1084"><![CDATA[<h3>Description</h3>基于海量数据的雷达辐射源识别<h3>Deadline: 2026-01-31T23:59:59+08:00</h3><h3>Reward: 其他</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    
+    
     
     
     <entry>
@@ -316,15 +402,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532396/introduction</id>
-        <title><![CDATA[2025AI安全全球挑战赛-赛道二：模型应用生产环境漏洞赏金赛(赛季 1)]]></title>
+        <title><![CDATA[2025AI安全全球挑战赛-赛道二：模型应用线上环境漏洞赏金赛(赛季 1)]]></title>
         
         <updated>2025-07-04T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532396/introduction"/>
-        <summary>2025首届AI安全全球挑战赛是由阿里巴巴集团、阿里云联合发起。比赛面向全球招募参赛选手，赛道覆盖基础大模型越狱风险高阶对抗、大模型赋能传统应用时的新型攻击面探索、大模型安全防御产品绕过等多个前沿技术领域，不论你是AI领域专家，还是安全行业大拿，亦或是AI和安全爱好者，都能找到适合自己的挑战目标。
-发起单位：阿里巴巴、阿里云</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532396/introduction"><![CDATA[<h3>Description</h3>2025首届AI安全全球挑战赛是由阿里巴巴集团、阿里云联合发起。比赛面向全球招募参赛选手，赛道覆盖基础大模型越狱风险高阶对抗、大模型赋能传统应用时的新型攻击面探索、大模型安全防御产品绕过等多个前沿技术领域，不论你是AI领域专家，还是安全行业大拿，亦或是AI和安全爱好者，都能找到适合自己的挑战目标。
-发起单位：阿里巴巴、阿里云<h3>Deadline: 2025-08-24T23:59:59+08:00</h3><h3>Reward: ￥450000</h3>]]></content>
+        <summary>2025首届AI安全全球挑战赛是由阿里巴巴集团、阿里云联合发起。比赛面向全球招募参赛选手，赛道覆盖基础大模型越狱风险高阶对抗、大模型赋能传统应用时的新型攻击面探索、大模型安全防御产品绕过等多个前沿技术领域，不论你是AI领域专家，还是安全行业大拿，亦或是AI和安全爱好者，都能找到适合自己的挑战目标。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532396/introduction"><![CDATA[<h3>Description</h3>2025首届AI安全全球挑战赛是由阿里巴巴集团、阿里云联合发起。比赛面向全球招募参赛选手，赛道覆盖基础大模型越狱风险高阶对抗、大模型赋能传统应用时的新型攻击面探索、大模型安全防御产品绕过等多个前沿技术领域，不论你是AI领域专家，还是安全行业大拿，亦或是AI和安全爱好者，都能找到适合自己的挑战目标。<h3>Deadline: 2025-08-24T23:59:59+08:00</h3><h3>Reward: ￥450000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
