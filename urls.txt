@@ -1386,3 +1386,6 @@ https://tianchi.aliyun.com/competition/entrance/532390/introduction
 https://tianchi.aliyun.com/competition/entrance/532397/introduction
 https://tianchi.aliyun.com/competition/entrance/532396/introduction
 https://tianchi.aliyun.com/competition/entrance/532395/introduction
+https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge
+https://zindi.africa/competitions/barbados-traffic-analysis-challenge
+https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge
