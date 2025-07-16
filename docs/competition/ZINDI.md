@@ -54,7 +54,7 @@ Reward: $5 000 USD
 
 Link: https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments  
 Description: Can you develop an accurate and cost-effective method for cropland mapping?  
-Deadline: 2025-09-18T07:59:00+0800  
+Deadline: 2025-09-29T07:59:00+0800  
 Reward: 1 000 CHF  
 
 
