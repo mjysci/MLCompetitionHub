@@ -30,7 +30,7 @@ Reward: $10 000 USD
 
 Link: https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge  
 Description: Can you train a geospatial foundation model to classify crops from Space?  
-Deadline: 2025-07-21T07:59:00+0800  
+Deadline: 2025-07-21T08:15:00+0800  
 Reward: $8 500 USD  
 
 
@@ -38,7 +38,7 @@ Reward: $8 500 USD
 
 Link: https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge  
 Description: Can you classify microbiome samples by body site and individual using compressed data?  
-Deadline: 2025-09-15T19:59:00+0800  
+Deadline: 2025-09-15T08:15:00+0800  
 Reward: $5 000 USD  
 
 
