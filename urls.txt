@@ -1431,3 +1431,7 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=1068
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1069
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1070
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1071
+https://www.datafountain.cn/competitions/1146
+https://challenge.datacastle.cn/v3/cmptDetail.html?id=1039
+https://challenge.datacastle.cn/v3/cmptDetail.html?id=1041
+https://zindi.africa/competitions/the-arc-challenge-africa

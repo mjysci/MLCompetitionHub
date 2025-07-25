@@ -2,6 +2,14 @@
 
 
 
+##  6G/B6G 内生AI：“控制语义”系统设计
+
+Link: https://www.datafountain.cn/competitions/1146  
+Description:  6G/B6G 内生AI：“控制语义”系统设计  
+Deadline: 2025-12-31T23:59:59+0800  
+Reward: ￥300000  
+
+
 ## 领域事件多因果关联挖掘
 
 Link: https://www.datafountain.cn/competitions/1089  
