@@ -1435,3 +1435,4 @@ https://www.datafountain.cn/competitions/1146
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1039
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1041
 https://zindi.africa/competitions/the-arc-challenge-africa
+https://zindi.africa/competitions/your-voice-your-device-your-language-challenge
