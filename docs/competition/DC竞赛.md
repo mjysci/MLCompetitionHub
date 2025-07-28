@@ -98,57 +98,57 @@ Deadline: 2025-09-01T00:00:00+0800
 Reward: ¥10000  
 
 
-## 【数据要素×医疗保障】 赛题1：提升医保数据赋能管理水平
+## 【数据要素×绿色低碳】 赛题1：生态环境监测治理优化
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1073  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1087  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×医疗保障】 赛题2：提升医保便民利企服务水平
+## 【数据要素×绿色低碳】 赛题2：可再生能源高效利用策略
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1074  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1088  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×医疗保障】 赛题3：推动医保数据赋能三医协同
+## 【数据要素×绿色低碳】 赛题3：海洋生态保护开发平衡
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1075  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1089  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×医疗保障】 赛题4：推动医保数据赋能社会经济发展
+## 【数据要素×绿色低碳】 赛题4：优化生态环境治理服务
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1076  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1090  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×医疗保障】 赛题5：提升医保数据赋能改革水平
+## 【数据要素×绿色低碳】 赛题5：促进用能效率提升
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1077  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1091  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【开放性创新赛道】 赛题1：建设高质量垂直行业大模型训练集
+## 【数据要素×绿色低碳】 赛题6：促进资源循环利用
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1094  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1092  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【开放性创新赛道】 赛题2：其他创新性赛题
+## 【数据要素×绿色低碳】 赛题7：促进生产减排降碳
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1095  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1093  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
@@ -210,89 +210,57 @@ Deadline: 2025-09-01T00:00:00+0800
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题1：生态环境监测治理优化
+## 【数据要素×医疗保障】 赛题1：提升医保数据赋能管理水平
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1087  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1073  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题2：可再生能源高效利用策略
+## 【数据要素×医疗保障】 赛题2：提升医保便民利企服务水平
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1088  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1074  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题3：海洋生态保护开发平衡
+## 【数据要素×医疗保障】 赛题3：推动医保数据赋能三医协同
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1089  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1075  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题4：优化生态环境治理服务
+## 【数据要素×医疗保障】 赛题4：推动医保数据赋能社会经济发展
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1090  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1076  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题5：促进用能效率提升
+## 【数据要素×医疗保障】 赛题5：提升医保数据赋能改革水平
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1091  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1077  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题6：促进资源循环利用
+## 【开放性创新赛道】 赛题1：建设高质量垂直行业大模型训练集
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1092  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1094  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题7：促进生产减排降碳
+## 【开放性创新赛道】 赛题2：其他创新性赛题
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1093  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×科技创新】 赛题1：推动科技领域人工智能大模型开发
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1052  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×科技创新】 赛题2：科学数据助力科学研究和技术创新
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1053  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×科技创新】 赛题3：科学数据加速科研新范式变革
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1054  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×科技创新】 赛题4：鼓励科技数据汇聚共享
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1055  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1095  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
@@ -325,6 +293,38 @@ Reward: ¥10000
 ## 【数据要素×城市治理】 赛题4：提高公共服务普惠性
 
 Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1086  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×科技创新】 赛题1：推动科技领域人工智能大模型开发
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1052  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×科技创新】 赛题2：科学数据助力科学研究和技术创新
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1053  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×科技创新】 赛题3：科学数据加速科研新范式变革
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1054  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×科技创新】 赛题4：鼓励科技数据汇聚共享
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1055  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
