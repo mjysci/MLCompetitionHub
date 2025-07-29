@@ -98,62 +98,6 @@ Deadline: 2025-09-01T00:00:00+0800
 Reward: ¥10000  
 
 
-## 【数据要素×绿色低碳】 赛题1：生态环境监测治理优化
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1087  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×绿色低碳】 赛题2：可再生能源高效利用策略
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1088  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×绿色低碳】 赛题3：海洋生态保护开发平衡
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1089  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×绿色低碳】 赛题4：优化生态环境治理服务
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1090  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×绿色低碳】 赛题5：促进用能效率提升
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1091  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×绿色低碳】 赛题6：促进资源循环利用
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1092  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×绿色低碳】 赛题7：促进生产减排降碳
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1093  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
 ## 【数据要素×工业制造】 赛题1：拓展公共数据应用
 
 Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1020  
@@ -250,6 +194,62 @@ Deadline: 2025-09-01T00:00:00+0800
 Reward: ¥10000  
 
 
+## 【数据要素×绿色低碳】 赛题1：生态环境监测治理优化
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1087  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×绿色低碳】 赛题2：可再生能源高效利用策略
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1088  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×绿色低碳】 赛题3：海洋生态保护开发平衡
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1089  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×绿色低碳】 赛题4：优化生态环境治理服务
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1090  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×绿色低碳】 赛题5：促进用能效率提升
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1091  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×绿色低碳】 赛题6：促进资源循环利用
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1092  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×绿色低碳】 赛题7：促进生产减排降碳
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1093  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
 ## 【开放性创新赛道】 赛题1：建设高质量垂直行业大模型训练集
 
 Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1094  
@@ -261,6 +261,46 @@ Reward: ¥10000
 ## 【开放性创新赛道】 赛题2：其他创新性赛题
 
 Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1095  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×医疗健康】 赛题1：拓展公共数据应用
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1067  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×医疗健康】 赛题2：医疗健康数据跨机构数据协同应用
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1068  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×医疗健康】 赛题3：强化医疗大数据创新应用
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1069  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×医疗健康】 赛题4：规范医务人员依法执业
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1070  
+Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
+Deadline: 2025-09-01T00:00:00+0800  
+Reward: ¥10000  
+
+
+## 【数据要素×医疗健康】 赛题5：医疗健康数据跨主体流动、数据资产交易
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1071  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
@@ -330,65 +370,25 @@ Deadline: 2025-09-01T00:00:00+0800
 Reward: ¥10000  
 
 
-## 【数据要素×医疗健康】 赛题1：拓展公共数据应用
+## 【数据要素×应急管理】 赛题1：提升安全生产监管能力
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1067  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1078  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×医疗健康】 赛题2：医疗健康数据跨机构数据协同应用
+## 【数据要素×应急管理】 赛题2：提升自然灾害监测评估能力
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1068  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1079  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  
 
 
-## 【数据要素×医疗健康】 赛题3：强化医疗大数据创新应用
+## 【数据要素×应急管理】 赛题3：提升应急协调共享能力
 
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1069  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×医疗健康】 赛题4：规范医务人员依法执业
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1070  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×医疗健康】 赛题5：医疗健康数据跨主体流动、数据资产交易
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1071  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×商贸流通】 赛题1：加强数据融合分析利用，增强产业协同效益 
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1039  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×商贸流通】 赛题2：实现新业态创新发展
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1040  
-Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
-Deadline: 2025-09-01T00:00:00+0800  
-Reward: ¥10000  
-
-
-## 【数据要素×商贸流通】 赛题3：提高行业国际化服务能力与竞争力
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1041  
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=1080  
 Description: 2025年“数据要素×”大赛福建分赛厦门赛区  
 Deadline: 2025-09-01T00:00:00+0800  
 Reward: ¥10000  

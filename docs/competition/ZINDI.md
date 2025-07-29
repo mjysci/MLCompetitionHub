@@ -42,7 +42,7 @@ Deadline: 2025-09-22T08:15:00+0800
 Reward: $5 000 USD  
 
 
-## Your Voice, Your Device, Your Language Challenge <sup style="color:red">[new]<sup>  
+## Your Voice, Your Device, Your Language Challenge
 
 Link: https://zindi.africa/competitions/your-voice-your-device-your-language-challenge  
 Description: Can you build a Swahili ASR solution to give a voice to 100 million people?  
