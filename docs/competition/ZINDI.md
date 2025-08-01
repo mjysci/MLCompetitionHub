@@ -66,14 +66,6 @@ Deadline: 2025-08-04T08:15:00+0800
 Reward: 1 000 CHF  
 
 
-## The ARC Challenge: Africa
-
-Link: https://zindi.africa/competitions/the-arc-challenge-africa  
-Description: Build models that can actually reason and win a trip to Deep Learning Indaba 2025  
-Deadline: 2025-08-01T01:00:00+0800  
-Reward: Flights to DLI  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
 Description: Can you build a passwordless authentication application?   
 Deadline: 2024-08-27T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Arm UNICEF Disaster Vulnerability Challenge
+
+Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
+Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
+Deadline: 2024-06-24T07:59:00+0800  
 Reward: $10 000 USD  
 
