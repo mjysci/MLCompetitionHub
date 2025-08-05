@@ -58,14 +58,6 @@ Deadline: 2025-09-29T07:59:00+0800
 Reward: 1 000 CHF  
 
 
-## Classification for Landslide Detection
-
-Link: https://zindi.africa/competitions/classification-for-landslide-detection  
-Description: Can you create a classification model to identify landslides?  
-Deadline: 2025-08-04T08:15:00+0800  
-Reward: 1 000 CHF  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
 Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
 Deadline: 2024-06-24T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## CGIAR Crop Damage Classification Challenge
+
+Link: https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge  
+Description: Can you identify types of damage in cellphone images of crops?  
+Deadline: 2024-01-29T07:59:00+0800  
 Reward: $10 000 USD  
 
