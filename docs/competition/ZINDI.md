@@ -58,7 +58,7 @@ Deadline: 2025-09-29T07:59:00+0800
 Reward: 1 000 CHF  
 
 
-## Combating Food Insecurity in Somalia <sup style="color:red">[new]<sup>  
+## PyCon Somalia 2025 Hackathon <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/combating-food-insecurity-in-somalia  
 Description: Combating Food Insecurity in Somalia  
