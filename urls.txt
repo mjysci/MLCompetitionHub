@@ -1439,3 +1439,4 @@ https://zindi.africa/competitions/your-voice-your-device-your-language-challenge
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1079
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=1080
 https://zindi.africa/competitions/combating-food-insecurity-in-somalia
+https://tianchi.aliyun.com/competition/entrance/532408/introduction
