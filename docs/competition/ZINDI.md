@@ -42,6 +42,14 @@ Deadline: 2025-09-22T08:15:00+0800
 Reward: $5 000 USD  
 
 
+## Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY] <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/ghana-indigenous-intel-challenge  
+Description: Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?  
+Deadline: 2025-10-13T07:59:00+0800  
+Reward: $2 500 USD  
+
+
 ## Your Voice, Your Device, Your Language Challenge
 
 Link: https://zindi.africa/competitions/your-voice-your-device-your-language-challenge  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
 Description: Can you build a passwordless authentication application?   
 Deadline: 2024-08-27T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Arm UNICEF Disaster Vulnerability Challenge
-
-Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
-Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
-Deadline: 2024-06-24T07:59:00+0800  
 Reward: $10 000 USD  
 
