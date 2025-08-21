@@ -42,7 +42,7 @@ Deadline: 2025-09-22T08:15:00+0800
 Reward: $5 000 USD  
 
 
-## Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY] <sup style="color:red">[new]<sup>  
+## Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY]
 
 Link: https://zindi.africa/competitions/ghana-indigenous-intel-challenge  
 Description: Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?  
@@ -66,7 +66,7 @@ Deadline: 2025-09-29T07:59:00+0800
 Reward: 1 000 CHF  
 
 
-## PyCon Somalia 2025 Hackathon <sup style="color:red">[new]<sup>  
+## PyCon Somalia 2025 Hackathon
 
 Link: https://zindi.africa/competitions/combating-food-insecurity-in-somalia  
 Description: Combating Food Insecurity in Somalia  
