@@ -70,7 +70,7 @@ Reward: 1 000 CHF
 
 Link: https://zindi.africa/competitions/combating-food-insecurity-in-somalia  
 Description: Combating Food Insecurity in Somalia  
-Deadline: 2025-08-28T02:59:00+0800  
+Deadline: 2025-09-04T02:59:00+0800  
 Reward: Awards at PyCon Somalia  
 
 

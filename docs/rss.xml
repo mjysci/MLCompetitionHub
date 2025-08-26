@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-08-25T16:00:03+08:00</updated>
+    <updated>2025-08-26T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -316,7 +316,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532408/introduction</id>
-        <title><![CDATA[SMP 2025 大模型报告生成挑战赛(赛季 1)]]></title>
+        <title><![CDATA[2025SMP第十三届全国社会媒体处理大会-大模型报告生成挑战赛(赛季 1)]]></title>
         
         <updated>2025-08-11T00:00:00+08:00</updated>
         
@@ -454,7 +454,7 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         
         <link href="https://zindi.africa/competitions/combating-food-insecurity-in-somalia"/>
         <summary>Combating Food Insecurity in Somalia</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/combating-food-insecurity-in-somalia"><![CDATA[<h3>Description</h3>Combating Food Insecurity in Somalia<h3>Deadline: 2025-08-28T02:59:00+08:00</h3><h3>Reward: Awards at PyCon Somalia</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/combating-food-insecurity-in-somalia"><![CDATA[<h3>Description</h3>Combating Food Insecurity in Somalia<h3>Deadline: 2025-09-04T02:59:00+08:00</h3><h3>Reward: Awards at PyCon Somalia</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
