@@ -66,14 +66,6 @@ Deadline: 2025-09-29T07:59:00+0800
 Reward: 1 000 CHF  
 
 
-## PyCon Somalia 2025 Hackathon
-
-Link: https://zindi.africa/competitions/combating-food-insecurity-in-somalia  
-Description: Combating Food Insecurity in Somalia  
-Deadline: 2025-09-04T02:59:00+0800  
-Reward: Awards at PyCon Somalia  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
 Description: Can you build a passwordless authentication application?   
 Deadline: 2024-08-27T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Arm UNICEF Disaster Vulnerability Challenge
+
+Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
+Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
+Deadline: 2024-06-24T07:59:00+0800  
 Reward: $10 000 USD  
 

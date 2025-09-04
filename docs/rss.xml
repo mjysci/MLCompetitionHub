@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-09-03T16:00:05+08:00</updated>
+    <updated>2025-09-04T15:59:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -461,20 +461,6 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/combating-food-insecurity-in-somalia</id>
-        <title><![CDATA[PyCon Somalia 2025 Hackathon]]></title>
-        
-        <updated>2025-08-14T03:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/combating-food-insecurity-in-somalia"/>
-        <summary>Combating Food Insecurity in Somalia</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/combating-food-insecurity-in-somalia"><![CDATA[<h3>Description</h3>Combating Food Insecurity in Somalia<h3>Deadline: 2025-09-04T02:59:00+08:00</h3><h3>Reward: Awards at PyCon Somalia</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling</id>
         <title><![CDATA[AI/ML for 5G-Energy Consumption Modelling ]]></title>
         
@@ -623,6 +609,20 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         <link href="https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge"/>
         <summary>Can you build a passwordless authentication application? </summary>
         <content type="text/html" src="https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge"><![CDATA[<h3>Description</h3>Can you build a passwordless authentication application? <h3>Deadline: 2024-08-27T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge</id>
+        <title><![CDATA[Arm UNICEF Disaster Vulnerability Challenge]]></title>
+        
+        <updated>2024-03-15T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"/>
+        <summary>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge"><![CDATA[<h3>Description</h3>Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?<h3>Deadline: 2024-06-24T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
