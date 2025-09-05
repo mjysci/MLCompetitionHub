@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-09-04T15:59:59+08:00</updated>
+    <updated>2025-09-05T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -313,6 +313,20 @@
     
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532428/introduction</id>
+        <title><![CDATA[第七届海峡两岸大学生视听影像创新大赛(赛季 1)]]></title>
+        
+        <updated>2025-09-03T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532428/introduction"/>
+        <summary>为推进中华民族伟大复兴、建设中华民族现代文明、延续两岸一家亲的血脉情谊，激发两岸大学生同根同源的青春力量，组委会整合海峡两岸大学生摄影大赛与短视频大赛，推出第七届海峡两岸大学生视听影像创新大赛。诚邀两岸大学生用镜头同叙手足情谊，共绘时代华章，共同打造高辨识度的大学生视听影像文化交流品牌。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532428/introduction"><![CDATA[<h3>Description</h3>为推进中华民族伟大复兴、建设中华民族现代文明、延续两岸一家亲的血脉情谊，激发两岸大学生同根同源的青春力量，组委会整合海峡两岸大学生摄影大赛与短视频大赛，推出第七届海峡两岸大学生视听影像创新大赛。诚邀两岸大学生用镜头同叙手足情谊，共绘时代华章，共同打造高辨识度的大学生视听影像文化交流品牌。<h3>Deadline: 2025-10-10T23:59:59+08:00</h3><h3>Reward: ￥44200</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532408/introduction</id>
