@@ -66,6 +66,54 @@ Deadline: 2025-09-29T07:59:00+0800
 Reward: 1 000 CHF  
 
 
+## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
+Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
+Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
+Description: Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
+Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
+Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover  
+Description: Can you tell great data stories about climate impacts on forest cover change in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -112,52 +160,4 @@ Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forec
 Description: Can you forecast traffic throughput volumes within communication networks?  
 Deadline: 2024-10-12T07:59:00+0800  
 Reward: 12 000 CHF  
-
-
-## Traffic Jam: Predicting People's Movement into Nairobi
-
-Link: https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi  
-Description: Uber and Mobiticket team up to predict demand for public transportation into Nairobi  
-Deadline: 2019-01-14T08:00:00+0800  
-Reward: $12 000 USD  
-
-
-## Farm Pin Crop Detection Challenge
-
-Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge  
-Description: Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?  
-Deadline: 2019-09-16T08:00:00+0800  
-Reward: $11 000 USD  
-
-
-## Inundata: Mapping Floods in South Africa
-
-Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
-Description: Can you identify where and when an urban flash flood happened in South Africa?  
-Deadline: 2025-02-17T08:15:00+0800  
-Reward: $10 000 USD  
-
-
-## Uwazi Citizen Science Challenge
-
-Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
-Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
-Deadline: 2024-06-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
-
-Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
-Description: Can you build a passwordless authentication application?   
-Deadline: 2024-08-27T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## Arm UNICEF Disaster Vulnerability Challenge
-
-Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
-Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
-Deadline: 2024-06-24T07:59:00+0800  
-Reward: $10 000 USD  
 

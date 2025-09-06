@@ -1443,3 +1443,9 @@ https://tianchi.aliyun.com/competition/entrance/532408/introduction
 https://zindi.africa/competitions/ghana-indigenous-intel-challenge
 https://tianchi.aliyun.com/competition/entrance/532387/introduction
 https://tianchi.aliyun.com/competition/entrance/532428/introduction
+https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health
+https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases
+https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security
+https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases
+https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall
+https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover
