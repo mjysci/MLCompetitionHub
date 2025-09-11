@@ -114,6 +114,14 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
+## 2025 Yaoundé Mobility Prediction Hackathon Powered <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered  
+Description: Can you predict taxi ride times in Maputo using weather and trip data?  
+Deadline: 2025-11-10T16:00:00+0800  
+Reward: 2000 USD  
+
+
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -152,12 +160,4 @@ Link: https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge
 Description: Can you  improve a pest control app by counting the number of bollworm moths per image?  
 Deadline: 2022-12-05T07:59:00+0800  
 Reward: €15 000 EUR  
-
-
-## Spatio-Temporal Beam-Level Traffic Forecasting Challenge 
-
-Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
-Description: Can you forecast traffic throughput volumes within communication networks?  
-Deadline: 2024-10-12T07:59:00+0800  
-Reward: 12 000 CHF  
 
