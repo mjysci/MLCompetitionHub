@@ -66,7 +66,7 @@ Deadline: 2025-09-29T07:59:00+0800
 Reward: 1 000 CHF  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health <sup style="color:red">[new]<sup>  
+## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
 Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
@@ -74,7 +74,7 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases <sup style="color:red">[new]<sup>  
+## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
 Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
@@ -82,7 +82,7 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security <sup style="color:red">[new]<sup>  
+## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
 Description: Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?  
@@ -90,7 +90,7 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases <sup style="color:red">[new]<sup>  
+## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
 Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
@@ -98,7 +98,7 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall <sup style="color:red">[new]<sup>  
+## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
 Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
@@ -106,12 +106,20 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover <sup style="color:red">[new]<sup>  
+## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover  
 Description: Can you tell great data stories about climate impacts on forest cover change in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
+
+
+## 2025  Maputo Mobility Prediction Hackathon Powered  <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango  
+Description: Can you predict taxi ride times in Maputo using weather and trip data?  
+Deadline: 2025-10-11T23:00:00+0800  
+Reward: 2000 USD  
 
 
 ## 2025 Yaoundé Mobility Prediction Hackathon Powered <sup style="color:red">[new]<sup>  
@@ -152,12 +160,4 @@ Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge
 Description: Can you estimate cassava root volume from underground scanning images?  
 Deadline: 2025-03-10T08:15:00+0800  
 Reward: $15 000 USD  
-
-
-## Wadhwani AI Bollworm Counting Challenge
-
-Link: https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge  
-Description: Can you  improve a pest control app by counting the number of bollworm moths per image?  
-Deadline: 2022-12-05T07:59:00+0800  
-Reward: €15 000 EUR  
 
