@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-09-15T16:00:02+08:00</updated>
+    <updated>2025-09-16T16:00:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -391,20 +391,6 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge</id>
-        <title><![CDATA[MPEG-G Microbiome Classification Challenge]]></title>
-        
-        <updated>2025-06-21T03:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge"/>
-        <summary>Can you classify microbiome samples by body site and individual using compressed data?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge"><![CDATA[<h3>Description</h3>Can you classify microbiome samples by body site and individual using compressed data?<h3>Deadline: 2025-09-15T08:15:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue</id>
         <title><![CDATA[MPEG-G: Decoding the Dialogue]]></title>
         
@@ -552,21 +538,7 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         
         <link href="https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango"/>
         <summary>Can you predict taxi ride times in Maputo using weather and trip data?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango"><![CDATA[<h3>Description</h3>Can you predict taxi ride times in Maputo using weather and trip data?<h3>Deadline: 2025-10-11T23:00:00+08:00</h3><h3>Reward: 2000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered</id>
-        <title><![CDATA[2025 Yaoundé Mobility Prediction Hackathon Powered]]></title>
-        
-        <updated>2025-09-10T16:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered"/>
-        <summary>Can you predict taxi ride times in Maputo using weather and trip data?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered"><![CDATA[<h3>Description</h3>Can you predict taxi ride times in Maputo using weather and trip data?<h3>Deadline: 2025-11-10T16:00:00+08:00</h3><h3>Reward: 2000 USD</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango"><![CDATA[<h3>Description</h3>Can you predict taxi ride times in Maputo using weather and trip data?<h3>Deadline: 2025-10-11T23:00:00+08:00</h3><h3>Reward: $2 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -623,6 +595,34 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         <link href="https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge"/>
         <summary>Can you estimate cassava root volume from underground scanning images?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge"><![CDATA[<h3>Description</h3>Can you estimate cassava root volume from underground scanning images?<h3>Deadline: 2025-03-10T08:15:00+08:00</h3><h3>Reward: $15 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge</id>
+        <title><![CDATA[Wadhwani AI Bollworm Counting Challenge]]></title>
+        
+        <updated>2022-09-23T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge"/>
+        <summary>Can you  improve a pest control app by counting the number of bollworm moths per image?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge"><![CDATA[<h3>Description</h3>Can you  improve a pest control app by counting the number of bollworm moths per image?<h3>Deadline: 2022-12-05T07:59:00+08:00</h3><h3>Reward: €15 000 EUR</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge</id>
+        <title><![CDATA[Spatio-Temporal Beam-Level Traffic Forecasting Challenge ]]></title>
+        
+        <updated>2024-07-24T19:50:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge"/>
+        <summary>Can you forecast traffic throughput volumes within communication networks?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge"><![CDATA[<h3>Description</h3>Can you forecast traffic throughput volumes within communication networks?<h3>Deadline: 2024-10-12T07:59:00+08:00</h3><h3>Reward: 12 000 CHF</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

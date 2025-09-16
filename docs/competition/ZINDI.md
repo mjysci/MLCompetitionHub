@@ -26,14 +26,6 @@ Deadline: 2025-10-15T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## MPEG-G Microbiome Classification Challenge
-
-Link: https://zindi.africa/competitions/mpeg-g-microbiome-classification-challenge  
-Description: Can you classify microbiome samples by body site and individual using compressed data?  
-Deadline: 2025-09-15T08:15:00+0800  
-Reward: $5 000 USD  
-
-
 ## MPEG-G: Decoding the Dialogue
 
 Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
@@ -119,15 +111,7 @@ Reward: $1 500 USD
 Link: https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango  
 Description: Can you predict taxi ride times in Maputo using weather and trip data?  
 Deadline: 2025-10-11T23:00:00+0800  
-Reward: 2000 USD  
-
-
-## 2025 Yaoundé Mobility Prediction Hackathon Powered <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered  
-Description: Can you predict taxi ride times in Maputo using weather and trip data?  
-Deadline: 2025-11-10T16:00:00+0800  
-Reward: 2000 USD  
+Reward: $2 000 USD  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -160,4 +144,20 @@ Link: https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge
 Description: Can you estimate cassava root volume from underground scanning images?  
 Deadline: 2025-03-10T08:15:00+0800  
 Reward: $15 000 USD  
+
+
+## Wadhwani AI Bollworm Counting Challenge
+
+Link: https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge  
+Description: Can you  improve a pest control app by counting the number of bollworm moths per image?  
+Deadline: 2022-12-05T07:59:00+0800  
+Reward: €15 000 EUR  
+
+
+## Spatio-Temporal Beam-Level Traffic Forecasting Challenge 
+
+Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge  
+Description: Can you forecast traffic throughput volumes within communication networks?  
+Deadline: 2024-10-12T07:59:00+0800  
+Reward: 12 000 CHF  
 
