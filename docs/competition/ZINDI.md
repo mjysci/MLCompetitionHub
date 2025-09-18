@@ -111,7 +111,7 @@ Reward: $1 500 USD
 Link: https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango  
 Description: Can you predict taxi ride times in Maputo using weather and trip data?  
 Deadline: 2025-10-11T23:00:00+0800  
-Reward: $2 000 USD  
+Reward: 2000 USD  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
