@@ -2,14 +2,6 @@
 
 
 
-## Barbados ROAD Historic Handwriting Challenge <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge  
-Description: Can you identify handwritten words in historic and culturally significant scripts from the archives of Barbados?  
-Deadline: 2026-01-05T07:59:00+0800  
-Reward: $25 000 USD  
-
-
 ## Barbados Traffic Analysis Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
@@ -160,4 +152,12 @@ Link: https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forec
 Description: Can you forecast traffic throughput volumes within communication networks?  
 Deadline: 2024-10-12T07:59:00+0800  
 Reward: 12 000 CHF  
+
+
+## Traffic Jam: Predicting People's Movement into Nairobi
+
+Link: https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi  
+Description: Uber and Mobiticket team up to predict demand for public transportation into Nairobi  
+Deadline: 2019-01-14T08:00:00+0800  
+Reward: $12 000 USD  
 

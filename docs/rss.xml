@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-09-18T16:00:06+08:00</updated>
+    <updated>2025-09-19T16:00:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -349,20 +349,6 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
     
     
     <entry>
-        <id>https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge</id>
-        <title><![CDATA[Barbados ROAD Historic Handwriting Challenge]]></title>
-        
-        <updated>2025-10-10T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge"/>
-        <summary>Can you identify handwritten words in historic and culturally significant scripts from the archives of Barbados?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge"><![CDATA[<h3>Description</h3>Can you identify handwritten words in historic and culturally significant scripts from the archives of Barbados?<h3>Deadline: 2026-01-05T07:59:00+08:00</h3><h3>Reward: $25 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/barbados-traffic-analysis-challenge</id>
         <title><![CDATA[Barbados Traffic Analysis Challenge]]></title>
         
@@ -623,6 +609,20 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         <link href="https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge"/>
         <summary>Can you forecast traffic throughput volumes within communication networks?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/spatio-temporal-beam-level-traffic-forecasting-challenge"><![CDATA[<h3>Description</h3>Can you forecast traffic throughput volumes within communication networks?<h3>Deadline: 2024-10-12T07:59:00+08:00</h3><h3>Reward: 12 000 CHF</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi</id>
+        <title><![CDATA[Traffic Jam: Predicting People's Movement into Nairobi]]></title>
+        
+        <updated>2018-09-06T08:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi"/>
+        <summary>Uber and Mobiticket team up to predict demand for public transportation into Nairobi</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi"><![CDATA[<h3>Description</h3>Uber and Mobiticket team up to predict demand for public transportation into Nairobi<h3>Deadline: 2019-01-14T08:00:00+08:00</h3><h3>Reward: $12 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
