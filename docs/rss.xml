@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-09-22T16:00:02+08:00</updated>
+    <updated>2025-09-23T16:00:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -370,21 +370,7 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         
         <link href="https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge"/>
         <summary>Can you identify and digitise important information in analog cadastral plans?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge"><![CDATA[<h3>Description</h3>Can you identify and digitise important information in analog cadastral plans?<h3>Deadline: 2025-10-15T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue</id>
-        <title><![CDATA[MPEG-G: Decoding the Dialogue]]></title>
-        
-        <updated>2025-06-27T17:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue"/>
-        <summary>Can you determine host-microbiome interactions in metagenomic data?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue"><![CDATA[<h3>Description</h3>Can you determine host-microbiome interactions in metagenomic data?<h3>Deadline: 2025-09-22T08:15:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge"><![CDATA[<h3>Description</h3>Can you identify and digitise important information in analog cadastral plans?<h3>Deadline: 2025-10-20T08:15:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -399,20 +385,6 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         <link href="https://zindi.africa/competitions/ghana-indigenous-intel-challenge"/>
         <summary>Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/ghana-indigenous-intel-challenge"><![CDATA[<h3>Description</h3>Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?<h3>Deadline: 2025-10-13T07:59:00+08:00</h3><h3>Reward: $2 500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/your-voice-your-device-your-language-challenge</id>
-        <title><![CDATA[Your Voice, Your Device, Your Language Challenge]]></title>
-        
-        <updated>2025-07-22T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/your-voice-your-device-your-language-challenge"/>
-        <summary>Can you build a Swahili ASR solution to give a voice to 100 million people?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/your-voice-your-device-your-language-challenge"><![CDATA[<h3>Description</h3>Can you build a Swahili ASR solution to give a voice to 100 million people?<h3>Deadline: 2025-09-22T08:15:00+08:00</h3><h3>Reward: 1 000 CHF</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -623,6 +595,34 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         <link href="https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi"/>
         <summary>Uber and Mobiticket team up to predict demand for public transportation into Nairobi</summary>
         <content type="text/html" src="https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi"><![CDATA[<h3>Description</h3>Uber and Mobiticket team up to predict demand for public transportation into Nairobi<h3>Deadline: 2019-01-14T08:00:00+08:00</h3><h3>Reward: $12 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/farm-pin-crop-detection-challenge</id>
+        <title><![CDATA[Farm Pin Crop Detection Challenge]]></title>
+        
+        <updated>2019-03-04T08:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/farm-pin-crop-detection-challenge"/>
+        <summary>Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/farm-pin-crop-detection-challenge"><![CDATA[<h3>Description</h3>Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?<h3>Deadline: 2019-09-16T08:00:00+08:00</h3><h3>Reward: $11 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa</id>
+        <title><![CDATA[Inundata: Mapping Floods in South Africa]]></title>
+        
+        <updated>2024-11-22T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa"/>
+        <summary>Can you identify where and when an urban flash flood happened in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa"><![CDATA[<h3>Description</h3>Can you identify where and when an urban flash flood happened in South Africa?<h3>Deadline: 2025-02-17T08:15:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
