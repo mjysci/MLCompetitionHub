@@ -1451,3 +1451,4 @@ https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-t
 https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover
 https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered
 https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango
+https://zindi.africa/competitions/eswatini-inflation-forecasting-challenge

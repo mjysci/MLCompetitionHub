@@ -90,6 +90,14 @@ Deadline: 2025-10-11T23:00:00+0800
 Reward: 2000 USD  
 
 
+## Eswatini Inflation Forecasting Challenge
+
+Link: https://zindi.africa/competitions/eswatini-inflation-forecasting-challenge  
+Description: Can you nowcast Eswatini headline inflation?  
+Deadline: 2025-10-13T19:59:00+0800  
+Reward: E50 000  
+
+
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -152,12 +160,4 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
-
-
-## Inundata: Mapping Floods in South Africa
-
-Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
-Description: Can you identify where and when an urban flash flood happened in South Africa?  
-Deadline: 2025-02-17T08:15:00+0800  
-Reward: $10 000 USD  
 
