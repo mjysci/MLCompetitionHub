@@ -1452,3 +1452,6 @@ https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-t
 https://zindi.africa/competitions/2025-yaounde-mobility-prediction-hackathon-powered
 https://zindi.africa/competitions/2025-maputo-mobility-prediction-hackathon-powered-by-yango
 https://zindi.africa/competitions/eswatini-inflation-forecasting-challenge
+https://tianchi.aliyun.com/competition/entrance/532439/introduction
+https://tianchi.aliyun.com/competition/entrance/532438/introduction
+https://tianchi.aliyun.com/competition/entrance/532436/introduction

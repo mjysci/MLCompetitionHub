@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-09-27T16:00:12+08:00</updated>
+    <updated>2025-09-28T16:00:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -341,6 +341,48 @@ SMP 2025 大模型报告生成挑战赛旨在探索将大语言模型（LLM）�
         <link href="https://tianchi.aliyun.com/competition/entrance/532387/introduction"/>
         <summary>云原生、AIGC 等技术不断革新，数字经济发挥着越来越重要的作用。随之而来的，系统稳定性保障，如何快速、准确定位系统成为无法回避的挑战。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532387/introduction"><![CDATA[<h3>Description</h3>云原生、AIGC 等技术不断革新，数字经济发挥着越来越重要的作用。随之而来的，系统稳定性保障，如何快速、准确定位系统成为无法回避的挑战。<h3>Deadline: 2025-11-10T23:59:59+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532439/introduction</id>
+        <title><![CDATA[2025年第二届中关村具身智能机器人应用大赛-具身智能场景应用赛(赛季 1)]]></title>
+        
+        <updated>2025-09-24T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532439/introduction"/>
+        <summary>聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532439/introduction"><![CDATA[<h3>Description</h3>聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛<h3>Deadline: 2025-10-24T23:59:59+08:00</h3><h3>Reward: ￥700000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532438/introduction</id>
+        <title><![CDATA[2025年第二届中关村具身智能机器人应用大赛-具身智能学术前沿与产业生态赛道(赛季 1)]]></title>
+        
+        <updated>2025-09-24T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532438/introduction"/>
+        <summary>本届大赛将主要聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532438/introduction"><![CDATA[<h3>Description</h3>本届大赛将主要聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛<h3>Deadline: 2025-10-24T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532436/introduction</id>
+        <title><![CDATA[2025年第二届中关村具身智能机器人应用大赛-智源具身智能模型能力挑战赛（小脑模型-本体已适配）(赛季 1)]]></title>
+        
+        <updated>2025-09-24T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532436/introduction"/>
+        <summary>为推动具身智能关键技术的创新与迭代，2025年下半年，第二届中关村具身智能机器人应用大赛即将拉开帷幕。智源作为本次大赛具身智能模型能力挑战赛的主办方，聚焦“大脑”与“小脑”核心能力，推动RoboBrain2.0等前沿模型在感知、规划与控制方面的技术突破，为具身智能的落地应用奠定坚实算法基础。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532436/introduction"><![CDATA[<h3>Description</h3>为推动具身智能关键技术的创新与迭代，2025年下半年，第二届中关村具身智能机器人应用大赛即将拉开帷幕。智源作为本次大赛具身智能模型能力挑战赛的主办方，聚焦“大脑”与“小脑”核心能力，推动RoboBrain2.0等前沿模型在感知、规划与控制方面的技术突破，为具身智能的落地应用奠定坚实算法基础。<h3>Deadline: 2025-10-24T23:59:59+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
