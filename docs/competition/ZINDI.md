@@ -26,14 +26,6 @@ Deadline: 2025-10-13T07:59:00+0800
 Reward: $2 500 USD  
 
 
-## GEOAI Challenge for Cropland Mapping in Dry Environments 
-
-Link: https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments  
-Description: Can you develop an accurate and cost-effective method for cropland mapping?  
-Deadline: 2025-09-29T07:59:00+0800  
-Reward: 1 000 CHF  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
@@ -160,4 +152,12 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
+
+
+## Inundata: Mapping Floods in South Africa
+
+Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
+Description: Can you identify where and when an urban flash flood happened in South Africa?  
+Deadline: 2025-02-17T08:15:00+0800  
+Reward: $10 000 USD  
 
