@@ -18,6 +18,14 @@ Deadline: 2025-10-20T08:15:00+0800
 Reward: $10 000 USD  
 
 
+## MPEG-G: Decoding the Dialogue
+
+Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
+Description: Can you determine host-microbiome interactions in metagenomic data?  
+Deadline: 2025-10-31T08:15:00+0800  
+Reward: $5 000 USD  
+
+
 ## Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY]
 
 Link: https://zindi.africa/competitions/ghana-indigenous-intel-challenge  
@@ -152,12 +160,4 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
-
-
-## Inundata: Mapping Floods in South Africa
-
-Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
-Description: Can you identify where and when an urban flash flood happened in South Africa?  
-Deadline: 2025-02-17T08:15:00+0800  
-Reward: $10 000 USD  
 

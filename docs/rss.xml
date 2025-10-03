@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-10-02T16:00:04+08:00</updated>
+    <updated>2025-10-03T15:59:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -401,6 +401,20 @@
     </entry>
     
     <entry>
+        <id>https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue</id>
+        <title><![CDATA[MPEG-G: Decoding the Dialogue]]></title>
+        
+        <updated>2025-06-27T17:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue"/>
+        <summary>Can you determine host-microbiome interactions in metagenomic data?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue"><![CDATA[<h3>Description</h3>Can you determine host-microbiome interactions in metagenomic data?<h3>Deadline: 2025-10-31T08:15:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/ghana-indigenous-intel-challenge</id>
         <title><![CDATA[Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY]]]></title>
         
@@ -633,20 +647,6 @@
         <link href="https://zindi.africa/competitions/farm-pin-crop-detection-challenge"/>
         <summary>Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/farm-pin-crop-detection-challenge"><![CDATA[<h3>Description</h3>Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?<h3>Deadline: 2019-09-16T08:00:00+08:00</h3><h3>Reward: $11 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa</id>
-        <title><![CDATA[Inundata: Mapping Floods in South Africa]]></title>
-        
-        <updated>2024-11-22T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa"/>
-        <summary>Can you identify where and when an urban flash flood happened in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa"><![CDATA[<h3>Description</h3>Can you identify where and when an urban flash flood happened in South Africa?<h3>Deadline: 2025-02-17T08:15:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
