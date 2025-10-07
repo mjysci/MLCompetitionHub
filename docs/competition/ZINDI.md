@@ -94,7 +94,7 @@ Reward: 2000 USD
 
 Link: https://zindi.africa/competitions/eswatini-inflation-forecasting-challenge  
 Description: Can you nowcast Eswatini headline inflation?  
-Deadline: 2025-10-13T19:59:00+0800  
+Deadline: 2025-10-15T19:59:00+0800  
 Reward: E50 000  
 
 
