@@ -22,7 +22,7 @@ Reward: $10 000 USD
 
 Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
 Description: Can you determine host-microbiome interactions in metagenomic data?  
-Deadline: 2025-10-31T08:15:00+0800  
+Deadline: 2025-11-03T08:15:00+0800  
 Reward: $5 000 USD  
 
 
