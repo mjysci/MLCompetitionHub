@@ -26,14 +26,6 @@ Deadline: 2025-11-03T08:15:00+0800
 Reward: $5 000 USD  
 
 
-## Ghana’s Indigenous Intel Challenge [BEGINNERS ONLY]
-
-Link: https://zindi.africa/competitions/ghana-indigenous-intel-challenge  
-Description: Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?  
-Deadline: 2025-10-13T07:59:00+0800  
-Reward: $2 500 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
@@ -159,5 +151,13 @@ Reward: $11 000 USD
 Link: https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa  
 Description: Can you identify where and when an urban flash flood happened in South Africa?  
 Deadline: 2025-02-17T08:15:00+0800  
+Reward: $10 000 USD  
+
+
+## Uwazi Citizen Science Challenge
+
+Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
+Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
+Deadline: 2024-06-10T07:59:00+0800  
 Reward: $10 000 USD  
 
