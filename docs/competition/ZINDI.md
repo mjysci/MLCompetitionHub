@@ -74,14 +74,6 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Eswatini Inflation Forecasting Challenge
-
-Link: https://zindi.africa/competitions/eswatini-inflation-forecasting-challenge  
-Description: Can you nowcast Eswatini headline inflation?  
-Deadline: 2025-10-15T19:59:00+0800  
-Reward: E50 000  
-
-
 ## AI/ML for 5G-Energy Consumption Modelling 
 
 Link: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling  
@@ -159,5 +151,13 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
 Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
 Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
+
+Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
+Description: Can you build a passwordless authentication application?   
+Deadline: 2024-08-27T07:59:00+0800  
 Reward: $10 000 USD  
 
