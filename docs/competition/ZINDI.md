@@ -10,14 +10,6 @@ Deadline: 2025-12-08T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## Barbados Lands and Surveys Plot Automation Challenge
-
-Link: https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge  
-Description: Can you identify and digitise important information in analog cadastral plans?  
-Deadline: 2025-10-20T08:15:00+0800  
-Reward: $10 000 USD  
-
-
 ## MPEG-G: Decoding the Dialogue
 
 Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
@@ -136,6 +128,14 @@ Link: https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 Description: Can you classify fields in South Africa by crop type using Sentinel-2 satellite imagery?  
 Deadline: 2019-09-16T08:00:00+0800  
 Reward: $11 000 USD  
+
+
+## Barbados Lands and Surveys Plot Automation Challenge
+
+Link: https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge  
+Description: Can you identify and digitise important information in analog cadastral plans?  
+Deadline: 2025-10-20T08:15:00+0800  
+Reward: $10 000 USD  
 
 
 ## Inundata: Mapping Floods in South Africa
