@@ -18,6 +18,14 @@ Deadline: 2025-11-03T08:15:00+0800
 Reward: $5 000 USD  
 
 
+## Measuring What Matters Proposal Challenge by ITU <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/measuring-what-matters-proposal-challenge  
+Description: Can you propose new ways to measure the environmental footprint of AI models?  
+Deadline: 2025-11-22T06:00:00+0800  
+Reward: 1 000 CHF  
+
+
 ## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
 Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
 Deadline: 2024-06-10T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
-
-Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
-Description: Can you build a passwordless authentication application?   
-Deadline: 2024-08-27T07:59:00+0800  
 Reward: $10 000 USD  
 
