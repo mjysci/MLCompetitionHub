@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-10-26T16:00:12+08:00</updated>
+    <updated>2025-10-27T16:00:32+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -11,14 +11,14 @@
     
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1406</id>
-        <title><![CDATA[星河产业应用创新奖-行业场景应用赛]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1419</id>
+        <title><![CDATA[星河超级个体Hackathon]]></title>
         
-        <updated>2025-10-14T08:00:00+08:00</updated>
+        <updated>2025-10-24T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1406"/>
-        <summary>聚焦9大行业场景，依托飞桨或文心大模型技术，征集能够解决行业内实际问题，创造商业或社会价值的创新AI产品应用或前沿解决方案。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1406"><![CDATA[<h3>Description</h3>聚焦9大行业场景，依托飞桨或文心大模型技术，征集能够解决行业内实际问题，创造商业或社会价值的创新AI产品应用或前沿解决方案。<h3>Deadline: 2025-12-31T08:00:00+08:00</h3><h3>Reward: ¥5000奖金&Token+算力资源</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1419"/>
+        <summary>星河超级个体Hackathon诚邀您的参与，由文心大模型、文心快码、百度风投联合发起，期待开发者、创业者、创作者在真实场景中，用AI创造出可落地、可运行的产品原型，用想象力来创造AI真正的现实影响力。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1419"><![CDATA[<h3>Description</h3>星河超级个体Hackathon诚邀您的参与，由文心大模型、文心快码、百度风投联合发起，期待开发者、创业者、创作者在真实场景中，用AI创造出可落地、可运行的产品原型，用想象力来创造AI真正的现实影响力。<h3>Deadline: 2025-12-15T08:00:00+08:00</h3><h3>Reward: ¥100000奖励池</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -315,6 +315,24 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532442/introduction</id>
+        <title><![CDATA[蚂蚁百宝箱&amp;通义灵码MCP插件开发大赛(赛季 1)]]></title>
+        
+        <updated>2025-10-27T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532442/introduction"/>
+        <summary>我国正处于AI发展的热潮之中，关于智能体的讨论热度持续高涨。
+
+蚂蚁百宝箱联合通义灵码启动首届「智能插件开发大赛」，本次活动联合NVIDIA，基于NVIDIA成熟生态，稳定支持本次赛事技术基座。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532442/introduction"><![CDATA[<h3>Description</h3>我国正处于AI发展的热潮之中，关于智能体的讨论热度持续高涨。
+
+蚂蚁百宝箱联合通义灵码启动首届「智能插件开发大赛」，本次活动联合NVIDIA，基于NVIDIA成熟生态，稳定支持本次赛事技术基座。<h3>Deadline: 2025-11-24T23:59:59+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532387/introduction</id>
         <title><![CDATA[2025 AI 原生编程挑战赛—AIOps故障定位挑战赛(赛季 1)]]></title>
         
@@ -350,7 +368,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532438/introduction"/>
         <summary>本届大赛将主要聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532438/introduction"><![CDATA[<h3>Description</h3>本届大赛将主要聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛<h3>Deadline: 2025-11-05T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532438/introduction"><![CDATA[<h3>Description</h3>本届大赛将主要聚焦场景应用，推动具身智能机器人真正能“干活”，重点包括家庭服务、商用服务、工业制造、居家服务、安全处置等应用场景，通过以赛促创新活力、以赛促场景探索、以赛促生态构建、以赛促产融对接，打造国际国内基础研究最前沿、创新场景最领先、未来产业最引领的具身智能机器人竞赛<h3>Deadline: 2025-11-04T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
