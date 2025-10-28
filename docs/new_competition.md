@@ -1,19 +1,11 @@
-> 更新时间: 2025-10-27T16:00:32+0800 
+> 更新时间: 2025-10-28T16:00:09+0800 
 
 # 新上线比赛
 
 
-## 星河超级个体Hackathon
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1419  
-Description: 星河超级个体Hackathon诚邀您的参与，由文心大模型、文心快码、百度风投联合发起，期待开发者、创业者、创作者在真实场景中，用AI创造出可落地、可运行的产品原型，用想象力来创造AI真正的现实影响力。  
-Deadline: 2025-12-15T08:00:00+0800  
-Reward: ¥100000奖励池  
-
-## 蚂蚁百宝箱&通义灵码MCP插件开发大赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532442/introduction  
-Description: 我国正处于AI发展的热潮之中，关于智能体的讨论热度持续高涨。
-
-蚂蚁百宝箱联合通义灵码启动首届「智能插件开发大赛」，本次活动联合NVIDIA，基于NVIDIA成熟生态，稳定支持本次赛事技术基座。  
-Deadline: 2025-11-24T23:59:59+0800  
-Reward: ￥160000  
+## 2025 全国大学生计算机系统能力大赛——第2届PolarDB数据库创新设计赛(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532409/introduction  
+Description: 大赛要求各参赛队具备综合运用各种知识（包括但不局限于数据库系统、数据结构与算法、操作系统、人工智能等）进行数据库系统部署、源码修改与性能调优，完成大赛要求的 PolarDB 数据库系统搭建，探索使用向量索引加速向量查询。  
+Deadline: 2025-12-04T23:59:59+0800  
+Reward: ￥250000  
 
