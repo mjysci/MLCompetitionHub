@@ -18,7 +18,7 @@ Deadline: 2025-11-03T08:15:00+0800
 Reward: $5 000 USD  
 
 
-## Measuring What Matters Proposal Challenge by ITU <sup style="color:red">[new]<sup>  
+## Measuring What Matters Proposal Challenge by ITU
 
 Link: https://zindi.africa/competitions/measuring-what-matters-proposal-challenge  
 Description: Can you propose new ways to measure the environmental footprint of AI models?  
