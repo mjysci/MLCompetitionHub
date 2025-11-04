@@ -10,68 +10,12 @@ Deadline: 2025-12-08T07:59:00+0800
 Reward: $10 000 USD  
 
 
-## MPEG-G: Decoding the Dialogue
-
-Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
-Description: Can you determine host-microbiome interactions in metagenomic data?  
-Deadline: 2025-11-03T08:15:00+0800  
-Reward: $5 000 USD  
-
-
 ## Measuring What Matters Proposal Challenge by ITU
 
 Link: https://zindi.africa/competitions/measuring-what-matters-proposal-challenge  
 Description: Can you propose new ways to measure the environmental footprint of AI models?  
 Deadline: 2025-11-22T06:00:00+0800  
 Reward: 1 000 CHF  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
-Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
-Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
-Description: Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
-Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
-Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover  
-Description: Can you tell great data stories about climate impacts on forest cover change in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
@@ -159,5 +103,61 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/amini-crop-data-citizen-science-challenge  
 Description: Can you collect data on African crops to contribute to the future of AI on the continent?  
 Deadline: 2024-06-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## ITU Digital Financial Services Blockchain Secure Authentication Application Challenge
+
+Link: https://zindi.africa/competitions/itu-digital-financial-services-blockchain-secure-authentication-application-challenge  
+Description: Can you build a passwordless authentication application?   
+Deadline: 2024-08-27T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Arm UNICEF Disaster Vulnerability Challenge
+
+Link: https://zindi.africa/competitions/arm-unicef-disaster-vulnerability-challenge  
+Description: Can you identify thatch-roofed houses for disaster planning in rural Malawi using aerial images?  
+Deadline: 2024-06-24T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## CGIAR Crop Damage Classification Challenge
+
+Link: https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge  
+Description: Can you identify types of damage in cellphone images of crops?  
+Deadline: 2024-01-29T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## CGIAR Eyes on the Ground Challenge
+
+Link: https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge  
+Description: Can you predict drought damage from smartphone images of crops?  
+Deadline: 2023-11-04T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Digital Africa Plantation Counting Challenge
+
+Link: https://zindi.africa/competitions/digital-africa-plantation-counting-challenge  
+Description: Can you create a semi-supervised algorithm to count trees in plantations in Côte d'Ivoire?  
+Deadline: 2023-04-10T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## Africa Biomass Challenge
+
+Link: https://zindi.africa/competitions/africa-biomass-challenge  
+Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
+Deadline: 2023-05-22T07:59:00+0800  
+Reward: $10 000 USD  
+
+
+## AgriFieldNet India Challenge
+
+Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
+Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
+Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
