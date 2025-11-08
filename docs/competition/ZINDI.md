@@ -5,9 +5,9 @@
 ## Barbados Traffic Analysis Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
-Description: Can you identify the root causes of traffic in a Barbados roundabout?  
-Deadline: 2025-12-08T07:59:00+0800  
-Reward: $10 000 USD  
+Description: Can you predict traffic flow to identify the root causes of traffic in a Barbados roundabout?  
+Deadline: 2026-01-26T07:59:00+0800  
+Reward: $11 000 USD  
 
 
 ## Measuring What Matters Proposal Challenge by ITU
