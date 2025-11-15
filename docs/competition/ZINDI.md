@@ -2,12 +2,20 @@
 
 
 
-## Barbados Traffic Analysis Challenge <sup style="color:red">[new]<sup>  
+## Barbados Traffic Analysis Challenge
 
 Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
 Description: Can you predict traffic flow to identify the root causes of traffic in a Barbados roundabout?  
 Deadline: 2026-01-26T07:59:00+0800  
 Reward: $11 000 USD  
+
+
+## agriBORA Commodity Price Forecasting Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge  
+Description: Can you accurately forecast weekly market prices for maize in Kenya?  
+Deadline: 2025-12-28T08:15:00+0800  
+Reward: €8 250 EUR  
 
 
 ## Measuring What Matters Proposal Challenge by ITU
@@ -151,13 +159,5 @@ Reward: $10 000 USD
 Link: https://zindi.africa/competitions/africa-biomass-challenge  
 Description: Can you predict biomass in cocoa plantations in Côte d'Ivoire?  
 Deadline: 2023-05-22T07:59:00+0800  
-Reward: $10 000 USD  
-
-
-## AgriFieldNet India Challenge
-
-Link: https://zindi.africa/competitions/agrifieldnet-india-challenge  
-Description: Can you detect crop types in a class-imbalanced satellite image dataset?  
-Deadline: 2022-11-01T07:59:00+0800  
 Reward: $10 000 USD  
 
