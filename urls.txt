@@ -1462,3 +1462,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1419
 https://tianchi.aliyun.com/competition/entrance/532442/introduction
 https://tianchi.aliyun.com/competition/entrance/532409/introduction
 https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge
+https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge

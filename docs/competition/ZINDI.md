@@ -2,6 +2,14 @@
 
 
 
+## The AI Telco Troubleshooting Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge  
+Description: Can your fine-tuned LLM detect and explain unseen network failures before they escalate?  
+Deadline: 2026-02-02T07:59:00+0800  
+Reward: €35 000 EUR  
+
+
 ## Barbados Traffic Analysis Challenge
 
 Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
@@ -10,20 +18,12 @@ Deadline: 2026-01-26T07:59:00+0800
 Reward: $11 000 USD  
 
 
-## agriBORA Commodity Price Forecasting Challenge <sup style="color:red">[new]<sup>  
+## agriBORA Commodity Price Forecasting Challenge
 
 Link: https://zindi.africa/competitions/agribora-commodity-price-forecasting-challenge  
 Description: Can you accurately forecast weekly market prices for maize in Kenya?  
 Deadline: 2025-12-28T08:15:00+0800  
 Reward: €8 250 EUR  
-
-
-## Measuring What Matters Proposal Challenge by ITU
-
-Link: https://zindi.africa/competitions/measuring-what-matters-proposal-challenge  
-Description: Can you propose new ways to measure the environmental footprint of AI models?  
-Deadline: 2025-11-22T06:00:00+0800  
-Reward: 1 000 CHF  
 
 
 ## AI/ML for 5G-Energy Consumption Modelling 
