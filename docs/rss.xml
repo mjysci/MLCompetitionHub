@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-11-26T16:00:07+08:00</updated>
+    <updated>2025-11-27T16:00:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -315,6 +315,54 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532445/introduction</id>
+        <title><![CDATA[第一届国际工程智能大赛-自由创新赛道：以智慧拓展工程边界，勇做工程领域的先行者(赛季 1)]]></title>
+        
+        <updated>2025-11-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532445/introduction"/>
+        <summary>本挑战赛的目标是：
+● 激发自主创新： 鼓励参赛者自主发现工程领域的痛点，并提出原创性AI解决方案。
+● 拓展应用边界： 探索人工智能在更广阔工程领域的应用潜力。
+● 孵化颠覆性方案： 发现并支持具有前瞻性、突破性，甚至可能改变行业格局的智能工程项目。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532445/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：
+● 激发自主创新： 鼓励参赛者自主发现工程领域的痛点，并提出原创性AI解决方案。
+● 拓展应用边界： 探索人工智能在更广阔工程领域的应用潜力。
+● 孵化颠覆性方案： 发现并支持具有前瞻性、突破性，甚至可能改变行业格局的智能工程项目。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532444/introduction</id>
+        <title><![CDATA[第一届国际工程智能大赛-交通工程赛道：面向高韧性交通系统的智能粒流协同挑战赛(赛季 1)]]></title>
+        
+        <updated>2025-11-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532444/introduction"/>
+        <summary>本挑战赛的目标是：研发能够服务于真实城市交通场景的智能化协同控制方案，将交通管理从“被动响应”升级为“主动引导”，推动智慧交通走向高效、安全与深度协同的新阶段。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532444/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：研发能够服务于真实城市交通场景的智能化协同控制方案，将交通管理从“被动响应”升级为“主动引导”，推动智慧交通走向高效、安全与深度协同的新阶段。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532443/introduction</id>
+        <title><![CDATA[第一届国际工程智能大赛-土木工程赛道：桥梁结构关键构件智能网格生成挑战赛(赛季 1)]]></title>
+        
+        <updated>2025-11-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532443/introduction"/>
+        <summary>本挑战赛的目标是：研发能够服务于真实桥梁工程场景的智能化网格生成方案，将工程师从繁琐、重复的网格划分工作中解放出来，推动高保真结构分析走向高效、可靠与自动化的新阶段。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532443/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：研发能够服务于真实桥梁工程场景的智能化网格生成方案，将工程师从繁琐、重复的网格划分工作中解放出来，推动高保真结构分析走向高效、可靠与自动化的新阶段。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532442/introduction</id>
         <title><![CDATA[蚂蚁百宝箱&amp;通义灵码MCP插件开发大赛(赛季 1)]]></title>
         
@@ -327,6 +375,20 @@
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532442/introduction"><![CDATA[<h3>Description</h3>我国正处于AI发展的热潮之中，关于智能体的讨论热度持续高涨。
 
 蚂蚁百宝箱联合通义灵码启动首届「智能插件开发大赛」，本次活动联合NVIDIA，基于NVIDIA成熟生态，稳定支持本次赛事技术基座。<h3>Deadline: 2025-12-07T23:59:59+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532415/introduction</id>
+        <title><![CDATA[乐聚机器人第一届具身智能操作任务挑战赛&amp;创业启航营(赛季 1)]]></title>
+        
+        <updated>2025-08-19T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532415/introduction"/>
+        <summary>挑战赛分为仿真赛与真机赛两个阶段，以主办方设定的四个难度递进的机器人操作任务为核心，参赛队伍需围绕这些任务开发具备感知与决策能力的模型。参赛选手可利用主办方提供的高质量数据集、Baseline代码及配套开发工具开展模型训练与优化，并在模拟器及真机平台上完成测试与评估。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532415/introduction"><![CDATA[<h3>Description</h3>挑战赛分为仿真赛与真机赛两个阶段，以主办方设定的四个难度递进的机器人操作任务为核心，参赛队伍需围绕这些任务开发具备感知与决策能力的模型。参赛选手可利用主办方提供的高质量数据集、Baseline代码及配套开发工具开展模型训练与优化，并在模拟器及真机平台上完成测试与评估。<h3>Deadline: 2026-04-30T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
