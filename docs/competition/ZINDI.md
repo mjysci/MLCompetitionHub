@@ -5,7 +5,7 @@
 ## The AI Telco Troubleshooting Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge  
-Description: Can your fine-tuned LLM detect and explain unseen network failures before they escalate?  
+Description: Can your fine-tuned LLM detect and explain unseen network failures?  
 Deadline: 2026-02-02T07:59:00+0800  
 Reward: €35 000 EUR  
 
