@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-11-30T16:00:01+08:00</updated>
+    <updated>2025-12-01T15:59:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -311,6 +311,20 @@
     
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/691ec93aa98fe33b7c70d962</id>
+        <title><![CDATA[餐品图像分类模型征集]]></title>
+        
+        <updated>2025-11-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/691ec93aa98fe33b7c70d962"/>
+        <summary>餐品图像分类模型征集</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/691ec93aa98fe33b7c70d962"><![CDATA[<h3>Description</h3>餐品图像分类模型征集<h3>Deadline: 2025-12-30T00:00:00+08:00</h3><h3>Reward: ¥ 20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     
     
