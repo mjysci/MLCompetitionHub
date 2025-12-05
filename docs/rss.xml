@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-12-04T15:59:55+08:00</updated>
+    <updated>2025-12-05T16:00:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -410,13 +410,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532409/introduction</id>
-        <title><![CDATA[2025 全国大学生计算机系统能力大赛——第2届PolarDB数据库创新设计赛(赛季 1)]]></title>
+        <title><![CDATA[2025 全国大学生计算机系统能力大赛——第2届PolarDB数据库创新设计赛(赛季 2)]]></title>
         
         <updated>2025-10-28T12:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532409/introduction"/>
         <summary>大赛要求各参赛队具备综合运用各种知识（包括但不局限于数据库系统、数据结构与算法、操作系统、人工智能等）进行数据库系统部署、源码修改与性能调优，完成大赛要求的 PolarDB 数据库系统搭建，探索使用向量索引加速向量查询。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532409/introduction"><![CDATA[<h3>Description</h3>大赛要求各参赛队具备综合运用各种知识（包括但不局限于数据库系统、数据结构与算法、操作系统、人工智能等）进行数据库系统部署、源码修改与性能调优，完成大赛要求的 PolarDB 数据库系统搭建，探索使用向量索引加速向量查询。<h3>Deadline: 2025-12-04T23:59:59+08:00</h3><h3>Reward: ￥250000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532409/introduction"><![CDATA[<h3>Description</h3>大赛要求各参赛队具备综合运用各种知识（包括但不局限于数据库系统、数据结构与算法、操作系统、人工智能等）进行数据库系统部署、源码修改与性能调优，完成大赛要求的 PolarDB 数据库系统搭建，探索使用向量索引加速向量查询。<h3>Deadline: 2026-01-05T23:59:59+08:00</h3><h3>Reward: ￥250000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
