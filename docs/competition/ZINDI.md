@@ -2,7 +2,7 @@
 
 
 
-## The AI Telco Troubleshooting Challenge <sup style="color:red">[new]<sup>  
+## The AI Telco Troubleshooting Challenge
 
 Link: https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge  
 Description: Can your fine-tuned LLM detect and explain unseen network failures?  
