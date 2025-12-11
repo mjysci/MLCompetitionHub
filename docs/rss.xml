@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-12-10T16:00:16+08:00</updated>
+    <updated>2025-12-11T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -377,6 +377,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532441/introduction</id>
+        <title><![CDATA[阿里云ESA Pages 边缘开发大赛(赛季 1)]]></title>
+        
+        <updated>2025-12-10T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532441/introduction"/>
+        <summary>“阿里云ESA Pages 边缘开发大赛”是阿里云边缘安全加速ESA依托天池大赛平台主办的前沿技术赛事。聚焦边缘计算、AI与前端工程的深度融合，让代码和AI在边缘绽放。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532441/introduction"><![CDATA[<h3>Description</h3>“阿里云ESA Pages 边缘开发大赛”是阿里云边缘安全加速ESA依托天池大赛平台主办的前沿技术赛事。聚焦边缘计算、AI与前端工程的深度融合，让代码和AI在边缘绽放。<h3>Deadline: 2026-01-23T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532415/introduction</id>
         <title><![CDATA[乐聚机器人第一届具身智能操作任务挑战赛&amp;创业启航营(赛季 1)]]></title>
         
@@ -519,20 +533,6 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover</id>
-        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover]]></title>
-        
-        <updated>2025-09-05T21:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"/>
-        <summary>Can you tell great data stories about climate impacts on forest cover change in Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impacts on forest cover change in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall</id>
         <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall]]></title>
         
@@ -541,6 +541,20 @@
         <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall"/>
         <summary>Can you tell great data stories about climate impacts on rainfall reliability in Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impacts on rainfall reliability in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover</id>
+        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover]]></title>
+        
+        <updated>2025-09-05T21:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"/>
+        <summary>Can you tell great data stories about climate impacts on forest cover change in Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impacts on forest cover change in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
