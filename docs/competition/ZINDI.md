@@ -10,6 +10,14 @@ Deadline: 2025-12-28T08:15:00+0800
 Reward: €8 250 EUR  
 
 
+## EY Urban Heat Island Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/urban-heat-island-challenge  
+Description: Can you use geospatial data to categorise UHI intensity?  
+Deadline: 2026-01-16T19:59:00+0800  
+Reward: $3 500 USD  
+
+
 ## Farm to Feed Shopping Basket Recommendation Challenge
 
 Link: https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge  
@@ -34,6 +42,14 @@ Deadline: 2026-02-02T07:59:00+0800
 Reward: €35 000 EUR  
 
 
+## data.org Financial Health Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge  
+Description: Can you predict the financial well-being of small businesses?  
+Deadline: 2026-03-01T07:59:00+0800  
+Reward: $1 500 USD  
+
+
 ## Measuring What Matters Proposal Challenge by ITU
 
 Link: https://zindi.africa/competitions/measuring-what-matters-proposal-challenge  
@@ -48,22 +64,6 @@ Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue
 Description: Can you determine host-microbiome interactions in metagenomic data?  
 Deadline: 2025-11-03T08:15:00+0800  
 Reward: $5 000 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
-Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
-Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
 
 
 ## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
@@ -82,10 +82,26 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
+## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
+Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
 ## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover  
 Description: Can you tell great data stories about climate impacts on forest cover change in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
+Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
@@ -144,20 +160,4 @@ Link: https://zindi.africa/competitions/combating-food-insecurity-in-somalia
 Description: Combating Food Insecurity in Somalia  
 Deadline: 2025-09-04T02:59:00+0800  
 Reward: Awards at PyCon Somalia  
-
-
-## Classification for Landslide Detection
-
-Link: https://zindi.africa/competitions/classification-for-landslide-detection  
-Description: Can you create a classification model to identify landslides?  
-Deadline: 2025-08-04T08:15:00+0800  
-Reward: 1 000 CHF  
-
-
-## The ARC Challenge: Africa
-
-Link: https://zindi.africa/competitions/the-arc-challenge-africa  
-Description: Build models that can actually reason and win a trip to Deep Learning Indaba 2025  
-Deadline: 2025-08-01T01:00:00+0800  
-Reward: Flights to DLI  
 
