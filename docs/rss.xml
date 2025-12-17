@@ -3,26 +3,12 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2025-12-16T16:00:02+08:00</updated>
+    <updated>2025-12-17T16:00:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/1419</id>
-        <title><![CDATA[星河超级个体Hackathon]]></title>
-        
-        <updated>2025-10-24T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1419"/>
-        <summary>星河超级个体Hackathon诚邀您的参与，由文心大模型、文心快码、百度风投联合发起，期待开发者、创业者、创作者在真实场景中，用AI创造出可落地、可运行的产品原型，用想象力来创造AI真正的现实影响力。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1419"><![CDATA[<h3>Description</h3>星河超级个体Hackathon诚邀您的参与，由文心大模型、文心快码、百度风投联合发起，期待开发者、创业者、创作者在真实场景中，用AI创造出可落地、可运行的产品原型，用想象力来创造AI真正的现实影响力。<h3>Deadline: 2025-12-16T08:00:00+08:00</h3><h3>Reward: ¥100000奖励池</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
     
     
     
@@ -575,14 +561,14 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security</id>
-        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security]]></title>
+        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover</id>
+        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover]]></title>
         
         <updated>2025-09-05T21:00:00+08:00</updated>
         
-        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security"/>
-        <summary>Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security"><![CDATA[<h3>Description</h3>Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
+        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"/>
+        <summary>Can you tell great data stories about climate impacts on forest cover change in Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impacts on forest cover change in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -603,14 +589,14 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover</id>
-        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover]]></title>
+        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security</id>
+        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security]]></title>
         
         <updated>2025-09-05T21:00:00+08:00</updated>
         
-        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"/>
-        <summary>Can you tell great data stories about climate impacts on forest cover change in Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impacts on forest cover change in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
+        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security"/>
+        <summary>Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security"><![CDATA[<h3>Description</h3>Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
