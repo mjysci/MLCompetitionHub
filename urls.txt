@@ -1472,3 +1472,4 @@ https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-ch
 https://tianchi.aliyun.com/competition/entrance/532441/introduction
 https://zindi.africa/competitions/urban-heat-island-challenge
 https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge
+https://zindi.africa/competitions/ey-water-quality-forecasting-challenge
