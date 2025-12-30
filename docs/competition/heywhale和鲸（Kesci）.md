@@ -1,11 +1,3 @@
 # heywhale和鲸（Kesci）
 
-
-
-## 餐品图像分类模型征集
-
-Link: https://www.kesci.com/home/competition/691ec93aa98fe33b7c70d962  
-Description: 餐品图像分类模型征集  
-Deadline: 2025-12-30T00:00:00+0800  
-Reward: ¥ 20,000  
-
+> 该平台暂无进行中的比赛！
