@@ -26,20 +26,20 @@ Deadline: 2026-01-26T08:15:00+0800
 Reward: $11 000 USD  
 
 
-## UNIDO AfricaRice Quality Assessment Challenge
-
-Link: https://zindi.africa/competitions/unido-africarice-quality-assessment-challenge  
-Description: Can your computer vision model assess rice quality for Ghanaian farmers?  
-Deadline: 2026-02-02T07:59:00+0800  
-Reward: $5 000 USD  
-
-
 ## The AI Telco Troubleshooting Challenge
 
 Link: https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge  
 Description: Can your fine-tuned LLM detect and explain unseen network failures?  
 Deadline: 2026-02-02T07:59:00+0800  
 Reward: €35 000 EUR  
+
+
+## UNIDO AfricaRice Quality Assessment Challenge
+
+Link: https://zindi.africa/competitions/unido-africarice-quality-assessment-challenge  
+Description: Can your computer vision model assess rice quality for Ghanaian farmers?  
+Deadline: 2026-02-02T07:59:00+0800  
+Reward: $5 000 USD  
 
 
 ## data.org Financial Health Prediction Challenge
