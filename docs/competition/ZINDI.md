@@ -82,18 +82,18 @@ Deadline: 2025-11-03T08:15:00+0800
 Reward: $5 000 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
-Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
 Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
+Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
