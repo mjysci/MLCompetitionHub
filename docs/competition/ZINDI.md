@@ -74,14 +74,6 @@ Deadline: 2025-11-22T06:00:00+0800
 Reward: 1 000 CHF  
 
 
-## MPEG-G: Decoding the Dialogue
-
-Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
-Description: Can you determine host-microbiome interactions in metagenomic data?  
-Deadline: 2025-11-03T08:15:00+0800  
-Reward: $5 000 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
@@ -106,10 +98,10 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall
+## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
 
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
-Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
+Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
@@ -122,12 +114,20 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
+## Adaptation Atlas Data Storytelling Challenge (Track 5): Rainfall
 
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
-Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-5-rainfall  
+Description: Can you tell great data stories about climate impacts on rainfall reliability in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
+
+
+## MPEG-G: Decoding the Dialogue
+
+Link: https://zindi.africa/competitions/mpeg-g-decoding-the-dialogue  
+Description: Can you determine host-microbiome interactions in metagenomic data?  
+Deadline: 2025-11-03T08:15:00+0800  
+Reward: $5 000 USD  
 
 
 ## Barbados Lands and Surveys Plot Automation Challenge
