@@ -2,14 +2,6 @@
 
 
 
-## EY Urban Heat Island Challenge
-
-Link: https://zindi.africa/competitions/urban-heat-island-challenge  
-Description: Can you use geospatial data to categorise UHI intensity?  
-Deadline: 2026-01-17T08:15:00+0800  
-Reward: $3 500 USD  
-
-
 ## Farm to Feed Shopping Basket Recommendation Challenge
 
 Link: https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge  
@@ -56,6 +48,14 @@ Link: https://zindi.africa/competitions/ey-water-quality-forecasting-challenge
 Description: Can you use satellite imagery, weather, and environmental data to forecast water quality?  
 Deadline: 2026-03-14T06:59:00+0800  
 Reward: $10 000 USD  
+
+
+## EY Urban Heat Island Challenge
+
+Link: https://zindi.africa/competitions/urban-heat-island-challenge  
+Description: Can you use geospatial data to categorise UHI intensity?  
+Deadline: 2026-01-17T08:15:00+0800  
+Reward: $3 500 USD  
 
 
 ## agriBORA Commodity Price Forecasting Challenge
@@ -106,18 +106,18 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
-Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
 Description: Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
+Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
