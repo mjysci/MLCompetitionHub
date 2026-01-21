@@ -2,14 +2,6 @@
 
 
 
-## Farm to Feed Shopping Basket Recommendation Challenge
-
-Link: https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge  
-Description: Can you predict future shopping baskets to recommend better fresh produce purchases?  
-Deadline: 2026-01-20T08:15:00+0800  
-Reward: €8 250 EUR  
-
-
 ## Barbados Traffic Analysis Challenge
 
 Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
@@ -50,6 +42,14 @@ Deadline: 2026-03-14T06:59:00+0800
 Reward: $10 000 USD  
 
 
+## Farm to Feed Shopping Basket Recommendation Challenge
+
+Link: https://zindi.africa/competitions/farm-to-feed-shopping-basket-recommendation-challenge  
+Description: Can you predict future shopping baskets to recommend better fresh produce purchases?  
+Deadline: 2026-01-20T08:15:00+0800  
+Reward: €8 250 EUR  
+
+
 ## EY Urban Heat Island Challenge
 
 Link: https://zindi.africa/competitions/urban-heat-island-challenge  
@@ -74,6 +74,14 @@ Deadline: 2025-11-22T06:00:00+0800
 Reward: 1 000 CHF  
 
 
+## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
+Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
 ## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
@@ -86,14 +94,6 @@ Reward: $1 500 USD
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
 Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
-Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
