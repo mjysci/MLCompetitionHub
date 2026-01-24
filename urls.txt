@@ -1476,3 +1476,4 @@ https://zindi.africa/competitions/ey-water-quality-forecasting-challenge
 https://zindi.africa/competitions/unido-africarice-quality-assessment-challenge
 https://tianchi.aliyun.com/competition/entrance/532449/introduction
 https://tianchi.aliyun.com/competition/entrance/532448/introduction
+https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge

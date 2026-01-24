@@ -26,6 +26,14 @@ Deadline: 2026-02-02T08:15:00+0800
 Reward: $5 000 USD  
 
 
+## DigiCow Farmer Training Adoption Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge  
+Description: Can you predict which farmers will turn training into action?  
+Deadline: 2026-03-01T05:59:00+0800  
+Reward: €8 250 EUR  
+
+
 ## data.org Financial Health Prediction Challenge
 
 Link: https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge  
@@ -74,26 +82,18 @@ Deadline: 2025-11-22T06:00:00+0800
 Reward: 1 000 CHF  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
-Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
-Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
 Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
+Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
@@ -118,6 +118,14 @@ Reward: $1 500 USD
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
 Description: Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
+Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
@@ -151,13 +159,5 @@ Reward: $2 500 USD
 Link: https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments  
 Description: Can you develop an accurate and cost-effective method for cropland mapping?  
 Deadline: 2025-09-29T07:59:00+0800  
-Reward: 1 000 CHF  
-
-
-## Your Voice, Your Device, Your Language Challenge
-
-Link: https://zindi.africa/competitions/your-voice-your-device-your-language-challenge  
-Description: Can you build a Swahili ASR solution to give a voice to 100 million people?  
-Deadline: 2025-09-22T08:15:00+0800  
 Reward: 1 000 CHF  
 
