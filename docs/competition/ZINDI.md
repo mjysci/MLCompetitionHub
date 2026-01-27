@@ -2,14 +2,6 @@
 
 
 
-## Barbados Traffic Analysis Challenge
-
-Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
-Description: Can you predict traffic flow to identify the root causes of traffic in a Barbados roundabout?  
-Deadline: 2026-01-26T08:15:00+0800  
-Reward: $11 000 USD  
-
-
 ## The AI Telco Troubleshooting Challenge
 
 Link: https://zindi.africa/competitions/the-ai-telco-troubleshooting-challenge  
@@ -42,12 +34,20 @@ Deadline: 2026-03-01T07:59:00+0800
 Reward: $1 500 USD  
 
 
-## 2026 EY AI & Data Challenge: Optimizing Clean Water Supply <sup style="color:red">[new]<sup>  
+## 2026 EY AI & Data Challenge: Optimizing Clean Water Supply
 
 Link: https://zindi.africa/competitions/ey-water-quality-forecasting-challenge  
 Description: Can you use satellite imagery, weather, and environmental data to forecast water quality?  
 Deadline: 2026-03-14T06:59:00+0800  
 Reward: $10 000 USD  
+
+
+## Barbados Traffic Analysis Challenge
+
+Link: https://zindi.africa/competitions/barbados-traffic-analysis-challenge  
+Description: Can you predict traffic flow to identify the root causes of traffic in a Barbados roundabout?  
+Deadline: 2026-01-26T08:15:00+0800  
+Reward: $11 000 USD  
 
 
 ## Farm to Feed Shopping Basket Recommendation Challenge
@@ -90,6 +90,14 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
+## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
+Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
 ## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover  
@@ -106,14 +114,6 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
-Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
@@ -122,10 +122,10 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
+## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
 
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
-Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
+Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
