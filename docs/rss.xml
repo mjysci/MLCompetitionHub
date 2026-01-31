@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-01-30T16:22:50+08:00</updated>
+    <updated>2026-01-31T16:01:25+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -429,6 +429,20 @@
     </entry>
     
     <entry>
+        <id>https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge</id>
+        <title><![CDATA[Rhea Soil Nutrient Prediction Challenge]]></title>
+        
+        <updated>2026-02-04T23:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge"/>
+        <summary>Can you predict soil nutrient content when lab tests aren’t an option?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge"><![CDATA[<h3>Description</h3>Can you predict soil nutrient content when lab tests aren’t an option?<h3>Deadline: 2026-03-07T05:59:00+08:00</h3><h3>Reward: €8 250 EUR</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/ey-water-quality-forecasting-challenge</id>
         <title><![CDATA[2026 EY AI &amp; Data Challenge: Optimizing Clean Water Supply]]></title>
         
@@ -513,34 +527,6 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases</id>
-        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases]]></title>
-        
-        <updated>2025-09-05T21:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases"/>
-        <summary>Can you tell great data stories about the climate–infectious disease nexus in Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases"><![CDATA[<h3>Description</h3>Can you tell great data stories about the climate–infectious disease nexus in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases</id>
-        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases]]></title>
-        
-        <updated>2025-09-05T21:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases"/>
-        <summary>Can you tell great data stories about climate impact on crop pests and diseases in Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impact on crop pests and diseases in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover</id>
         <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover]]></title>
         
@@ -555,14 +541,14 @@
     </entry>
     
     <entry>
-        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health</id>
-        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health]]></title>
+        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases</id>
+        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases]]></title>
         
         <updated>2025-09-05T21:00:00+08:00</updated>
         
-        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health"/>
-        <summary>Can you tell great data stories about climate impact on water security, agriculture and health in Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impact on water security, agriculture and health in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
+        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases"/>
+        <summary>Can you tell great data stories about the climate–infectious disease nexus in Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases"><![CDATA[<h3>Description</h3>Can you tell great data stories about the climate–infectious disease nexus in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -583,6 +569,20 @@
     </entry>
     
     <entry>
+        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases</id>
+        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases]]></title>
+        
+        <updated>2025-09-05T21:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases"/>
+        <summary>Can you tell great data stories about climate impact on crop pests and diseases in Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impact on crop pests and diseases in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security</id>
         <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security]]></title>
         
@@ -591,6 +591,20 @@
         <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security"/>
         <summary>Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security"><![CDATA[<h3>Description</h3>Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health</id>
+        <title><![CDATA[Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health]]></title>
+        
+        <updated>2025-09-05T21:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health"/>
+        <summary>Can you tell great data stories about climate impact on water security, agriculture and health in Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health"><![CDATA[<h3>Description</h3>Can you tell great data stories about climate impact on water security, agriculture and health in Africa?<h3>Deadline: 2025-11-03T19:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -633,20 +647,6 @@
         <link href="https://zindi.africa/competitions/ghana-indigenous-intel-challenge"/>
         <summary>Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/ghana-indigenous-intel-challenge"><![CDATA[<h3>Description</h3>Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?<h3>Deadline: 2025-10-13T07:59:00+08:00</h3><h3>Reward: $2 500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments</id>
-        <title><![CDATA[GEOAI Challenge for Cropland Mapping in Dry Environments ]]></title>
-        
-        <updated>2025-07-02T18:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments"/>
-        <summary>Can you develop an accurate and cost-effective method for cropland mapping?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments"><![CDATA[<h3>Description</h3>Can you develop an accurate and cost-effective method for cropland mapping?<h3>Deadline: 2025-09-29T07:59:00+08:00</h3><h3>Reward: 1 000 CHF</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

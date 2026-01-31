@@ -34,6 +34,14 @@ Deadline: 2026-03-01T07:59:00+0800
 Reward: $1 500 USD  
 
 
+## Rhea Soil Nutrient Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge  
+Description: Can you predict soil nutrient content when lab tests aren’t an option?  
+Deadline: 2026-03-07T05:59:00+0800  
+Reward: €8 250 EUR  
+
+
 ## 2026 EY AI & Data Challenge: Optimizing Clean Water Supply
 
 Link: https://zindi.africa/competitions/ey-water-quality-forecasting-challenge  
@@ -82,22 +90,6 @@ Deadline: 2025-11-22T06:00:00+0800
 Reward: 1 000 CHF  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
-Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
-## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
-
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
-Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
-Deadline: 2025-11-03T19:59:00+0800  
-Reward: $1 500 USD  
-
-
 ## Adaptation Atlas Data Storytelling Challenge (Track 6): Forest Cover
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-6-forest-cover  
@@ -106,10 +98,10 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
-## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
+## Adaptation Atlas Data Storytelling Challenge (Track 4): Infectious Diseases
 
-Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
-Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases  
+Description: Can you tell great data stories about the climate–infectious disease nexus in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
@@ -122,10 +114,26 @@ Deadline: 2025-11-03T19:59:00+0800
 Reward: $1 500 USD  
 
 
+## Adaptation Atlas Data Storytelling Challenge (Track 2): Crop Pests and Diseases
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-2-crop-pests-and-diseases  
+Description: Can you tell great data stories about climate impact on crop pests and diseases in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
 ## Adaptation Atlas Data Storytelling Challenge (Track 3): Soil Health and Food Security
 
 Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-3-soil-health-and-food-security  
 Description: Can you tell great data stories about the climate impacts on soil health, agricultural resilience, and food security in Africa?  
+Deadline: 2025-11-03T19:59:00+0800  
+Reward: $1 500 USD  
+
+
+## Adaptation Atlas Data Storytelling Challenge (Track 1): Water Security, Agriculture and Health
+
+Link: https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-1-water-security-agriculture-and-health  
+Description: Can you tell great data stories about climate impact on water security, agriculture and health in Africa?  
 Deadline: 2025-11-03T19:59:00+0800  
 Reward: $1 500 USD  
 
@@ -152,12 +160,4 @@ Link: https://zindi.africa/competitions/ghana-indigenous-intel-challenge
 Description: Can you forecast rainfall based on Ghanaian farmers’ indigenous weather wisdom?  
 Deadline: 2025-10-13T07:59:00+0800  
 Reward: $2 500 USD  
-
-
-## GEOAI Challenge for Cropland Mapping in Dry Environments 
-
-Link: https://zindi.africa/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments  
-Description: Can you develop an accurate and cost-effective method for cropland mapping?  
-Deadline: 2025-09-29T07:59:00+0800  
-Reward: 1 000 CHF  
 
