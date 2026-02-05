@@ -1478,3 +1478,5 @@ https://tianchi.aliyun.com/competition/entrance/532449/introduction
 https://tianchi.aliyun.com/competition/entrance/532448/introduction
 https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge
 https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge
+https://tianchi.aliyun.com/competition/entrance/532451/introduction
+https://tianchi.aliyun.com/competition/entrance/532450/introduction
