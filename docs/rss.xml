@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-02-20T16:29:34+08:00</updated>
+    <updated>2026-02-21T16:03:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -211,6 +211,120 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/6965c34c37fbb228758a01e3"><![CDATA[<h3>Description</h3>首届雅安人机气象预报挑战赛（YHMFC 2026）<h3>Deadline: 2026-09-30T23:59:00+08:00</h3><h3>Reward: 总奖金池 ¥ 500,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532445/introduction</id>
+        <title><![CDATA[第一届国际工程智能大赛-自由创新赛道：以智慧拓展工程边界，勇做工程领域的先行者(赛季 1)]]></title>
+        
+        <updated>2025-11-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532445/introduction"/>
+        <summary>本挑战赛的目标是：
+● 激发自主创新： 鼓励参赛者自主发现工程领域的痛点，并提出原创性AI解决方案。
+● 拓展应用边界： 探索人工智能在更广阔工程领域的应用潜力。
+● 孵化颠覆性方案： 发现并支持具有前瞻性、突破性，甚至可能改变行业格局的智能工程项目。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532445/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：
+● 激发自主创新： 鼓励参赛者自主发现工程领域的痛点，并提出原创性AI解决方案。
+● 拓展应用边界： 探索人工智能在更广阔工程领域的应用潜力。
+● 孵化颠覆性方案： 发现并支持具有前瞻性、突破性，甚至可能改变行业格局的智能工程项目。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532444/introduction</id>
+        <title><![CDATA[第一届国际工程智能大赛-交通工程赛道：面向高韧性交通系统的智能粒流协同挑战赛(赛季 1)]]></title>
+        
+        <updated>2025-11-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532444/introduction"/>
+        <summary>本挑战赛的目标是：研发能够服务于真实城市交通场景的智能化协同控制方案，将交通管理从“被动响应”升级为“主动引导”，推动智慧交通走向高效、安全与深度协同的新阶段。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532444/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：研发能够服务于真实城市交通场景的智能化协同控制方案，将交通管理从“被动响应”升级为“主动引导”，推动智慧交通走向高效、安全与深度协同的新阶段。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532443/introduction</id>
+        <title><![CDATA[第一届国际工程智能大赛-土木工程赛道：桥梁结构关键构件智能网格生成挑战赛(赛季 1)]]></title>
+        
+        <updated>2025-11-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532443/introduction"/>
+        <summary>本挑战赛的目标是：研发能够服务于真实桥梁工程场景的智能化网格生成方案，将工程师从繁琐、重复的网格划分工作中解放出来，推动高保真结构分析走向高效、可靠与自动化的新阶段。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532443/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：研发能够服务于真实桥梁工程场景的智能化网格生成方案，将工程师从繁琐、重复的网格划分工作中解放出来，推动高保真结构分析走向高效、可靠与自动化的新阶段。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532451/introduction</id>
+        <title><![CDATA[IEEE AICAS 2026 Grand Challenge - 端侧VLM推理FPGA软硬件系统设计赛道(赛季 1)]]></title>
+        
+        <updated>2026-02-03T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532451/introduction"/>
+        <summary>VLM正在改变人机交互，但在边缘端部署面临算力与功耗挑战。本赛道聚焦轻量化开源模型SmolVLM2，旨在利用FPGA硬件加速能力，在KV260平台上设计专用计算架构。通过软硬件协同优化，挖掘模型性能极限，为视觉语言模型在真实场景的落地提供高效的端侧解决方案。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532451/introduction"><![CDATA[<h3>Description</h3>VLM正在改变人机交互，但在边缘端部署面临算力与功耗挑战。本赛道聚焦轻量化开源模型SmolVLM2，旨在利用FPGA硬件加速能力，在KV260平台上设计专用计算架构。通过软硬件协同优化，挖掘模型性能极限，为视觉语言模型在真实场景的落地提供高效的端侧解决方案。<h3>Deadline: 2026-04-18T23:59:59+08:00</h3><h3>Reward: $3550</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532450/introduction</id>
+        <title><![CDATA[IEEE AICAS 2026 Grand Challenge - 面向AI芯片的VLM高效推理与优化赛道(赛季 1)]]></title>
+        
+        <updated>2026-02-03T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532450/introduction"/>
+        <summary>本赛道聚焦于将先进的多模态大模型高效部署于边缘计算平台。参赛者需基于通义千问Qwen3-VL-2B-Instruct模型，在阿里云APG服务器上进行模型推理优化与部署实践，系统探索并提升模型在特定硬件上的性能。赛题鼓励从算法压缩到系统级优化全栈技术方案的创新，旨在推动视觉语言模型在边缘计算场景的落地，并培养具备软硬件协同优化能力的跨学科人才。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532450/introduction"><![CDATA[<h3>Description</h3>本赛道聚焦于将先进的多模态大模型高效部署于边缘计算平台。参赛者需基于通义千问Qwen3-VL-2B-Instruct模型，在阿里云APG服务器上进行模型推理优化与部署实践，系统探索并提升模型在特定硬件上的性能。赛题鼓励从算法压缩到系统级优化全栈技术方案的创新，旨在推动视觉语言模型在边缘计算场景的落地，并培养具备软硬件协同优化能力的跨学科人才。<h3>Deadline: 2026-04-30T23:59:59+08:00</h3><h3>Reward: $3550</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532449/introduction</id>
+        <title><![CDATA[“寻找AI全能王”阿里云 Data+AI 工程师全球大奖赛：企业赛道(赛季 1)]]></title>
+        
+        <updated>2026-01-11T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532449/introduction"/>
+        <summary>这是一场属于AI工程师的硬核较量  
+由 阿里云主办、NVIDIA 协办，计算平台事业部 × 天池平台 联合承办，面向全球高校学生、企业开发者与科研团队的高规格工业级 Data + AI 创新赛事！
+依托阿里云大数据 AI 平台，聚焦数据智能与人工智能深度融合，推动 AI 原生应用规模化落地——用代码驱动变革，用数据释放智能。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532449/introduction"><![CDATA[<h3>Description</h3>这是一场属于AI工程师的硬核较量  
+由 阿里云主办、NVIDIA 协办，计算平台事业部 × 天池平台 联合承办，面向全球高校学生、企业开发者与科研团队的高规格工业级 Data + AI 创新赛事！
+依托阿里云大数据 AI 平台，聚焦数据智能与人工智能深度融合，推动 AI 原生应用规模化落地——用代码驱动变革，用数据释放智能。<h3>Deadline: 2026-03-20T23:59:59+08:00</h3><h3>Reward: ￥90000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532448/introduction</id>
+        <title><![CDATA[“寻找AI全能王”阿里云 Data+AI 工程师全球大奖赛：高校赛道(赛季 1)]]></title>
+        
+        <updated>2026-01-11T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532448/introduction"/>
+        <summary>这是一场属于AI工程师的硬核较量  
+由 阿里云主办、NVIDIA 协办，计算平台事业部 × 天池平台 联合承办，面向全球高校学生、企业开发者与科研团队的高规格工业级 Data + AI 创新赛事！
+依托阿里云大数据 AI 平台，聚焦数据智能与人工智能深度融合，推动 AI 原生应用规模化落地——用代码驱动变革，用数据释放智能。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532448/introduction"><![CDATA[<h3>Description</h3>这是一场属于AI工程师的硬核较量  
+由 阿里云主办、NVIDIA 协办，计算平台事业部 × 天池平台 联合承办，面向全球高校学生、企业开发者与科研团队的高规格工业级 Data + AI 创新赛事！
+依托阿里云大数据 AI 平台，聚焦数据智能与人工智能深度融合，推动 AI 原生应用规模化落地——用代码驱动变革，用数据释放智能。<h3>Deadline: 2026-03-20T23:59:59+08:00</h3><h3>Reward: ￥170000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
