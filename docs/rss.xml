@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-02-24T16:32:24+08:00</updated>
+    <updated>2026-02-25T16:34:15+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -259,6 +259,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532443/introduction"/>
         <summary>本挑战赛的目标是：研发能够服务于真实桥梁工程场景的智能化网格生成方案，将工程师从繁琐、重复的网格划分工作中解放出来，推动高保真结构分析走向高效、可靠与自动化的新阶段。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532443/introduction"><![CDATA[<h3>Description</h3>本挑战赛的目标是：研发能够服务于真实桥梁工程场景的智能化网格生成方案，将工程师从繁琐、重复的网格划分工作中解放出来，推动高保真结构分析走向高效、可靠与自动化的新阶段。<h3>Deadline: 2026-05-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532460/introduction</id>
+        <title><![CDATA[余震预测技术国际大赛(赛季 1)]]></title>
+        
+        <updated>2026-01-28T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532460/introduction"/>
+        <summary>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532460/introduction"><![CDATA[<h3>Description</h3>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。<h3>Deadline: 2026-11-30T23:59:59+08:00</h3><h3>Reward: $30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

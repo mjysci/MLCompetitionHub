@@ -1481,3 +1481,4 @@ https://zindi.africa/competitions/rhea-soil-nutrient-prediction-challenge
 https://tianchi.aliyun.com/competition/entrance/532451/introduction
 https://tianchi.aliyun.com/competition/entrance/532450/introduction
 https://www.kesci.com/home/competition/6965c34c37fbb228758a01e3
+https://tianchi.aliyun.com/competition/entrance/532460/introduction
