@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-03-09T16:30:35+08:00</updated>
+    <updated>2026-03-10T16:26:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -215,6 +215,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532462/introduction</id>
+        <title><![CDATA[“千模百炼”全球AI开发者系列锦标赛：OpenClaw养虾挑战赛(赛季 1)]]></title>
+        
+        <updated>2026-03-09T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532462/introduction"/>
+        <summary>我们向全球极客与开发者征集 OpenClaw 的创新实践，让我们一起，用代码重塑AI！</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532462/introduction"><![CDATA[<h3>Description</h3>我们向全球极客与开发者征集 OpenClaw 的创新实践，让我们一起，用代码重塑AI！<h3>Deadline: 2026-04-15T23:59:59+08:00</h3><h3>Reward: ￥15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532445/introduction</id>
