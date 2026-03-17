@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-03-16T16:43:27+08:00</updated>
+    <updated>2026-03-17T16:37:32+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -195,6 +195,62 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1166</id>
+        <title><![CDATA[“猎鹰·微波智探”—雷达多目标智能探测与识别挑战]]></title>
+        
+        <updated>2026-03-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1166"/>
+        <summary>“猎鹰·微波智探”—雷达多目标智能探测与识别挑战</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1166"><![CDATA[<h3>Description</h3>“猎鹰·微波智探”—雷达多目标智能探测与识别挑战<h3>Deadline: 2026-06-20T23:59:59+08:00</h3><h3>Reward: ￥145000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1165</id>
+        <title><![CDATA[具有多模态能力的客服智能体设计]]></title>
+        
+        <updated>2026-03-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1165"/>
+        <summary>具有多模态能力的客服智能体设计</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1165"><![CDATA[<h3>Description</h3>具有多模态能力的客服智能体设计<h3>Deadline: 2026-06-20T23:59:59+08:00</h3><h3>Reward: ￥145000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1164</id>
+        <title><![CDATA[红外智感—红外开放世界全模态分割挑战]]></title>
+        
+        <updated>2026-03-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1164"/>
+        <summary>红外智感—红外开放世界全模态分割挑战</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1164"><![CDATA[<h3>Description</h3>红外智感—红外开放世界全模态分割挑战<h3>Deadline: 2026-06-20T23:59:59+08:00</h3><h3>Reward: ￥145000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/1163</id>
+        <title><![CDATA[多模态感知融合增强的具身自主抓取任务挑战]]></title>
+        
+        <updated>2026-03-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/1163"/>
+        <summary>多模态感知融合增强的具身自主抓取任务挑战</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/1163"><![CDATA[<h3>Description</h3>多模态感知融合增强的具身自主抓取任务挑战<h3>Deadline: 2026-06-20T23:59:59+08:00</h3><h3>Reward: ￥145000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     
     
