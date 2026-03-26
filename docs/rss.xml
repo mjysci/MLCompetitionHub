@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-03-25T16:35:46+08:00</updated>
+    <updated>2026-03-26T16:38:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -265,6 +265,20 @@
         <link href="https://www.kesci.com/home/competition/6965c34c37fbb228758a01e3"/>
         <summary>首届雅安人机气象预报挑战赛（YHMFC 2026）</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/6965c34c37fbb228758a01e3"><![CDATA[<h3>Description</h3>首届雅安人机气象预报挑战赛（YHMFC 2026）<h3>Deadline: 2026-09-30T23:59:00+08:00</h3><h3>Reward: 总奖金池 ¥ 500,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/69c0dfa34f302f8f0122e1bb</id>
+        <title><![CDATA[2026年中国高校计算机大赛—大数据挑战赛]]></title>
+        
+        <updated>2026-03-26T10:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/69c0dfa34f302f8f0122e1bb"/>
+        <summary>2026年中国高校计算机大赛—大数据挑战赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/69c0dfa34f302f8f0122e1bb"><![CDATA[<h3>Description</h3>2026年中国高校计算机大赛—大数据挑战赛<h3>Deadline: 2026-09-30T00:00:00+08:00</h3><h3>Reward: ￥54,800 + 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>

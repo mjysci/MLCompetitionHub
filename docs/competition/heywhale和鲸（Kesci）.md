@@ -9,3 +9,11 @@ Description: 首届雅安人机气象预报挑战赛（YHMFC 2026）
 Deadline: 2026-09-30T23:59:00+0800  
 Reward: 总奖金池 ¥ 500,000  
 
+
+## 2026年中国高校计算机大赛—大数据挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/69c0dfa34f302f8f0122e1bb  
+Description: 2026年中国高校计算机大赛—大数据挑战赛  
+Deadline: 2026-09-30T00:00:00+0800  
+Reward: ￥54,800 + 获奖证书  
+
