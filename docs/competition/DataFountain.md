@@ -2,7 +2,7 @@
 
 
 
-## AI新睿人才“星探计划” <sup style="color:red">[new]<sup>  
+## AI新睿人才“星探计划”
 
 Link: https://www.datafountain.cn/competitions/1169  
 Description: AI新睿人才“星探计划”  
