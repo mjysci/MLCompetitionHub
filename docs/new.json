@@ -1,1 +1,1 @@
-[]
+[{"name": "2026CCl-第一届图像文本翻译质量评测（IITQA 2026）(赛季 1)", "url": "https://tianchi.aliyun.com/competition/entrance/532463/introduction", "description": "现有机器翻译评测指标（如BLEU、METEOR）仅关注文本准确性，无法衡量视觉呈现、排版布局、美学协调等关键维度。而人工评测成本高、主观性强、难以规模化。因此，亟需建立标准化、多维度、可自动化的图翻质量评测框架。\n为此，我们推出第一届图像文本翻译质量评测（In-Image Translation Quality Assessment 2025，简称 IITQA 2026），旨在\n聚焦于如何设计和训练能够从多个维度对图像翻译结果进行精准评分的自动评测系统，从而为该领域的技术进步提供可靠的度量工具。", "deadline": "2026-06-30T23:59:59+08:00", "reward": "￥40000", "start_time": "2026-03-20T00:00:00+08:00"}]
