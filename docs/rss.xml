@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-05-19T18:50:18+08:00</updated>
+    <updated>2026-05-20T18:38:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -323,20 +323,6 @@
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532463/introduction"><![CDATA[<h3>Description</h3>现有机器翻译评测指标（如BLEU、METEOR）仅关注文本准确性，无法衡量视觉呈现、排版布局、美学协调等关键维度。而人工评测成本高、主观性强、难以规模化。因此，亟需建立标准化、多维度、可自动化的图翻质量评测框架。
 为此，我们推出第一届图像文本翻译质量评测（In-Image Translation Quality Assessment 2025，简称 IITQA 2026），旨在
 聚焦于如何设计和训练能够从多个维度对图像翻译结果进行精准评分的自动评测系统，从而为该领域的技术进步提供可靠的度量工具。<h3>Deadline: 2026-06-30T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532451/introduction</id>
-        <title><![CDATA[IEEE AICAS 2026 Grand Challenge - 端侧VLM推理FPGA软硬件系统设计赛道(赛季 2)]]></title>
-        
-        <updated>2026-02-03T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532451/introduction"/>
-        <summary>VLM正在改变人机交互，但在边缘端部署面临算力与功耗挑战。本赛道聚焦轻量化开源模型SmolVLM2，旨在利用FPGA硬件加速能力，在KV260平台上设计专用计算架构。通过软硬件协同优化，挖掘模型性能极限，为视觉语言模型在真实场景的落地提供高效的端侧解决方案。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532451/introduction"><![CDATA[<h3>Description</h3>VLM正在改变人机交互，但在边缘端部署面临算力与功耗挑战。本赛道聚焦轻量化开源模型SmolVLM2，旨在利用FPGA硬件加速能力，在KV260平台上设计专用计算架构。通过软硬件协同优化，挖掘模型性能极限，为视觉语言模型在真实场景的落地提供高效的端侧解决方案。<h3>Deadline: 2026-06-06T23:59:59+08:00</h3><h3>Reward: $3550</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
