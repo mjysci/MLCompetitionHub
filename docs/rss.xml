@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-05-25T19:39:16+08:00</updated>
+    <updated>2026-05-27T19:23:38+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -247,6 +247,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532482/introduction</id>
+        <title><![CDATA[第七届CSIG图像图形技术挑战赛—复杂工业场景异常检测算法挑战赛(赛季 1)]]></title>
+        
+        <updated>2026-05-13T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532482/introduction"/>
+        <summary>CSIG图像图形技术挑战赛是由中国图像图形学会（CSIG）主办的系列赛事。本赛道为第七届CSIG图像图形技术挑战赛，由荣旗科技、CSIG视觉检测专委会承办，赛道基于业界极具挑战性的真实工业多视角数据集 Real-IAD Variety（160类，近20万图）。重点考察大模型在面对超大规模类别的异常分类与像素级缺陷分割能力，以及在遭遇全新产品冷启动时，模型在未见类别（零样本/Zero-Shot）上的极限泛化水平。总奖金池4万元，冠军将角逐CSIG挑战赛年度总决赛。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532482/introduction"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛是由中国图像图形学会（CSIG）主办的系列赛事。本赛道为第七届CSIG图像图形技术挑战赛，由荣旗科技、CSIG视觉检测专委会承办，赛道基于业界极具挑战性的真实工业多视角数据集 Real-IAD Variety（160类，近20万图）。重点考察大模型在面对超大规模类别的异常分类与像素级缺陷分割能力，以及在遭遇全新产品冷启动时，模型在未见类别（零样本/Zero-Shot）上的极限泛化水平。总奖金池4万元，冠军将角逐CSIG挑战赛年度总决赛。<h3>Deadline: 2026-09-30T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532467/introduction</id>
         <title><![CDATA[满帮集团Agent算法大赛：基于Agentic AI 的卡车司机连续找货决策(赛季 1)]]></title>
         
@@ -305,24 +319,6 @@
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532470/introduction"><![CDATA[<h3>Description</h3>中文古诗词具有高度凝练性和语言的音乐美，讲究对仗、平仄和押韵。为了准确理解古诗的语义，不仅需要掌握古诗的语言特色，还需要调动对历史、文化背景的知识，结合对古诗中所描绘的自然景象和人物情感的认知，从而进行综合性的推理与理解。
 
 为了进一步衡量模型在中文古诗词赏析场景中的语言理解深度与文化推理能力，我们推出第二届中文古诗词赏析评测。在第一届的基础上，本届评测进一步聚焦模型的深度理解与复杂推理能力，引入更具挑战性的高级任务，以全面考察模型对古诗词文化内涵与高层语义结构的掌握程度。<h3>Deadline: 2026-09-30T23:59:59+08:00</h3><h3>Reward: ￥6000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532463/introduction</id>
-        <title><![CDATA[CCL2026-Eval 任务：第一届图像文本翻译质量评测（IITQA 2026）(赛季 1)]]></title>
-        
-        <updated>2026-03-20T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532463/introduction"/>
-        <summary>现有机器翻译评测指标（如BLEU、METEOR）仅关注文本准确性，无法衡量视觉呈现、排版布局、美学协调等关键维度。而人工评测成本高、主观性强、难以规模化。因此，亟需建立标准化、多维度、可自动化的图翻质量评测框架。
-为此，我们推出第一届图像文本翻译质量评测（In-Image Translation Quality Assessment 2025，简称 IITQA 2026），旨在
-聚焦于如何设计和训练能够从多个维度对图像翻译结果进行精准评分的自动评测系统，从而为该领域的技术进步提供可靠的度量工具。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532463/introduction"><![CDATA[<h3>Description</h3>现有机器翻译评测指标（如BLEU、METEOR）仅关注文本准确性，无法衡量视觉呈现、排版布局、美学协调等关键维度。而人工评测成本高、主观性强、难以规模化。因此，亟需建立标准化、多维度、可自动化的图翻质量评测框架。
-为此，我们推出第一届图像文本翻译质量评测（In-Image Translation Quality Assessment 2025，简称 IITQA 2026），旨在
-聚焦于如何设计和训练能够从多个维度对图像翻译结果进行精准评分的自动评测系统，从而为该领域的技术进步提供可靠的度量工具。<h3>Deadline: 2026-06-30T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
