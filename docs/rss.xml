@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-06-07T18:19:06+08:00</updated>
+    <updated>2026-06-08T20:19:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -176,9 +176,9 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532467/introduction</id>
-        <title><![CDATA[满帮集团Agent算法大赛：基于Agentic AI 的卡车司机连续找货决策(赛季 2)]]></title>
+        <title><![CDATA[满帮集团Agent算法大赛：基于Agentic AI 的卡车司机连续找货决策(赛季 4)]]></title>
         
-        <updated>2026-06-01T00:00:00+08:00</updated>
+        <updated>2026-06-08T12:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532467/introduction"/>
         <summary>随着 AI 技术的快速演进，尤其是大模型（LLM）与 智能体（Agent）系统在复杂决策、连续优化和自主执行方面的突破，产业应用正从“单点能力提升”走向“全链路智能协同”。满帮集团依托其在货运物流领域的深厚业务积累与真实场景实践，举办本次 Agent 挑战赛，旨在搭建贴近真实业务的问题求解平台，在实践中提升智能体建模与决策优化能力，推动前沿 AI 技术在货运场景中的应用探索。
@@ -186,7 +186,7 @@
 本次赛事聚焦卡车司机在货运经营中的真实运营场景，鼓励参赛队伍开展智能体建模与策略优化，在业务约束下实现综合运营表现提升。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532467/introduction"><![CDATA[<h3>Description</h3>随着 AI 技术的快速演进，尤其是大模型（LLM）与 智能体（Agent）系统在复杂决策、连续优化和自主执行方面的突破，产业应用正从“单点能力提升”走向“全链路智能协同”。满帮集团依托其在货运物流领域的深厚业务积累与真实场景实践，举办本次 Agent 挑战赛，旨在搭建贴近真实业务的问题求解平台，在实践中提升智能体建模与决策优化能力，推动前沿 AI 技术在货运场景中的应用探索。
 
-本次赛事聚焦卡车司机在货运经营中的真实运营场景，鼓励参赛队伍开展智能体建模与策略优化，在业务约束下实现综合运营表现提升。<h3>Deadline: 2026-06-07T23:59:59+08:00</h3><h3>Reward: ￥217000</h3>]]></content>
+本次赛事聚焦卡车司机在货运经营中的真实运营场景，鼓励参赛队伍开展智能体建模与策略优化，在业务约束下实现综合运营表现提升。<h3>Deadline: 2026-06-16T12:00:00+08:00</h3><h3>Reward: ￥217000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -221,18 +221,72 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532470/introduction</id>
-        <title><![CDATA[CCL2026-Eval 任务：第二届古诗词赏析(赛季 1)]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/532490/introduction</id>
+        <title><![CDATA[AFAC2026挑战组-赛题二：复杂金融文档还原挑战(赛季 1)]]></title>
         
-        <updated>2026-04-28T00:00:00+08:00</updated>
+        <updated>2026-06-07T10:00:00+08:00</updated>
         
-        <link href="https://tianchi.aliyun.com/competition/entrance/532470/introduction"/>
-        <summary>中文古诗词具有高度凝练性和语言的音乐美，讲究对仗、平仄和押韵。为了准确理解古诗的语义，不仅需要掌握古诗的语言特色，还需要调动对历史、文化背景的知识，结合对古诗中所描绘的自然景象和人物情感的认知，从而进行综合性的推理与理解。
+        <link href="https://tianchi.aliyun.com/competition/entrance/532490/introduction"/>
+        <summary>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
 
-为了进一步衡量模型在中文古诗词赏析场景中的语言理解深度与文化推理能力，我们推出第二届中文古诗词赏析评测。在第一届的基础上，本届评测进一步聚焦模型的深度理解与复杂推理能力，引入更具挑战性的高级任务，以全面考察模型对古诗词文化内涵与高层语义结构的掌握程度。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532470/introduction"><![CDATA[<h3>Description</h3>中文古诗词具有高度凝练性和语言的音乐美，讲究对仗、平仄和押韵。为了准确理解古诗的语义，不仅需要掌握古诗的语言特色，还需要调动对历史、文化背景的知识，结合对古诗中所描绘的自然景象和人物情感的认知，从而进行综合性的推理与理解。
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532490/introduction"><![CDATA[<h3>Description</h3>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
 
-为了进一步衡量模型在中文古诗词赏析场景中的语言理解深度与文化推理能力，我们推出第二届中文古诗词赏析评测。在第一届的基础上，本届评测进一步聚焦模型的深度理解与复杂推理能力，引入更具挑战性的高级任务，以全面考察模型对古诗词文化内涵与高层语义结构的掌握程度。<h3>Deadline: 2026-09-30T23:59:59+08:00</h3><h3>Reward: ￥6000</h3>]]></content>
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。<h3>Deadline: 2026-07-21T23:59:59+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532489/introduction</id>
+        <title><![CDATA[AFAC2026挑战组-赛题一：市场参与者交易行为识别与资金流向分析(赛季 1)]]></title>
+        
+        <updated>2026-06-08T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532489/introduction"/>
+        <summary>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
+
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。同时，AFAC大赛也是“创·在上海”国际创新创业大赛的专题赛之一。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532489/introduction"><![CDATA[<h3>Description</h3>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
+
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。同时，AFAC大赛也是“创·在上海”国际创新创业大赛的专题赛之一。<h3>Deadline: 2026-07-08T23:59:59+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532487/introduction</id>
+        <title><![CDATA[AFAC2026挑战组-赛题三：稀疏反馈下的自动化实验挑战(赛季 1)]]></title>
+        
+        <updated>2026-06-08T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532487/introduction"/>
+        <summary>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
+
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。同时，AFAC大赛也是“创·在上海”国际创新创业大赛的专题赛之一。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532487/introduction"><![CDATA[<h3>Description</h3>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
+
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。同时，AFAC大赛也是“创·在上海”国际创新创业大赛的专题赛之一。<h3>Deadline: 2026-07-21T23:59:59+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532486/introduction</id>
+        <title><![CDATA[AFAC2026挑战组-赛题四：金融长文本Agent 的动态记忆压缩与高效问答挑战(赛季 1)]]></title>
+        
+        <updated>2026-06-06T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532486/introduction"/>
+        <summary>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
+
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。同时，AFAC大赛也是“创·在上海”国际创新创业大赛的专题赛之一。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532486/introduction"><![CDATA[<h3>Description</h3>在上海市科学技术委员会指导下，国内外30多家顶尖高校、学术机构和金融科技企业联合发起&amp;quot;AFAC2026金融智能创新大赛&amp;quot;。
+
+AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促真力，以金融行业内真实案例及海量真实数据为牵引，设立百万奖金池，鼓励业内外具有潜力的创新者积极参与，将赛事成果应用到实际产业中。同时，AFAC大赛也是“创·在上海”国际创新创业大赛的专题赛之一。<h3>Deadline: 2026-07-21T23:59:59+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
