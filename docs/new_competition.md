@@ -1,5 +1,11 @@
-> 更新时间: 2026-06-12T19:33:07+0800 
+> 更新时间: 2026-06-13T18:19:06+0800 
 
 # 新上线比赛
 
-> 暂无新上线比赛！
+
+## ICCSE 2026 Agentic AI Competition(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532493/introduction  
+Description: Agentic AI Competition 是 ICCSE 2026（第九届群智科学与工程国际会议）、Association for Crowd Science and Engineering (ACE)联合清华大学和南洋理工大学举办的一项竞赛活动。本竞赛鼓励学生、工程师和研究人员开发能够支持真实世界任务的智能体协同助手（agentic copilot）。  
+Deadline: 2026-06-28T23:59:59+0800  
+Reward: ￥14744  
+
