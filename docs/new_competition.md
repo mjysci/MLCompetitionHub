@@ -1,5 +1,17 @@
-> 更新时间: 2026-06-30T18:47:13+0800 
+> 更新时间: 2026-07-01T19:00:09+0800 
 
 # 新上线比赛
 
-> 暂无新上线比赛！
+
+## JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge
+Link: https://www.biendata.xyz/competition/jciiot/  
+Description: JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge  
+Deadline: 2026-09-01T08:00:00+0800  
+Reward: 94,000 RMB  
+
+## CCKS2026-任务七：大模型行为调控评测(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532479/introduction  
+Description: 近年来，围绕大模型知识调控的方法逐步形成体系，包括参数微调、检索增强（RAG）以及局部知识编辑等技术路径。在此基础上，steering（行为引导与调控）作为一种新技术，正受到越来越多关注。与直接修改模型参数不同，steering强调在推理阶段对模型行为进行动态引导与调控，即通过对中间表示或输出分布施加干预，实现对知识表达、事实生成及行为属性的精细控制，从而在不改变模型权重的前提下完成知识层面的“软编辑”。  
+Deadline: 2026-07-15T23:59:59+0800  
+Reward: ￥5000  
+
