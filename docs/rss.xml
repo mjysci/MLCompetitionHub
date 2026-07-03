@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-07-02T18:25:49+08:00</updated>
+    <updated>2026-07-03T18:22:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -70,50 +70,6 @@
     
     
     
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1169</id>
-        <title><![CDATA[AI新睿人才“星探计划”]]></title>
-        
-        <updated>2026-04-07T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1169"/>
-        <summary>AI新睿人才“星探计划”</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1169"><![CDATA[<h3>Description</h3>AI新睿人才“星探计划”<h3>Deadline: 2026-08-31T23:59:59+08:00</h3><h3>Reward: ￥90000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1166</id>
-        <title><![CDATA[“猎鹰·微波智探”—雷达多目标智能探测与识别挑战]]></title>
-        
-        <updated>2026-03-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1166"/>
-        <summary>“猎鹰·微波智探”—雷达多目标智能探测与识别挑战</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1166"><![CDATA[<h3>Description</h3>“猎鹰·微波智探”—雷达多目标智能探测与识别挑战<h3>Deadline: 2026-08-31T23:59:59+08:00</h3><h3>Reward: ￥145000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/1165</id>
-        <title><![CDATA[具有多模态能力的客服智能体设计]]></title>
-        
-        <updated>2026-03-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/1165"/>
-        <summary>具有多模态能力的客服智能体设计</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1165"><![CDATA[<h3>Description</h3>具有多模态能力的客服智能体设计<h3>Deadline: 2026-08-31T23:59:59+08:00</h3><h3>Reward: ￥145000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    
-    
     
     
     <entry>
@@ -145,6 +101,34 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532500/introduction</id>
+        <title><![CDATA[CSIG图像图形技术挑战赛-赛道二：生成式图像增强轻量模型设计挑战(赛季 1)]]></title>
+        
+        <updated>2026-07-01T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532500/introduction"/>
+        <summary>CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届&amp;quot;Camera学术之星&amp;quot;影像算法技术竞赛与研讨会。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532500/introduction"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届&amp;quot;Camera学术之星&amp;quot;影像算法技术竞赛与研讨会。<h3>Deadline: 2026-09-15T23:59:59+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532499/introduction</id>
+        <title><![CDATA[CSIG图像图形技术挑战赛-赛道一：生成式图像增强可控性挑战(赛季 1)]]></title>
+        
+        <updated>2026-07-03T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532499/introduction"/>
+        <summary>CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届&amp;quot;Camera学术之星&amp;quot;影像算法技术竞赛与研讨会。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532499/introduction"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届&amp;quot;Camera学术之星&amp;quot;影像算法技术竞赛与研讨会。<h3>Deadline: 2026-09-15T23:59:59+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532482/introduction</id>
@@ -245,34 +229,6 @@ AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促�
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532470/introduction"><![CDATA[<h3>Description</h3>中文古诗词具有高度凝练性和语言的音乐美，讲究对仗、平仄和押韵。为了准确理解古诗的语义，不仅需要掌握古诗的语言特色，还需要调动对历史、文化背景的知识，结合对古诗中所描绘的自然景象和人物情感的认知，从而进行综合性的推理与理解。
 
 为了进一步衡量模型在中文古诗词赏析场景中的语言理解深度与文化推理能力，我们推出第二届中文古诗词赏析评测。在第一届的基础上，本届评测进一步聚焦模型的深度理解与复杂推理能力，引入更具挑战性的高级任务，以全面考察模型对古诗词文化内涵与高层语义结构的掌握程度。<h3>Deadline: 2026-09-30T23:59:59+08:00</h3><h3>Reward: ￥6000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532440/introduction</id>
-        <title><![CDATA[CSS体视学挑战赛：2026 CBCT金属伪影消除挑战赛(赛季 3)]]></title>
-        
-        <updated>2025-10-24T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532440/introduction"/>
-        <summary>CSS体视会挑战赛：2026 CBCT金属伪影消除挑战赛</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532440/introduction"><![CDATA[<h3>Description</h3>CSS体视会挑战赛：2026 CBCT金属伪影消除挑战赛<h3>Deadline: 2026-10-01T23:59:59+08:00</h3><h3>Reward: ￥26000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532415/introduction</id>
-        <title><![CDATA[乐聚机器人第一届具身智能操作任务挑战赛&amp;创业启航营(赛季 9)]]></title>
-        
-        <updated>2025-09-15T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532415/introduction"/>
-        <summary>挑战赛分为仿真赛与真机赛两个阶段，以主办方设定的四个难度递进的机器人操作任务为核心，参赛队伍需围绕这些任务开发具备感知与决策能力的模型。参赛选手可利用主办方提供的高质量数据集、Baseline代码及配套开发工具开展模型训练与优化，并在模拟器及真机平台上完成测试与评估。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532415/introduction"><![CDATA[<h3>Description</h3>挑战赛分为仿真赛与真机赛两个阶段，以主办方设定的四个难度递进的机器人操作任务为核心，参赛队伍需围绕这些任务开发具备感知与决策能力的模型。参赛选手可利用主办方提供的高质量数据集、Baseline代码及配套开发工具开展模型训练与优化，并在模拟器及真机平台上完成测试与评估。<h3>Deadline: 2026-07-15T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
