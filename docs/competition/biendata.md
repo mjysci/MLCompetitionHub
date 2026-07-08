@@ -2,7 +2,7 @@
 
 
 
-## JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge <sup style="color:red">[new]<sup>  
+## JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge
 
 Link: https://www.biendata.xyz/competition/jciiot/  
 Description: JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge  
