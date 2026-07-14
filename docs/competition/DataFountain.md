@@ -25,3 +25,11 @@ Description: 具有多模态能力的客服智能体设计
 Deadline: 2026-08-31T23:59:59+0800  
 Reward: ￥145000  
 
+
+## 红外智感—红外开放世界全模态分割挑战
+
+Link: https://www.datafountain.cn/competitions/1164  
+Description: 红外智感—红外开放世界全模态分割挑战  
+Deadline: 2026-07-30T23:59:59+0800  
+Reward: ￥145000  
+
