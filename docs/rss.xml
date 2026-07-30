@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-07-29T18:23:08+08:00</updated>
+    <updated>2026-07-30T18:07:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -287,20 +287,6 @@ AFAC大赛设立算法赛、应用赛的综合赛制结构，旨在以真题促�
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532470/introduction"><![CDATA[<h3>Description</h3>中文古诗词具有高度凝练性和语言的音乐美，讲究对仗、平仄和押韵。为了准确理解古诗的语义，不仅需要掌握古诗的语言特色，还需要调动对历史、文化背景的知识，结合对古诗中所描绘的自然景象和人物情感的认知，从而进行综合性的推理与理解。
 
 为了进一步衡量模型在中文古诗词赏析场景中的语言理解深度与文化推理能力，我们推出第二届中文古诗词赏析评测。在第一届的基础上，本届评测进一步聚焦模型的深度理解与复杂推理能力，引入更具挑战性的高级任务，以全面考察模型对古诗词文化内涵与高层语义结构的掌握程度。<h3>Deadline: 2026-09-30T23:59:59+08:00</h3><h3>Reward: ￥6000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532463/introduction</id>
-        <title><![CDATA[CCL2026-Eval 任务：第一届跨境电商图像文本翻译大赛(赛季 1)]]></title>
-        
-        <updated>2026-03-20T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532463/introduction"/>
-        <summary>中文图翻面临独特挑战：汉字视觉复杂性高、书写方向多样（横排/竖排）、与目标语言存在显著文本长度差异，且蕴含丰富文化内涵。为此，我们举办第一届跨境电商图像文本翻译大赛（In-Image Translation Competition 2026，简称 IITC 2026）：要求选手直接产出高质量的译后图，覆盖英、西、葡、日、法 5 个目标语向。大赛旨在检验并推动图像翻译系统在保持视觉一致性前提下的综合翻译水平。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532463/introduction"><![CDATA[<h3>Description</h3>中文图翻面临独特挑战：汉字视觉复杂性高、书写方向多样（横排/竖排）、与目标语言存在显著文本长度差异，且蕴含丰富文化内涵。为此，我们举办第一届跨境电商图像文本翻译大赛（In-Image Translation Competition 2026，简称 IITC 2026）：要求选手直接产出高质量的译后图，覆盖英、西、葡、日、法 5 个目标语向。大赛旨在检验并推动图像翻译系统在保持视觉一致性前提下的综合翻译水平。<h3>Deadline: 2026-08-14T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
