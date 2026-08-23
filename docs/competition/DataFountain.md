@@ -2,7 +2,7 @@
 
 
 
-## 6G/B6G内生AI：多用户MIMO端到端传输系统设计 <sup style="color:red">[new]<sup>  
+## 6G/B6G内生AI：多用户MIMO端到端传输系统设计
 
 Link: https://www.datafountain.cn/competitions/1176  
 Description: 6G/B6G内生AI：多用户MIMO端到端传输系统设计  
