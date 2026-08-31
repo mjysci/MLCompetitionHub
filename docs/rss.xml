@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-08-30T21:22:47+08:00</updated>
+    <updated>2026-08-31T23:34:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -179,20 +179,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532509/introduction</id>
-        <title><![CDATA[AI+跨境黑客松巅峰赛——用AI解跨境真命题(赛季 1)]]></title>
-        
-        <updated>2026-08-07T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532509/introduction"/>
-        <summary>三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532509/introduction"><![CDATA[<h3>Description</h3>三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。<h3>Deadline: 2026-09-13T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532500/introduction</id>
         <title><![CDATA[CSIG图像图形技术挑战赛-赛道二：生成式图像增强轻量模型设计挑战(赛季 1)]]></title>
         
@@ -229,6 +215,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532482/introduction"/>
         <summary>CSIG图像图形技术挑战赛是由中国图像图形学会（CSIG）主办的系列赛事。本赛道为第七届CSIG图像图形技术挑战赛，由荣旗科技、CSIG视觉检测专委会承办，赛道基于业界极具挑战性的真实工业多视角数据集 Real-IAD Variety（160类，近20万图）。重点考察大模型在面对超大规模类别的异常分类与像素级缺陷分割能力，以及在遭遇全新产品冷启动时，模型在未见类别（零样本/Zero-Shot）上的极限泛化水平。总奖金池4万元，冠军将角逐CSIG挑战赛年度总决赛。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532482/introduction"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛是由中国图像图形学会（CSIG）主办的系列赛事。本赛道为第七届CSIG图像图形技术挑战赛，由荣旗科技、CSIG视觉检测专委会承办，赛道基于业界极具挑战性的真实工业多视角数据集 Real-IAD Variety（160类，近20万图）。重点考察大模型在面对超大规模类别的异常分类与像素级缺陷分割能力，以及在遭遇全新产品冷启动时，模型在未见类别（零样本/Zero-Shot）上的极限泛化水平。总奖金池4万元，冠军将角逐CSIG挑战赛年度总决赛。<h3>Deadline: 2026-09-30T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532509/introduction</id>
+        <title><![CDATA[AI+跨境黑客松巅峰赛——用AI解跨境真命题(赛季 1)]]></title>
+        
+        <updated>2026-08-07T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532509/introduction"/>
+        <summary>三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532509/introduction"><![CDATA[<h3>Description</h3>三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。<h3>Deadline: 2026-09-13T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
