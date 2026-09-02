@@ -2,14 +2,6 @@
 
 
 
-## JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge
-
-Link: https://www.biendata.xyz/competition/jciiot/  
-Description: JCIIOT 2026 Open Competition：Industrial Embodied AI Challenge  
-Deadline: 2026-09-01T08:00:00+0800  
-Reward: 94,000 RMB  
-
-
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
