@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-10-08T23:00:20+08:00</updated>
+    <updated>2026-10-09T22:44:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -133,20 +133,6 @@ SMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532509/introduction</id>
-        <title><![CDATA[AI+跨境黑客松巅峰赛——用AI解跨境真命题(赛季 3)]]></title>
-        
-        <updated>2026-08-07T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532509/introduction"/>
-        <summary>三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532509/introduction"><![CDATA[<h3>Description</h3>三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。<h3>Deadline: 2026-10-08T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532508/introduction</id>
         <title><![CDATA[2026-跨本体具身认知极限联合挑战赛(赛季 1)]]></title>
         
@@ -197,6 +183,20 @@ SMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，
         <link href="https://tianchi.aliyun.com/competition/entrance/532460/introduction"/>
         <summary>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532460/introduction"><![CDATA[<h3>Description</h3>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。<h3>Deadline: 2026-10-31T23:59:59+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532515/introduction</id>
+        <title><![CDATA[OpenLET 具身智能挑战赛(赛季 1)]]></title>
+        
+        <updated>2026-09-23T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532515/introduction"/>
+        <summary>OpenLET 具身智能挑战赛面向高校实验室、企业研发团队与个人开发者，赛事按赛季组织，围绕真实工业任务开放数据、工具与评测支持。参赛队伍可在赛季内持续提交、改进方案，参与月度揭榜与季度评选。首阶段安排冬季仿真赛、春季仿真与真机赛，优秀队伍可争取全球总决赛参赛资格。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532515/introduction"><![CDATA[<h3>Description</h3>OpenLET 具身智能挑战赛面向高校实验室、企业研发团队与个人开发者，赛事按赛季组织，围绕真实工业任务开放数据、工具与评测支持。参赛队伍可在赛季内持续提交、改进方案，参与月度揭榜与季度评选。首阶段安排冬季仿真赛、春季仿真与真机赛，优秀队伍可争取全球总决赛参赛资格。<h3>Deadline: 2026-12-31T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
