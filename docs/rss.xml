@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-10-25T20:49:40+08:00</updated>
+    <updated>2026-10-26T22:37:33+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -99,22 +99,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532511/introduction</id>
-        <title><![CDATA[2026 SMP第十四届全国社会媒体处理大会-大模型图网络决策挑战赛(赛季 1)]]></title>
-        
-        <updated>2026-08-30T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532511/introduction"/>
-        <summary>第十四届全国社会媒体处理大会（SMP 2026）将于2026年11月12日至15日在北京召开。本届大会的主题是“大模型驱动人机共生”，旨在探索在大模型和智能体快速发展给人类社会带来的颠覆性变化以及构建人机和谐共生的社会新生态的路径。
-SMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，天池平台为指定赛事平台。本次比赛以外星文明降临地球的科幻故事为背景，邀请广大开发者和相关技术团队，通过科学的算法与策略设计，探索解决网络演化预测与有效干预等核心难题。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532511/introduction"><![CDATA[<h3>Description</h3>第十四届全国社会媒体处理大会（SMP 2026）将于2026年11月12日至15日在北京召开。本届大会的主题是“大模型驱动人机共生”，旨在探索在大模型和智能体快速发展给人类社会带来的颠覆性变化以及构建人机和谐共生的社会新生态的路径。
-SMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，天池平台为指定赛事平台。本次比赛以外星文明降临地球的科幻故事为背景，邀请广大开发者和相关技术团队，通过科学的算法与策略设计，探索解决网络演化预测与有效干预等核心难题。<h3>Deadline: 2026-10-25T23:59:59+08:00</h3><h3>Reward: ￥55000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532510/introduction</id>
         <title><![CDATA[知乎知学堂大模型挑战赛：大模型复杂表格识别与内容理解(赛季 2)]]></title>
         
@@ -182,7 +166,7 @@ SMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532469/introduction"/>
         <summary>在云计算与大模型技术深度融合的今天，AI应用的边界正在被无限拓宽。学AI，学什么？我们决定听你的！我们不再局限于特定的赛道，而是面向大众征集有意思的AI赛题。无论您是想解决一个具体的行业痛点，还是想探索大模型的创意玩法，这里听大家的！想让你的智慧成为长期的经典赛题吗？快报名参赛吧！你的赛题将会收获万人点赞</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532469/introduction"><![CDATA[<h3>Description</h3>在云计算与大模型技术深度融合的今天，AI应用的边界正在被无限拓宽。学AI，学什么？我们决定听你的！我们不再局限于特定的赛道，而是面向大众征集有意思的AI赛题。无论您是想解决一个具体的行业痛点，还是想探索大模型的创意玩法，这里听大家的！想让你的智慧成为长期的经典赛题吗？快报名参赛吧！你的赛题将会收获万人点赞<h3>Deadline: 2026-10-25T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532469/introduction"><![CDATA[<h3>Description</h3>在云计算与大模型技术深度融合的今天，AI应用的边界正在被无限拓宽。学AI，学什么？我们决定听你的！我们不再局限于特定的赛道，而是面向大众征集有意思的AI赛题。无论您是想解决一个具体的行业痛点，还是想探索大模型的创意玩法，这里听大家的！想让你的智慧成为长期的经典赛题吗？快报名参赛吧！你的赛题将会收获万人点赞<h3>Deadline: 2026-10-26T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
