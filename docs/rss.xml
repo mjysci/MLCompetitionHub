@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2026-10-28T22:35:01+08:00</updated>
+    <updated>2026-11-03T10:06:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -56,25 +56,31 @@
     
     
     
+    
+    
+    
+    
     <entry>
-        <id>https://www.datafountain.cn/competitions/1176</id>
-        <title><![CDATA[6G/B6G内生AI：多用户MIMO端到端传输系统设计]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/532536/introduction</id>
+        <title><![CDATA[2026 Qoder 高校创造力大赛(赛季 1)]]></title>
         
-        <updated>2026-08-16T00:00:00+08:00</updated>
+        <updated>2026-10-29T00:00:00+08:00</updated>
         
-        <link href="https://www.datafountain.cn/competitions/1176"/>
-        <summary>6G/B6G内生AI：多用户MIMO端到端传输系统设计</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/1176"><![CDATA[<h3>Description</h3>6G/B6G内生AI：多用户MIMO端到端传输系统设计<h3>Deadline: 2026-11-29T23:59:59+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/532536/introduction"/>
+        <summary>2026 Qoder 高校创造力大赛面向全国在校大学生（含港澳台本科生与硕博研究生），不限专业。参赛者用 Qoder 完成一个完整项目，部署到 Qoder Sites 并开放公开访问，于 11 月 30 日 18:00 前在天池赛题页论坛发布作品帖。
+
+大赛设 StudyHack 学习科研、LifeHack 生活娱乐、Hack4Good 技术向善三个赛道，分别评分、分别设奖，选手任选其一：StudyHack 征集科研与学习场景的各类应用；LifeHack 征集生活、社团和娱乐场景的应用；Hack4Good 征集体现社会责任、面向特定群体的应用。
+
+1—3 人组队，提交份数不限，每个团队限获一项奖。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532536/introduction"><![CDATA[<h3>Description</h3>2026 Qoder 高校创造力大赛面向全国在校大学生（含港澳台本科生与硕博研究生），不限专业。参赛者用 Qoder 完成一个完整项目，部署到 Qoder Sites 并开放公开访问，于 11 月 30 日 18:00 前在天池赛题页论坛发布作品帖。
+
+大赛设 StudyHack 学习科研、LifeHack 生活娱乐、Hack4Good 技术向善三个赛道，分别评分、分别设奖，选手任选其一：StudyHack 征集科研与学习场景的各类应用；LifeHack 征集生活、社团和娱乐场景的应用；Hack4Good 征集体现社会责任、面向特定群体的应用。
+
+1—3 人组队，提交份数不限，每个团队限获一项奖。<h3>Deadline: 2026-12-15T18:00:00+08:00</h3><h3>Reward: ￥88500</h3>]]></content>
         <author>
-            <name><![CDATA[DataFountain]]></name>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
-    
-    
-    
-    
-    
-    
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532514/introduction</id>
@@ -166,7 +172,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532460/introduction"/>
         <summary>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532460/introduction"><![CDATA[<h3>Description</h3>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。<h3>Deadline: 2026-10-31T23:59:59+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532460/introduction"><![CDATA[<h3>Description</h3>中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。<h3>Deadline: 2026-12-20T23:59:59+08:00</h3><h3>Reward: $30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
