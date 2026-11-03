@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -22,10 +22,12 @@ def get_data():
         url = 'https://god.yanxishe.com/' + competition['id']
         description = competition['desc']
 
-        deadline = datetime.utcfromtimestamp(int(competition['end_time']))
+        deadline = datetime.fromtimestamp(
+            int(competition['end_time']), timezone.utc).replace(tzinfo=None)
         deadline = deadline + timedelta(hours=8)
 
-        start_time = datetime.utcfromtimestamp(int(competition['start_time']))
+        start_time = datetime.fromtimestamp(
+            int(competition['start_time']), timezone.utc).replace(tzinfo=None)
         start_time = start_time + timedelta(hours=8)
 
         reward = competition['bonus']

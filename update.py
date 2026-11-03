@@ -2,7 +2,7 @@ import importlib
 import pkgutil
 import sys
 import traceback
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from dotenv import load_dotenv
 from jinja2 import Environment, PackageLoader
@@ -97,7 +97,7 @@ with open('docs/competition/README.md', 'w') as f:
     f.write(content)
 
 STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+0800'
-update = datetime.utcnow() + timedelta(hours=8)
+update = datetime.now(timezone.utc).replace(tzinfo=None) + timedelta(hours=8)
 update = update.strftime(STANDARD_TIME_FORMAT)
 template = env.get_template('cover.j2')
 content = template.render(update=update)

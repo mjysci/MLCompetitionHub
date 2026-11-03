@@ -1,5 +1,5 @@
 import copy
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from jinja2 import Environment, PackageLoader
 
@@ -42,7 +42,7 @@ def generate(datas_):
             if url not in urls:
                 new_competitions.append(c)
 
-    update = datetime.utcnow() + timedelta(hours=8)
+    update = datetime.now(timezone.utc).replace(tzinfo=None) + timedelta(hours=8)
     update = update.strftime(STANDARD_TIME_FORMAT)
 
     env = Environment(loader=PackageLoader('actions'))

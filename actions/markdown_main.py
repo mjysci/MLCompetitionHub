@@ -1,5 +1,5 @@
 import copy
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from jinja2 import Environment, PackageLoader
 
@@ -10,7 +10,7 @@ MAX_INTERVAL_DAY = 7
 def generate(datas_):
     datas = copy.deepcopy(datas_)
 
-    now_time = datetime.utcnow() + timedelta(hours=8)
+    now_time = datetime.now(timezone.utc).replace(tzinfo=None) + timedelta(hours=8)
     env = Environment(loader=PackageLoader('actions'))
 
     for data in datas:

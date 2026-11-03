@@ -1,5 +1,5 @@
 import copy
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
 
 from jinja2 import Environment, PackageLoader
@@ -37,7 +37,7 @@ def generate(datas_):
             c['description'] = escape(c['description'])
             c['url'] = escape(c['url'])
 
-    update = datetime.utcnow() + timedelta(hours=8)
+    update = datetime.now(timezone.utc).replace(tzinfo=None) + timedelta(hours=8)
     update = update.strftime(STANDARD_TIME_FORMAT)
 
     # 生成 RSS
